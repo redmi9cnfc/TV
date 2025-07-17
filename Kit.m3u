@@ -5973,41 +5973,33 @@ http://45.142.122.146:2022/channel/643b195f/index.mpeg?q=0735200e472104b9752d1c2
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOtkIwdhmt-dn3k0JVzChrIUwbQARi5Nye5CjVKOsF4I.png" group-title="MiTV" tvg-id="hlsproxy-52318",MiTV Arabesque (Sandra)
 http://45.142.122.146:2022/channel/n3fcbf05e/index.mpeg?q=0735200e472104b9752d1c2211774f94
 
-
-#EXTINF:-1 group-title="Кинозалы vf (ограничение)",Vf Юмор +18
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="6129" tvg-logo="http://epg.one/img2/6129.png" tvg-rec="0",VF Юмор 18+
 http://qxvn2aul.ukminlt.org/iptv/DZ3EDCGKT7RB7A/16137/index.m3u8 ?token=791B0998B250E
 #EXTINF:0 tvg-rec="0",Vf Маски Шоу
 #EXTGRP:Кинозалы vf (ограничение)
 http://qxvn2aul.ukminlt.org/iptv/26U243B3RKPZU96BRXRH4GS8/31556/index.?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Каламбур
-#EXTGRP:Кинозалы vf (ограничение)
-http://4uh2gvp9.megogo.xyz/iptv/NCFFXMFX367TN4/31557/index.m3u8?token=k8M5h1RyLb
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="9233" tvg-logo="http://epg.one/img2/9233.png" tvg-rec="0",VF Каламбур
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31557/index.m3u8
 #EXTINF:0 tvg-rec="0",Vf Концерты
 #EXTGRP:Кинозалы vf (ограничение)
 http://oipm7jwg.otttv.pw/iptv/26U243B3RKPZU96BRXRH4GS8/14159/index.?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Квн
-#EXTGRP:Кинозалы vf (ограничение)
-http://fjexywacp.tvclub.xyz/iptv/NCFFXMFX367TN4/14170/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Баня
-#EXTGRP:Кинозалы vf (ограничение)
-http://fc0a91b2.kazaktelekom.com/iptv/NCFFXMFX367TN4/18200/index.m3u8?token=k8M5h1RyLb
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="6419" tvg-logo="http://epg.one/img2/6419.png" tvg-rec="0",VF Баня
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18200/index.m3u8
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="7664" tvg-logo="http://epg.one/img2/7664.png" tvg-rec="0",VF КВН
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14170/index.m3u8
 #EXTINF:0 tvg-rec="0",Vf Однажды В России
 #EXTGRP:Кинозалы vf (ограничение)
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/19286/index.?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Авто
-#EXTGRP:Кинозалы vf (ограничение)
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="5991" tvg-logo="http://epg.one/img2/5991.png" tvg-rec="0",VF Авто
 http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/15511/index.m3u8
 #EXTINF:0 tvg-rec="0",Vf Охота
 #EXTGRP:Кинозалы vf (ограничение)
 http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/15513/index.m3u8
-#EXTINF:0 tvg-rec="0",Vf Домашний Повар
-#EXTGRP:Кинозалы vf (ограничение)
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="5993" tvg-logo="http://epg.one/img2/5993.png" tvg-rec="0",VF Домашний повар
 http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/15514/index.m3u8
-#EXTINF:0 tvg-rec="0",Vf Путешествия
-#EXTGRP:Кинозалы vf (ограничение)
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="5994" tvg-logo="http://epg.one/img2/5994.png" tvg-rec="0",VF Путешествия
 http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/15515/index.m3u8
-#EXTINF:0 tvg-rec="0",Vf Рыбалка
-#EXTGRP:Кинозалы vf (ограничение)
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="6124" tvg-logo="http://epg.one/img2/6124.png" tvg-rec="0",VF Рыбалка
 http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/16138/index.m3u8
 #EXTINF:0 tvg-rec="0",Vf Стройка
 #EXTGRP:Кинозалы vf (ограничение)
@@ -6024,8 +6016,7 @@ http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/9242/index.m3u8?t
 #EXTINF:0 tvg-rec="7",Vf Бесстыжие
 #EXTGRP:Кинозалы vf (ограничение)
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10075/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Владимир Высоцкий
-#EXTGRP:Кинозалы vf (ограничение)
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="7270" tvg-logo="http://epg.one/img2/7270.png" tvg-rec="7",VF Владимир Высоцкий 
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10066/index.m3u8?token=k8M5h1RyLb
 #EXTINF:0 tvg-rec="7",Vf Два С Половиной Человека
 #EXTGRP:Кинозалы vf (ограничение)
@@ -6084,8 +6075,7 @@ http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10007/index.m3u8?
 #EXTINF:0 tvg-rec="7",Vf Ужасы
 #EXTGRP:Кинозалы vf (ограничение)
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10008/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Vhs Mix
-#EXTGRP:Кинозалы vf (ограничение)
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="4600" tvg-logo="http://epg.one/img2/4600.png" tvg-rec="7",VF VHS MIX
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10009/index.m3u8?token=k8M5h1RyLb
 #EXTINF:0 tvg-rec="7",Vf Ужасы Vhs
 #EXTGRP:Кинозалы vf (ограничение)
@@ -6129,7 +6119,7 @@ http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10086/index.m3u8?
 #EXTINF:0 tvg-rec="7",Vf Боевик
 #EXTGRP:Кинозалы vf (ограничение)
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10087/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf 🗡Кинозал🗡Тест 4K
+#EXTINF:0 tvg-rec="0",Vf Кино 4K
 #EXTGRP:Кинозалы vf (ограничение)
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/11114/index.m3u8?token=k8M5h1RyLb
 #EXTINF:0 tvg-rec="0",Vf Сериал 4K
@@ -6192,8 +6182,7 @@ http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13092/index.m3u8?
 #EXTINF:0 tvg-rec="0",Vf Криминал
 #EXTGRP:Кинозалы vf (ограничение)
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13093/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Клиника
-#EXTGRP:Кинозалы vf (ограничение)
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="5207" tvg-logo="http://epg.one/img2/5207.png" tvg-rec="0",VF Клиника
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13094/index.m3u8?token=k8M5h1RyLb
 #EXTINF:0 tvg-rec="0",Vf Луи Де Фюнес
 #EXTGRP:Кинозалы vf (ограничение)
@@ -6261,8 +6250,7 @@ http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18120/index.m3u8?
 #EXTINF:0 tvg-rec="0",Vf Ленфильм
 #EXTGRP:Кинозалы vf (ограничение)
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18121/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Ккиностудия Им. Горького
-#EXTGRP:Кинозалы vf (ограничение)
+#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="6326" tvg-logo="http://epg.one/img2/6326.png" tvg-rec="0",VF Киностудия им. Горького
 http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18122/index.m3u8?token=k8M5h1RyLb
 #EXTINF:0 tvg-rec="0",Vf Рижская Киностудия
 #EXTGRP:Кинозалы vf (ограничение)
