@@ -384,14 +384,11 @@ http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOi
 
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч Страна
 http://77.235.1.19:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
+http://178.219.160.169:8880/193/index.m3u8
 
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/Um0RZuaSjrTMZKWaEaw4mg,1752786012/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/YW3lsq7j2wHOGUHfMR2H2w,1752786012/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1
 http://45.11.139.43:8555/fut1/index.m3u8
@@ -1990,17 +1987,14 @@ http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия
 http://178.217.72.66:8080/multilandiya/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Лёва
-http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI3ODY5ODAsImlhdCI6MTc1MjcwMDU4MCwiY2lkIjo2LCJ1aWQiOjkzMDY0ODc0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.pL7GuspqfEb262_cADxHZuU2-J-4MJbmmrHYhBAkyFI&offset=3
+#EXTINF:0 group-title="Детские" tvg-id="liova" tvg-logo="http://cdn.server-iptv.live/logo/tv/liova.png", Лёва HD
+http://168.119.255.170/526/video.m3u8?token=S89FA532AB
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детские", Duck TV HD
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI3ODY5ODAsImlhdCI6MTc1MjcwMDU4MCwiY2lkIjo2LCJ1aWQiOjkzMDY0ODc0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.pL7GuspqfEb262_cADxHZuU2-J-4MJbmmrHYhBAkyFI&offset=3
+#EXTINF:-1 group-title="Детское" tvg-id="ducktv.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png", Duck TV
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
 
 #EXTINF:-1 group-title="Детские", СТС Kids
-http://95.85.109.218:7000/play/a02e
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI3ODY5ODAsImlhdCI6MTc1MjcwMDU4MCwiY2lkIjo2LCJ1aWQiOjkzMDY0ODc0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.pL7GuspqfEb262_cADxHZuU2-J-4MJbmmrHYhBAkyFI&offset=3
+http://178.212.71.253:8000/play/112/index.m3u8
 
 #EXTINF:-1 tvg-id="baby-time" tvg-logo="https://iptvx.one/picons/baby-time.png" group-title="Детские", Baby Time
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -2018,17 +2012,17 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://178.217.72.66:8080/O/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Уникум
-http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI3ODY5ODAsImlhdCI6MTc1MjcwMDU4MCwiY2lkIjo2LCJ1aWQiOjkzMDY0ODc0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.pL7GuspqfEb262_cADxHZuU2-J-4MJbmmrHYhBAkyFI&offset=3
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/c3SpnVD/unikum.png", Уникум
+http://178.163.15.116:4022/udp/234.0.0.217:2000
 
-#EXTINF:-1 group-title="Детские",Детский Мир
-http://178.124.193.53:8181/play/1437/index.m3u8
+#EXTINF:-1 group-title="Детские", Детский Мир
+http://178.219.160.169:8880/127/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",МультСезон
 http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI3ODY5ODAsImlhdCI6MTc1MjcwMDU4MCwiY2lkIjo2LCJ1aWQiOjkzMDY0ODc0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.pL7GuspqfEb262_cADxHZuU2-J-4MJbmmrHYhBAkyFI&offset=3
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Gulli Girl
-http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI3ODY5ODAsImlhdCI6MTc1MjcwMDU4MCwiY2lkIjo2LCJ1aWQiOjkzMDY0ODc0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.pL7GuspqfEb262_cADxHZuU2-J-4MJbmmrHYhBAkyFI&offset=3
+#EXTINF:-1 group-title="Детские", Gulli Girl
+http://178.219.160.169:8880/130/index.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon
 http://195.245.99.242:80/Nickelodeon/playlist.m3u8
