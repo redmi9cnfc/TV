@@ -1606,7 +1606,8 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://77.235.1.19:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood HD
-https://tvoe.live/api/stream/ch525/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCblCnXoy64idI0mc0Snc716rr5sqW40oCKDpUvCoBZGOKhW
+#EXTVLCOPT:http-user-agent=LIPKITV
+http://178.219.160.169:8880/195/index.m3u8
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Кино и сериалы",Cinema
 http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
