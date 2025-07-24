@@ -3522,6 +3522,7 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 #EXTINF:-1 tvg-logo="https://alimentaryrecipes.com/images/stations/russkiehiti.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
 
+#EXTM3U
 #EXTINF:-1 group-title="Эфирные" tvg-id="hlsproxy-362" tvg-logo="http://1lot.tv/ch/20115.png" ,Первый Канал HD (orig)
 http://45.142.122.146:2022/channel/n4df45c39/index.mpeg?q=0735200e472104b9752d1c2211774f94
 #EXTINF:-1 group-title="Эфирные" tvg-id="hlsproxy-321" tvg-logo="http://45.142.122.146:2022/proxy/https://iptvx.one/picons/ntv-mir.png" ,НТВ Мир
