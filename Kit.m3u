@@ -6495,302 +6495,268 @@ http://ru.team.ga:80/ch3278/mono.m3u8?token=ruslan34.wiUeXue3wyymJduzDR_980I942Y
 
 http://ru.team.ga:80/ch3279/mono.m3u8?token=ruslan34.wiUeXue3wyymJduzDR_986y8FJjotjBusz-FcLs6MUJFzhvKg1-k-3dzpuuDPqhu
 
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="6129" tvg-logo="http://epg.one/img2/6129.png" tvg-rec="0",VF Юмор 18+
-http://qxvn2aul.ukminlt.org/iptv/DZ3EDCGKT7RB7A/16137/index.m3u8 ?token=791B0998B250E
-#EXTINF:0 tvg-rec="0",Vf Маски Шоу
-#EXTGRP:Кинозалы vf (ограничение)
-http://qxvn2aul.ukminlt.org/iptv/26U243B3RKPZU96BRXRH4GS8/31556/index.?token=k8M5h1RyLb
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="9233" tvg-logo="http://epg.one/img2/9233.png" tvg-rec="0",VF Каламбур
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9226" tvg-logo="http://epg.one/img2/9226.png" tvg-rec="3",VF Сериалы Турции
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/9123/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9227" tvg-logo="http://epg.one/img2/9227.png" tvg-rec="0",VF Вестерн
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31553/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7271" tvg-logo="http://epg.one/img2/7271.png" tvg-rec="3",VF Счастливы Вместе
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/9242/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7272" tvg-logo="http://epg.one/img2/7272.png" tvg-rec="7",VF Бесстыжие
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10075/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7270" tvg-logo="http://epg.one/img2/7270.png" tvg-rec="7",VF Владимир Высоцкий 
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10066/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7273" tvg-logo="http://epg.one/img2/7273.png" tvg-rec="7",VF Два с половиной человека
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10062/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6163" tvg-logo="http://epg.one/img2/6163.png" tvg-rec="0",VF Новогодний
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17035/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7274" tvg-logo="http://epg.one/img2/7274.png" tvg-rec="0",VF Ёлки
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14222/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5981" tvg-logo="http://epg.one/img2/5981.png" tvg-rec="0",VF New Year
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15522/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5982" tvg-logo="http://epg.one/img2/5982.png" tvg-rec="0",VF С новым годом!
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15524/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7276" tvg-logo="http://epg.one/img2/7276.png" tvg-rec="0",VF Гарри Поттер
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14230/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7277" tvg-logo="http://epg.one/img2/7277.png" tvg-rec="0",VF Секс в большом городе
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14224/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7275" tvg-logo="http://epg.one/img2/7275.png" tvg-rec="0",VF Карточный домик
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14221/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7278" tvg-logo="http://epg.one/img2/7278.png" tvg-rec="0",VF Disney Movie
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15010/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15009/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4591" tvg-logo="http://epg.one/img2/4591.png" tvg-rec="7",VF Adventure
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10000/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4592" tvg-logo="http://epg.one/img2/4592.png" tvg-rec="7",VF Anime
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10001/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4593" tvg-logo="http://epg.one/img2/4593.png" tvg-rec="7",VF Cartoon
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10002/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4594" tvg-logo="http://epg.one/img2/4594.png" tvg-rec="7",VF Comedy
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10003/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4595" tvg-logo="http://epg.one/img2/4595.png" tvg-rec="7",VF Family
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10004/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4596" tvg-logo="http://epg.one/img2/4596.png" tvg-rec="7",VF Fantasy
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10005/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4597" tvg-logo="http://epg.one/img2/4597.png" tvg-rec="7",VF Melodrama
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10006/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4598" tvg-logo="http://epg.one/img2/4598.png" tvg-rec="7",VF Mystic
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10007/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4599" tvg-logo="http://epg.one/img2/4599.png" tvg-rec="7",VF Ужасы
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10008/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4600" tvg-logo="http://epg.one/img2/4600.png" tvg-rec="7",VF VHS MIX
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10009/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4601" tvg-logo="http://epg.one/img2/4601.png" tvg-rec="7",VF Ужасы VHS
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10010/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4644" tvg-logo="http://epg.one/img2/4644.png" tvg-rec="7",VF Премьера
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10051/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4645" tvg-logo="http://epg.one/img2/4645.png" tvg-rec="7",VF Premiere
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10052/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4646" tvg-logo="http://epg.one/img2/4646.png" tvg-rec="7",VF Классика
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10053/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4647" tvg-logo="http://epg.one/img2/4647.png" tvg-rec="7",VF Classic
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10054/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4648" tvg-logo="http://epg.one/img2/4648.png" tvg-rec="7",VF Комедия
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10055/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4666" tvg-logo="http://epg.one/img2/4666.png" tvg-rec="7",VF Катастрофы
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10080/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4663" tvg-logo="http://epg.one/img2/4663.png" tvg-rec="7",VF Marvel
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10081/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4665" tvg-logo="http://epg.one/img2/4665.png" tvg-rec="7",VF Военные
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10082/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4669" tvg-logo="http://epg.one/img2/4669.png" tvg-rec="7",VF Наша победа
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10083/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4667" tvg-logo="http://epg.one/img2/4667.png" tvg-rec="7",VF Мосфильм
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10084/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4670" tvg-logo="http://epg.one/img2/4670.png" tvg-rec="7",VF Фильмы СССР
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10085/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4668" tvg-logo="http://epg.one/img2/4668.png" tvg-rec="7",VF Мультфильмы СССР
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10086/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4664" tvg-logo="http://epg.one/img2/4664.png" tvg-rec="7",VF Боевик
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10087/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4804" tvg-logo="http://epg.one/img2/4804.png" tvg-rec="0",VF Кино 4K
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11114/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4805" tvg-logo="http://epg.one/img2/4805.png" tvg-rec="0",VF Сериал 4K
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11115/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4789" tvg-logo="http://epg.one/img2/4789.png" tvg-rec="0",VF TOP Series
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11116/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4791" tvg-logo="http://epg.one/img2/4791.png" tvg-rec="0",VF Art house
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11119/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4792" tvg-logo="http://epg.one/img2/4792.png" tvg-rec="0",VF Detective
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11120/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4793" tvg-logo="http://epg.one/img2/4793.png" tvg-rec="0",VF Fantastic
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11121/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4794" tvg-logo="http://epg.one/img2/4794.png" tvg-rec="0",VF Оскар
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11122/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5193" tvg-logo="http://epg.one/img2/5193.png" tvg-rec="0",VF Сваты
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13080/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5194" tvg-logo="http://epg.one/img2/5194.png" tvg-rec="0",VF Солдаты
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13081/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5195" tvg-logo="http://epg.one/img2/5195.png" tvg-rec="0",VF Тайны следствия
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13082/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5196" tvg-logo="http://epg.one/img2/5196.png" tvg-rec="0",VF Воронины
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13083/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5197" tvg-logo="http://epg.one/img2/5197.png" tvg-rec="0",VF Универ
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13084/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5198" tvg-logo="http://epg.one/img2/5198.png" tvg-rec="0",VF Series
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13085/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5199" tvg-logo="http://epg.one/img2/5199.png" tvg-rec="0",VF След
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13086/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5200" tvg-logo="http://epg.one/img2/5200.png" tvg-rec="0",VF Сериал
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13087/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5201" tvg-logo="http://epg.one/img2/5201.png" tvg-rec="0",VF Мыльные оперы
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13088/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5202" tvg-logo="http://epg.one/img2/5202.png" tvg-rec="0",VF Thriller
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13089/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5203" tvg-logo="http://epg.one/img2/5203.png" tvg-rec="0",VF Индия
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13090/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5204" tvg-logo="http://epg.one/img2/5204.png" tvg-rec="0",VF История
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13091/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5205" tvg-logo="http://epg.one/img2/5205.png" tvg-rec="0",VF Comics
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13092/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5206" tvg-logo="http://epg.one/img2/5206.png" tvg-rec="0",VF Криминал
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13093/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5207" tvg-logo="http://epg.one/img2/5207.png" tvg-rec="0",VF Клиника
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13094/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6144" tvg-logo="http://epg.one/img2/6144.png" tvg-rec="0",VF Луи де Фюнес
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17000/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6145" tvg-logo="http://epg.one/img2/6145.png" tvg-rec="0",VF Чернобыль
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17001/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6146" tvg-logo="http://epg.one/img2/6146.png" tvg-rec="0",VF The X-Files
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17002/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6147" tvg-logo="http://epg.one/img2/6147.png" tvg-rec="0",VF Сверхъестественное
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17003/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6148" tvg-logo="http://epg.one/img2/6148.png" tvg-rec="0",VF Леонид Гайдай
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17004/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6149" tvg-logo="http://epg.one/img2/6149.png" tvg-rec="0",VF Американская история ужасов
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17005/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6150" tvg-logo="http://epg.one/img2/6150.png" tvg-rec="0",VF Друзья
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17006/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6151" tvg-logo="http://epg.one/img2/6151.png" tvg-rec="0",VF СашаТаня
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17008/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6152" tvg-logo="http://epg.one/img2/6152.png" tvg-rec="0",VF Джеки Чан
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17009/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6153" tvg-logo="http://epg.one/img2/6153.png" tvg-rec="0",VF Наша Раша
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17010/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6154" tvg-logo="http://epg.one/img2/6154.png" tvg-rec="0",VF Привет из 90х
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17011/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6155" tvg-logo="http://epg.one/img2/6155.png" tvg-rec="0",VF Эльдар Рязанов
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17012/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6156" tvg-logo="http://epg.one/img2/6156.png" tvg-rec="0",VF Универ новая общага
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17013/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6157" tvg-logo="http://epg.one/img2/6157.png" tvg-rec="0",VF Ходячие мертвецы
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17014/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6158" tvg-logo="http://epg.one/img2/6158.png" tvg-rec="0",VF Реальные пацаны
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17015/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6159" tvg-logo="http://epg.one/img2/6159.png" tvg-rec="0",VF Доктор Хаус
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17016/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6160" tvg-logo="http://epg.one/img2/6160.png" tvg-rec="0",VF Без цензуры
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17017/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6226" tvg-logo="http://epg.one/img2/6226.png" tvg-rec="0",VF Городок
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18097/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6284" tvg-logo="http://epg.one/img2/6284.png" tvg-rec="0",VF Comedy Woman
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18101/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6323" tvg-logo="http://epg.one/img2/6323.png" tvg-rec="0",VF Игра престолов
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18119/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6324" tvg-logo="http://epg.one/img2/6324.png" tvg-rec="0",VF Одесская киностудия
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18120/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6325" tvg-logo="http://epg.one/img2/6325.png" tvg-rec="0",VF Ленфильм
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18121/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6326" tvg-logo="http://epg.one/img2/6326.png" tvg-rec="0",VF Киностудия им. Горького
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18122/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6327" tvg-logo="http://epg.one/img2/6327.png" tvg-rec="0",VF Рижская киностудия
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18123/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6328" tvg-logo="http://epg.one/img2/6328.png" tvg-rec="0",VF Свердловская киностудия
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18124/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6329" tvg-logo="http://epg.one/img2/6329.png" tvg-rec="0",VF Беларусьфильм
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18125/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6823" tvg-logo="http://epg.one/img2/6823.png" tvg-rec="0",VF Netflix
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/19427/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6824" tvg-logo="http://epg.one/img2/6824.png" tvg-rec="0",VF HBO
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/19428/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9230" tvg-logo="http://epg.one/img2/9230.png" tvg-rec="0",VF Michael Jackson
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31554/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9228" tvg-logo="http://epg.one/img2/9228.png" tvg-rec="0",VF Король и Шут
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31555/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7573" tvg-logo="http://epg.one/img2/7573.png" tvg-rec="7",VF Легенды Ретро ФМ
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10067/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6135" tvg-logo="http://epg.one/img2/6135.png" tvg-rec="0",VF Музыкальный Новый год!
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/16140/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7552" tvg-logo="http://epg.one/img2/7552.png" tvg-rec="0",VF Modern Talking
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14004/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7553" tvg-logo="http://epg.one/img2/7553.png" tvg-rec="0",VF Britney Spears
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14005/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5985" tvg-logo="http://epg.one/img2/5985.png" tvg-rec="0",VF Музыка
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15512/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5986" tvg-logo="http://epg.one/img2/5986.png" tvg-rec="0",VF Music
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15516/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5987" tvg-logo="http://epg.one/img2/5987.png" tvg-rec="0",VF Rock
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15517/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5988" tvg-logo="http://epg.one/img2/5988.png" tvg-rec="0",VF Караоке
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15518/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5989" tvg-logo="http://epg.one/img2/5989.png" tvg-rec="0",VF Шансон
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15519/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5990" tvg-logo="http://epg.one/img2/5990.png" tvg-rec="0",VF Музсоюз
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15521/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6168" tvg-logo="http://epg.one/img2/6168.png" tvg-rec="0",VF Metal
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17033/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6169" tvg-logo="http://epg.one/img2/6169.png" tvg-rec="0",VF Rap
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17034/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6170" tvg-logo="http://epg.one/img2/6170.png" tvg-rec="0",VF Хит-парад
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17036/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6171" tvg-logo="http://epg.one/img2/6171.png" tvg-rec="0",VF Русский рок
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17037/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7593" tvg-logo="http://epg.one/img2/7593.png" tvg-rec="0",VF Disney Cartoon
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15027/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7594" tvg-logo="http://epg.one/img2/7594.png" tvg-rec="0",VF Союзмультфильм
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14238/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7595" tvg-logo="http://epg.one/img2/7595.png" tvg-rec="0",VF Ералаш
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14163/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4790" tvg-logo="http://epg.one/img2/4790.png" tvg-rec="0",VF VHS Cartoon
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11118/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4795" tvg-logo="http://epg.one/img2/4795.png" tvg-rec="0",VF Малыш
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11123/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5995" tvg-logo="http://epg.one/img2/5995.png" tvg-rec="0",VF Мультуб
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15520/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5996" tvg-logo="http://epg.one/img2/5996.png" tvg-rec="0",VF Новогодние мультфильмы
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15523/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6162" tvg-logo="http://epg.one/img2/6162.png" tvg-rec="0",VF Скуби-Ду
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17007/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5991" tvg-logo="http://epg.one/img2/5991.png" tvg-rec="0",VF Авто
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15511/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5992" tvg-logo="http://epg.one/img2/5992.png" tvg-rec="0",VF Охота
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15513/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5993" tvg-logo="http://epg.one/img2/5993.png" tvg-rec="0",VF Домашний повар
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15514/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5994" tvg-logo="http://epg.one/img2/5994.png" tvg-rec="0",VF Путешествия
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15515/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6124" tvg-logo="http://epg.one/img2/6124.png" tvg-rec="0",VF Рыбалка
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/16138/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6125" tvg-logo="http://epg.one/img2/6125.png" tvg-rec="0",VF Стройка
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/16139/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9232" tvg-logo="http://epg.one/img2/9232.png" tvg-rec="0",VF Маски Шоу
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31556/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9233" tvg-logo="http://epg.one/img2/9233.png" tvg-rec="0",VF Каламбур
 http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31557/index.m3u8
-#EXTINF:0 tvg-rec="0",Vf Концерты
-#EXTGRP:Кинозалы vf (ограничение)
-http://oipm7jwg.otttv.pw/iptv/26U243B3RKPZU96BRXRH4GS8/14159/index.?token=k8M5h1RyLb
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="6419" tvg-logo="http://epg.one/img2/6419.png" tvg-rec="0",VF Баня
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18200/index.m3u8
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="7664" tvg-logo="http://epg.one/img2/7664.png" tvg-rec="0",VF КВН
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9328" tvg-logo="http://epg.one/img2/9328.png" tvg-rec="0",VF Орел и решка
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31476/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7663" tvg-logo="http://epg.one/img2/7663.png" tvg-rec="0",VF Концерты
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14159/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7664" tvg-logo="http://epg.one/img2/7664.png" tvg-rec="0",VF КВН
 http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14170/index.m3u8
-#EXTINF:0 tvg-rec="0",Vf Однажды В России
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/19286/index.?token=k8M5h1RyLb
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="5991" tvg-logo="http://epg.one/img2/5991.png" tvg-rec="0",VF Авто
-http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/15511/index.m3u8
-#EXTINF:0 tvg-rec="0",Vf Охота
-#EXTGRP:Кинозалы vf (ограничение)
-http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/15513/index.m3u8
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="5993" tvg-logo="http://epg.one/img2/5993.png" tvg-rec="0",VF Домашний повар
-http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/15514/index.m3u8
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="5994" tvg-logo="http://epg.one/img2/5994.png" tvg-rec="0",VF Путешествия
-http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/15515/index.m3u8
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="6124" tvg-logo="http://epg.one/img2/6124.png" tvg-rec="0",VF Рыбалка
-http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/16138/index.m3u8
-#EXTINF:0 tvg-rec="0",Vf Стройка
-#EXTGRP:Кинозалы vf (ограничение)
-http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/16139/index.m3u8
-#EXTINF:0 tvg-rec="3",Vf Сериалы Турции
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/9123/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Вестерн
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/31553/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="3",Vf Счастливы Вместе
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/9242/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Бесстыжие
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10075/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="7270" tvg-logo="http://epg.one/img2/7270.png" tvg-rec="7",VF Владимир Высоцкий
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10066/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Два С Половиной Человека
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10062/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Новогодний
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17035/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Ёлки
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/14222/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf New Year
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/15522/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf С Новым Годом!
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/15524/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Гарри Поттер
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/14230/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Секс В Большом Городе
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/14224/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Карточный Домик
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/14221/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Disney Movie
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/15010/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Теория Большого Взрыва
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/15009/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Adventure
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10000/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Anime
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10001/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Cartoon
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10002/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Comedy
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10003/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Family
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10004/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Fantasy
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10005/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Melodrama
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10006/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Mystic
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10007/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Ужасы
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10008/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="4600" tvg-logo="http://epg.one/img2/4600.png" tvg-rec="7",VF VHS MIX
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10009/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Ужасы Vhs
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10010/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Премьера
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10051/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Premiere
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10052/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Классика
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10053/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Classic
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10054/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Комедия
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10055/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Катастрофы
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10080/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Marvel
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10081/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Военные
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10082/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Наша Победа
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10083/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Мосфильм
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10084/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Фильмы Ссср
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10085/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Мультфильмы Ссср
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10086/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="7",Vf Боевик
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/10087/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Кино 4K
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/11114/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Сериал 4K
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/11115/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Top Series
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/11116/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Art House
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/11119/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Detective
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/11120/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Fantastic
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/11121/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Оскар
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/11122/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Сваты
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13080/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Солдаты
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13081/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Тайны Следствия
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13082/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Воронины
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13083/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Универ
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13084/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Series
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13085/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf След
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13086/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Сериал
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13087/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Мыльные Оперы
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13088/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Thriller
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13089/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Индия
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13090/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf История
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13091/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Comics
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13092/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Криминал
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13093/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="5207" tvg-logo="http://epg.one/img2/5207.png" tvg-rec="0",VF Клиника
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/13094/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Луи Де Фюнес
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17000/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Чернобыль
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17001/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf The X-Files
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17002/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Сверхъестественное
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17003/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Леонид Гайдай
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17004/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Американская История Ужасов
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17005/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Друзья
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17006/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Сашатаня
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17008/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Джеки Чан
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17009/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Наша Раша
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17010/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Привет Из 90Х
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17011/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Эльдар Рязанов
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17012/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Универ Новая Общага
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17013/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Ходячие Мертвецы
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17014/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Реальные Пацаны
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17015/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Доктор Хаус
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17016/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Без Цензуры
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/17017/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Городок
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18097/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Comedy Woman
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18101/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Игра Престолов
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18119/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Одесская Киностудия
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18120/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Ленфильм
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18121/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 group-title="Кинозалы vf (ограничение)" tvg-id="6326" tvg-logo="http://epg.one/img2/6326.png" tvg-rec="0",VF Киностудия им. Горького
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18122/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Рижская Киностудия
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18123/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Свердловская Киностудия
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18124/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Беларусьфильм
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/18125/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Netflix
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/19427/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 tvg-rec="0",Vf Hbo
-#EXTGRP:Кинозалы vf (ограничение)
-http://6e8e416e.rossteleccom.net/iptv/26U243B3RKPZU96BRXRH4GS8/19428/index.m3u8?token=k8M5h1RyLb
-#EXTINF:0 group-title="Кинозалы vf (ограничение)"tvg-id="4790" tvg-logo="http://epg.one/img2/4790.png" tvg-rec="0",Vf Vhs Cartoon
-http://rhsbjv7k.tvclub.xyz/iptv/3BWRE8L236HE9A/11118/index.?token=k8M5h1RyLb
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6129" tvg-logo="http://epg.one/img2/6129.png" tvg-rec="0",VF Юмор 18+
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/16137/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6417" tvg-logo="http://epg.one/img2/6417.png" tvg-rec="0",VF Уральские пельмени
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18198/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6418" tvg-logo="http://epg.one/img2/6418.png" tvg-rec="0",VF Кухня
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18199/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6419" tvg-logo="http://epg.one/img2/6419.png" tvg-rec="0",VF Баня
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18200/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6706" tvg-logo="http://epg.one/img2/6706.png" tvg-rec="0",VF Однажды в России
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/19286/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7714" tvg-logo="http://epg.one/img2/7714.png" tvg-rec="0",VF Граиндхаус
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14158/index.m3u8
+#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4800" tvg-logo="http://epg.one/img2/4800.png" tvg-rec="0",VF Cartoon 18+
+http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11117/index.m3u8
 #EXTINF:-1 group-title="4К" tvg-id="hlsproxy-53142" tvg-logo="http://1lot.tv/ch/6313.png" ,Home UHD
 http://45.142.122.146:2022/channel/729a2f0b/index.mpeg?q=0735200e472104b9752d1c2211774f94
 #EXTINF:-1 group-title="4К" tvg-id="hlsproxy-9147" tvg-logo="http://1lot.tv/ch/6314.png" ,Инсайт ТВ UHD
