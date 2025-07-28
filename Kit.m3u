@@ -2313,9 +2313,6 @@ http://178.217.72.66:8080/ctc_kids_hd/index.m3u8
 #EXTINF:-1 tvg-id="baby-time" group-title="Детские", Baby Time
 http://158.160.149.81:8080/8185/index.m3u8
 
-#EXTINF:-1 tvg-id="baby-time" group-title="Детские", Baby TV
-http://185.26.157.3:8080/live/babytv/mono.m3u8
-
 #EXTINF:-1 group-title="Детские", В гостях у сказки
 http://178.217.72.66:8080/Black/index.m3u8
 
