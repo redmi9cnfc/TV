@@ -2363,9 +2363,9 @@ http://m3u.uztv.su:2022/channel/n7ac347df/index.mpeg?q=f238a78cfe88396f95a0eada1
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-40" tvg-logo="http://1lot.tv/ch/10697.png" catchup="shift" catchup-days="1",Baby Time
 http://m3u.uztv.su:2022/channel/n6b02ee64/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
 
-#EXTINF:-1 group-title="Киномания " tvg-id="hlsproxy-55465" tvg-logo="http://1lot.tv/ch/6274.png" catchup="shift" catchup-days="7",BCU Action HD
+#EXTINF:-1 group-title="Киномания " tvg-id="hlsproxy-55465" tvg-logo="http://1lot.tv/ch/6274.png" catchup="shift" catchup-days="1",BCU Action HD
 http://m3u.uztv.su:2022/channel/n2a7f5ea1/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
-#EXTINF:-1 group-title="Киномания " tvg-id="hlsproxy-55464" tvg-logo="http://1lot.tv/ch/6275.png" catchup="shift" catchup-days="7",BCU Catastrophe HD
+#EXTINF:-1 group-title="Киномания " tvg-id="hlsproxy-55464" tvg-logo="http://1lot.tv/ch/6275.png" catchup="shift" catchup-days="1"BCU Catastrophe HD
 http://m3u.uztv.su:2022/channel/2959495f/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
 #EXTINF:-1 group-title="Киномания " tvg-id="hlsproxy-53995" tvg-logo="http://1lot.tv/ch/6276.png" catchup="shift" catchup-days="1",BCU Cinema HD
 http://m3u.uztv.su:2022/channel/28f5aec4/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
