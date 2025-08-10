@@ -2166,8 +2166,7 @@ http://m3u.uztv.su:2022/channel/n205cb2f6/index.mpeg?q=f238a78cfe88396f95a0eada1
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-277" tvg-logo="http://1lot.tv/ch/822.png" catchup="shift" catchup-days="2",Карусель
 http://m3u.uztv.su:2022/channel/n5fdd2287/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-40" tvg-logo="http://1lot.tv/ch/10697.png" catchup="shift" catchup-days="1",Baby Time
-http://m3u.uztv.su:2022/channel/n6b02ee64/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
-
+http://158.160.149.81:8080/8185/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-178" tvg-logo="http://1lot.tv/ch/2121.png" catchup="shift" catchup-days="2",TiJi
 http://m3u.uztv.su:2022/channel/n7222ae31/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-102" tvg-logo="http://1lot.tv/ch/708.png" catchup="shift" catchup-days="1",JimJam
@@ -2190,9 +2189,9 @@ http://m3u.uztv.su:2022/channel/6516c227/index.mpeg?q=f238a78cfe88396f95a0eada1b
 http://m3u.uztv.su:2022/channel/6f1b8ee3/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="http://epg.one/img2/323.png" catchup="shift" catchup-days="1",2х2
 http://m3u.uztv.su:2022/channel/361fe1c4/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="http://1lot.tv/ch/7582.png" catchup="shift" catchup-days="1" tvg-shift="+4",2х2 (+4)
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="https://iptvx.one/picons/2na2-pl4.png" catchup="shift" catchup-days="1" tvg-shift="+4",2х2 (+4)
 http://m3u.uztv.su:2022/channel/7f05f94/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="http://1lot.tv/ch/8061.png" catchup="shift" catchup-days="1" tvg-shift="+7",2х2 (+7)
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="https://iptvx.one/picons/2na2-pl7.png" catchup="shift" catchup-days="1" tvg-shift="+7",2х2 (+7)
 http://m3u.uztv.su:2022/channel/7f05ff1/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-54501" tvg-logo="http://1lot.tv/ch/5571.png" catchup="shift" catchup-days="3",СТС Kids
 http://m3u.uztv.su:2022/channel/21a6b828/index.mpeg?q=f238a78cfe88396f95a0eada1b2fe35b
