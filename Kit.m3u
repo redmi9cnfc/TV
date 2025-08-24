@@ -197,13 +197,13 @@ http://45.142.122.146/channel/7ad0fcce/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 #EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="14" group-title="Развлекательные",Ю
 #EXTGRP:Развлекательные
 http://45.142.122.146/channel/24826d4a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="14" tvg-shift="+2" group-title="Развлекательные",Ю +2
+#EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="14" tvg-shift="+2" group-title="Развлекательные" catchup="shift" catchup-days="1",Ю +2
 #EXTGRP:Развлекательные
 http://45.142.122.146/channel/n5a136c03/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="14" tvg-shift="+4" group-title="Развлекательные",Ю +4
+#EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="14" tvg-shift="+4" group-title="Развлекательные" catchup="shift" catchup-days="1",Ю +4
 #EXTGRP:Развлекательные
 http://45.142.122.146/channel/n5a136c01/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="14" tvg-shift="+7" group-title="Развлекательные",Ю +7
+#EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="14" tvg-shift="+7" group-title="Развлекательные" catchup="shift" catchup-days="1",Ю +7
 #EXTGRP:Развлекательные
 http://45.142.122.146/channel/n5a136bfe/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:0 tvg-id="hlsproxy-134" tvg-logo="http://45.142.122.146/proxy/https://iptvx.one/picons/360-int.png" tvg-rec="14" group-title="Развлекательные",360
@@ -215,6 +215,20 @@ http://45.142.122.146/channel/n64c23705/index.mpeg?q=f1946a9b4cdb204a2f64769f45b
 #EXTINF:0 tvg-id="hlsproxy-431" tvg-logo="http://45.142.122.146/proxy/https://iptvx.one/picons/subbota.png" tvg-rec="14" group-title="Развлекательные",Суббота! HD
 #EXTGRP:Развлекательные
 http://45.142.122.146/channel/n65002dbf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Развлекательные" tvg-id="no_epg" tvg-logo="https://i.ibb.co/JxsftFt/Bgs-HOk-LS-400x400.jpg" catchup="shift" catchup-days="1", Залипательные ролики
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлекательные" tvg-id="no_epg" tvg-logo="https://i.ibb.co/JxsftFt/Bgs-HOk-LS-400x400.jpg" catchup="shift" catchup-days="1", Залипательные ролики 2
+https://30a-tv.com/feeds/720p/63.m3u8
+
+#EXTINF:-1 group-title="Развлекательные" tvg-id="no_epg" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" catchup="shift" catchup-days="1", People Are Awesome
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+
+#EXTINF:-1 group-title="Развлекательные" tvg-id="no_epg" tvg-logo="https://i.ibb.co/GFf07Mq/Screenshot-2.jpg" catchup="shift" catchup-days="1",5-Minute Crafts Live
+https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb5638186573608684ce3b78d3f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0fcb05c41d064a2ac154d937b58e683179fc914bfd1d6469845d376f417c896a58ed611e033a059896f58c41222404facc21fa1dc4ea5d39b1b48f6130d736e99623ef184281993554c4cfd85a4d7d11252bce00e936124b50f9c4e9672f70305e4e6932d8b899aa5306a2ba5d7556e23a1f7b381f22c739674fabba3b5191acaa3442817993f9c4abf5be1204860f96af0b0965a0f41bb7129dcb265d1f09796fdbf9d4fd308c5d4f7972a7883026e0dab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a552e73d72094ce3b21f5e434d6fd9a1335e6737901396a6a08b40000ee8f8daed800268755e39664cdab2a920e1cdaa4f3a19ce542a650e60349e16d964da40044019c010d7a31e67c7610528f5ac2b524a66f49ce799e636abe83be00ba929ef89f95b2e9944b136e0c16ec68d22/46/960x540_2200000/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные" catchup="shift" catchup-days="1",JUST TV
+https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8_output_0.m3u8
 #EXTINF:0 tvg-id="hlsproxy-9" tvg-logo="http://45.142.122.146/proxy/https://iptvx.one/picons/doktor.png" tvg-rec="14" group-title="Развлекательные",Доктор
 #EXTGRP:Развлекательные
 http://45.142.122.146/channel/n13599ce8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
@@ -4075,13 +4089,11 @@ http://45.142.122.146/channel/7f05ff1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32
 http://45.142.122.146/channel/21a6b828/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55103" tvg-logo="http://1lot.tv/ch/6304.png" catchup="shift" catchup-days="1",FAN HD
 http://45.142.122.146/channel/71b95da4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-logo="https://rstatic.oshkole.ru/editor_images/215777.jpg" catchup="shift" catchup-days="3" tvg-id="no_epg_mult", Мультики
+#EXTINF:-1 group-title="Детские" tvg-logo="https://www.dropbox.com/scl/fi/4579slwiofz86cuxu6z37/Picsart_25-08-24_18-26-34-850.png?rlkey=jywrvtwkethn16lwwd5fydl8k&st=4hic7mq0&dl=1" catchup="shift" catchup-days="3" tvg-id="no_epg_mult", Мультики
 https://v2.catcast.tv/content/47757/index.m3u8?password=kizugtv
-#EXTINF:-1 group-title="Детские" tvg-logo="https://rstatic.oshkole.ru/editor_images/215777.jpg" catchup="shift" catchup-days="3" tvg-id="no_epg_mult", Мультики 2
+#EXTINF:-1 group-title="Детские" tvg-logo="https://www.dropbox.com/scl/fi/4579slwiofz86cuxu6z37/Picsart_25-08-24_18-26-34-850.png?rlkey=jywrvtwkethn16lwwd5fydl8k&st=4hic7mq0&dl=1" catchup="shift" catchup-days="3" tvg-id="no_epg_mult", Мультики 2
 https://v2.catcast.tv/content/47786/index.m3u8?password=kizugtv
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://tmsearch.onlinepatent.ru/images/34a/34ad2b69-e297-4db9-b698-e8a00c89aa58.jpg" catchup="shift" catchup-days="3", Маша и Медведь
-https://glb.bozztv.com/glb/ushba78/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-masha-i-medved-nadpis-na-prozrachnom-fone-12.jpg" catchup="shift" catchup-days="3", Маша и Медведь 2
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://images-s.kinorium.com/movie/logo/578724/h280_51498408.png" catchup="shift" catchup-days="3", Маша и Медведь
 https://glb.bozztv.com/glb/ushba79/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-22070" tvg-logo="http://1lot.tv/ch/6546.png" catchup="shift" catchup-days="7",Смайл ТВ
 http://45.142.122.146/channel/n29d6a6ac/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
@@ -4233,10 +4245,10 @@ http://45.142.122.146/channel/3faf8616/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/n79fe8a0a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="LIBERTYMUUKRFHD" tvg-logo="http://1lot.tv/ch/9504.png" catchup="shift" catchup-days="1",LIBERTY Мульт UKR FHD
 http://45.142.122.146/channel/22cdaba4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="skycam_simpsony" tvg-name=skycam_simpsony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_simpsony.png",SkyCam Симпсоны
+#EXTINF:0 tvg-id="skycam_simpsony" tvg-name=skycam_simpsony group-title="Kernel TV" TV tvg-logo="https://epg.pw/media/images/epg/2025/03/31/20250331020826940291_39.png" catchup="shift" catchup-days="1",SkyCam Симпсоны
 #EXTGRP:Детские
 http://45.142.122.146/channel/66e77351/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="skycam_south_park" tvg-name=skycam_south_park group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_south_park.png",SkyCam Южный Парк
+#EXTINF:0 tvg-id="skycam_south_park" tvg-name=skycam_south_park group-title="Kernel TV" TV tvg-logo="https://epg.pw/media/images/epg/2025/03/31/20250331021703748868_27.png" catchup="shift" catchup-days="1",SkyCam Южный Парк
 #EXTGRP:Детские
 http://45.142.122.146/channel/24fcacf4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-52" tvg-logo="http://1lot.tv/ch/9665.png" catchup="shift" catchup-days="1",Cartoon Classics
@@ -4265,127 +4277,127 @@ http://45.142.122.146/channel/n7aa50597/index.mpeg?q=f1946a9b4cdb204a2f64769f45b
 http://45.142.122.146/channel/9f438c8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10044.png" catchup="shift" catchup-days="7",Jetix Anime
 http://45.142.122.146/channel/n7ac347df/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_aladdin" tvg-name=kernel_aladdin group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_aladdin.png",Kernel TV Аладдин
+#EXTINF:0 tvg-id="kernel_aladdin" tvg-name=kernel_aladdin group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_aladdin.png" catchup="shift" catchup-days="1",Kernel TV Аладдин
 #EXTGRP:Детские
 http://45.142.122.146/channel/n384dd69a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_alice" tvg-name=kernel_alice group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_alice.png",Kernel TV Алиса
+#EXTINF:0 tvg-id="kernel_alice" tvg-name=kernel_alice group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_alice.png" catchup="shift" catchup-days="1",Kernel TV Алиса
 #EXTGRP:Детские
 http://45.142.122.146/channel/32d76e7b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_anime" tvg-name=kernel_anime group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_anime.png",Kernel TV Аниме
+#EXTINF:0 tvg-id="kernel_anime" tvg-name=kernel_anime group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_anime.png" catchup="shift" catchup-days="1",Kernel TV Аниме
 #EXTGRP:Детские
 http://45.142.122.146/channel/3bc6753c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_barboskiny" tvg-name=kernel_barboskiny group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_barboskiny.png",Kernel TV Барбоскины
+#EXTINF:0 tvg-id="kernel_barboskiny" tvg-name=kernel_barboskiny group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_barboskiny.png" catchup="shift" catchup-days="1",Kernel TV Барбоскины
 #EXTGRP:Детские
 http://45.142.122.146/channel/n1bfecd92/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_ben_ten" tvg-name=kernel_ben_ten group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ben_ten.png",Kernel TV Бен 10
+#EXTINF:0 tvg-id="kernel_ben_ten" tvg-name=kernel_ben_ten group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ben_ten.png" catchup="shift" catchup-days="1",Kernel TV Бен 10
 #EXTGRP:Детские
 http://45.142.122.146/channel/6e641ef5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_buba" tvg-name=kernel_buba group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_buba.png",Kernel TV Буба
+#EXTINF:0 tvg-id="kernel_buba" tvg-name=kernel_buba group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_buba.png" catchup="shift" catchup-days="1",Kernel TV Буба
 #EXTGRP:Детские
 http://45.142.122.146/channel/5c761129/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_carevny" tvg-name=kernel_carevny group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_carevny.png",Kernel TV Царевны
+#EXTINF:0 tvg-id="kernel_carevny" tvg-name=kernel_carevny group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_carevny.png" catchup="shift" catchup-days="1",Kernel TV Царевны
 #EXTGRP:Детские
 http://45.142.122.146/channel/26b6ab51/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_chernyy_plashch" tvg-name=kernel_chernyy_plashch group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_chernyy_plashch.png",Kernel TV Чёрный плащ
+#EXTINF:0 tvg-id="kernel_chernyy_plashch" tvg-name=kernel_chernyy_plashch group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_chernyy_plashch.png" catchup="shift" catchup-days="1",Kernel TV Чёрный плащ
 #EXTGRP:Детские
 http://45.142.122.146/channel/2c1325b1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_chip_i_deyl" tvg-name=kernel_chip_i_deyl group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_chip_i_deyl.png",Kernel TV Чип и Дейл
+#EXTINF:0 tvg-id="kernel_chip_i_deyl" tvg-name=kernel_chip_i_deyl group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_chip_i_deyl.png" catchup="shift" catchup-days="1",Kernel TV Чип и Дейл
 #EXTGRP:Детские
 http://45.142.122.146/channel/3263dacd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_dracony_i_vsadniki" tvg-name=kernel_dracony_i_vsadniki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_dracony_i_vsadniki.png",Kernel TV Драконы и всадники Олуха
+#EXTINF:0 tvg-id="kernel_dracony_i_vsadniki" tvg-name=kernel_dracony_i_vsadniki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_dracony_i_vsadniki.png" catchup="shift" catchup-days="1",Kernel TV Драконы и всадники Олуха
 #EXTGRP:Детские
 http://45.142.122.146/channel/4e0c695f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_ductles" tvg-name=kernel_ductles group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ductles.png",Kernel TV Утиные истории
+#EXTINF:0 tvg-id="kernel_ductles" tvg-name=kernel_ductles group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ductles.png" catchup="shift" catchup-days="1",Kernel TV Утиные истории
 #EXTGRP:Детские
 http://45.142.122.146/channel/n5b11e2bf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_fines_i_ferb" tvg-name=kernel_fines_i_ferb group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_fines_i_ferb.png",Kernel TV Финис и Ферб
+#EXTINF:0 tvg-id="kernel_fines_i_ferb" tvg-name=kernel_fines_i_ferb group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_fines_i_ferb.png" catchup="shift" catchup-days="1",Kernel TV Финис и Ферб
 #EXTGRP:Детские
 http://45.142.122.146/channel/n33df0c78/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_fixiki" tvg-name=kernel_fixiki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_fixiki.png",Kernel TV Фиксики
+#EXTINF:0 tvg-id="kernel_fixiki" tvg-name=kernel_fixiki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_fixiki.png" catchup="shift" catchup-days="1",Kernel TV Фиксики
 #EXTGRP:Детские
 http://45.142.122.146/channel/n1adcdc49/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_futurama" tvg-name=kernel_futurama group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_futurama.png",Kernel TV Футурама
+#EXTINF:0 tvg-id="kernel_futurama" tvg-name=kernel_futurama group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_futurama.png" catchup="shift" catchup-days="1",Kernel TV Футурама
 #EXTGRP:Детские
 http://45.142.122.146/channel/520f41e5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_grand_spider_man" tvg-name=kernel_grand_spider_man group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_grand_spider_man.png",Kernel TV Человек-паук
+#EXTINF:0 tvg-id="kernel_grand_spider_man" tvg-name=kernel_grand_spider_man group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_grand_spider_man.png" catchup="shift" catchup-days="1",Kernel TV Человек-паук
 #EXTGRP:Детские
 http://45.142.122.146/channel/n2d6839b0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_gravity_falls" tvg-name=kernel_gravity_falls group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_gravity_falls.png",Kernel TV Гравити Фолз
+#EXTINF:0 tvg-id="kernel_gravity_falls" tvg-name=kernel_gravity_falls group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_gravity_falls.png" catchup="shift" catchup-days="1",Kernel TV Гравити Фолз
 #EXTGRP:Детские
 http://45.142.122.146/channel/1e5460c6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_gubob" tvg-name=kernel_gubob group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_gubob.png",Kernel TV Губка Боб Квадратные Штаны
+#EXTINF:0 tvg-id="kernel_gubob" tvg-name=kernel_gubob group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_gubob.png" catchup="shift" catchup-days="1",Kernel TV Губка Боб Квадратные Штаны
 #EXTGRP:Детские
 http://45.142.122.146/channel/1b96df3e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_ledi_bag" tvg-name=kernel_ledi_bag group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ledi_bag.png",Kernel TV Леди Баг и супер Кот
+#EXTINF:0 tvg-id="kernel_ledi_bag" tvg-name=kernel_ledi_bag group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ledi_bag.png" catchup="shift" catchup-days="1",Kernel TV Леди Баг и супер Кот
 #EXTGRP:Детские
 http://45.142.122.146/channel/n66d5f260/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_lego" tvg-name=kernel_lego group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_lego.png",Kernel TV Лего
+#EXTINF:0 tvg-id="kernel_lego" tvg-name=kernel_lego group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_lego.png" catchup="shift" catchup-days="1",Kernel TV Лего
 #EXTGRP:Детские
 http://45.142.122.146/channel/1ab8b38d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_lilo_i_stith" tvg-name=kernel_lilo_i_stith group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_lilo_i_stith.png",Kernel TV Лило и Стич
+#EXTINF:0 tvg-id="kernel_lilo_i_stith" tvg-name=kernel_lilo_i_stith group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_lilo_i_stith.png" catchup="shift" catchup-days="1",Kernel TV Лило и Стич
 #EXTGRP:Детские
 http://45.142.122.146/channel/n4a8582f8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_luk_time" tvg-name=kernel_luk_time group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_luk_time.png",Kernel TV Люк путешественник во времени
+#EXTINF:0 tvg-id="kernel_luk_time" tvg-name=kernel_luk_time group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_luk_time.png" catchup="shift" catchup-days="1",Kernel TV Люк путешественник во времени
 #EXTGRP:Детские
 http://45.142.122.146/channel/33754a20/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_luntik" tvg-name=kernel_luntik group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_luntik.png",Kernel TV Лунтик
+#EXTINF:0 tvg-id="kernel_luntik" tvg-name=kernel_luntik group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_luntik.png" catchup="shift" catchup-days="1",Kernel TV Лунтик
 #EXTGRP:Детские
 http://45.142.122.146/channel/284d2027/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_malyh" tvg-name=kernel_malyh group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_malyh.png",Kernel TV Малыш
+#EXTINF:0 tvg-id="kernel_malyh" tvg-name=kernel_malyh group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_malyh.png" catchup="shift" catchup-days="1",Kernel TV Малыш
 #EXTGRP:Детские
 http://45.142.122.146/channel/n6203ab48/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_masha_i_medved" tvg-name=kernel_masha_i_medved group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_masha_i_medved.png",Kernel TV Маша и Медведь
+#EXTINF:0 tvg-id="kernel_masha_i_medved" tvg-name=kernel_masha_i_medved group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_masha_i_medved.png" catchup="shift" catchup-days="1",Kernel TV Маша и Медведь
 #EXTGRP:Детские
 http://45.142.122.146/channel/67857a3a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_mimimihki" tvg-name=kernel_mimimihki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_mimimihki.png",Kernel TV Ми-ми-мишки
+#EXTINF:0 tvg-id="kernel_mimimihki" tvg-name=kernel_mimimihki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_mimimihki.png" catchup="shift" catchup-days="1",Kernel TV Ми-ми-мишки
 #EXTGRP:Детские
 http://45.142.122.146/channel/n7e03b62e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_miniforce" tvg-name=kernel_miniforce group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_miniforce.png",Kernel TV МиниФорс
+#EXTINF:0 tvg-id="kernel_miniforce" tvg-name=kernel_miniforce group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_miniforce.png" catchup="shift" catchup-days="1",Kernel TV МиниФорс
 #EXTGRP:Детские
 http://45.142.122.146/channel/n3c0e73cd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_my_litle_pony" tvg-name=kernel_my_litle_pony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_my_litle_pony.png",Kernel TV Мой маленький Пони
+#EXTINF:0 tvg-id="kernel_my_litle_pony" tvg-name=kernel_my_litle_pony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_my_litle_pony.png" catchup="shift" catchup-days="1",Kernel TV Мой маленький Пони
 #EXTGRP:Детские
 http://45.142.122.146/channel/n2e42a8f7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_girls" tvg-name=kernel_girls group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_girls.png",Kernel TV Подружки
+#EXTINF:0 tvg-id="kernel_girls" tvg-name=kernel_girls group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_girls.png" catchup="shift" catchup-days="1",Kernel TV Подружки
 #EXTGRP:Детские
 http://45.142.122.146/channel/6c2b5a8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_puhustici" tvg-name=kernel_puhustici group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_puhustici.png",Kernel TV Пушистики
+#EXTINF:0 tvg-id="kernel_puhustici" tvg-name=kernel_puhustici group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_puhustici.png" catchup="shift" catchup-days="1",Kernel TV Пушистики
 #EXTGRP:Детские
 http://45.142.122.146/channel/n39abb4e7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_pups_patrol" tvg-name=kernel_pups_patrol group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_pups_patrol.png",Kernel TV Щенячий патруль
+#EXTINF:0 tvg-id="kernel_pups_patrol" tvg-name=kernel_pups_patrol group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_pups_patrol.png" catchup="shift" catchup-days="1",Kernel TV Щенячий патруль
 #EXTGRP:Детские
 http://45.142.122.146/channel/1f48d48b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_rusalochka" tvg-name=kernel_rusalochka group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_rusalochka.png",Kernel TV Русалочка
+#EXTINF:0 tvg-id="kernel_rusalochka" tvg-name=kernel_rusalochka group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_rusalochka.png" catchup="shift" catchup-days="1",Kernel TV Русалочка
 #EXTGRP:Детские
 http://45.142.122.146/channel/n4f6238e7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_shkodniki" tvg-name=kernel_shkodniki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_shkodniki.png",Kernel TV Шкодники
+#EXTINF:0 tvg-id="kernel_shkodniki" tvg-name=kernel_shkodniki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_shkodniki.png" catchup="shift" catchup-days="1",Kernel TV Шкодники
 #EXTGRP:Детские
 http://45.142.122.146/channel/n1586fa13/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_smeshariki" tvg-name=kernel_smeshariki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_smeshariki.png",Kernel TV Смешарики
+#EXTINF:0 tvg-id="kernel_smeshariki" tvg-name=kernel_smeshariki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_smeshariki.png" catchup="shift" catchup-days="1",Kernel TV Смешарики
 #EXTGRP:Детские
 http://45.142.122.146/channel/ea5c1f4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_sonic_bum" tvg-name=kernel_sonic_bum group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_sonic_bum.png",Kernel TV Сонник Бум
+#EXTINF:0 tvg-id="kernel_sonic_bum" tvg-name=kernel_sonic_bum group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_sonic_bum.png" catchup="shift" catchup-days="1",Kernel TV Сонник Бум
 #EXTGRP:Детские
 http://45.142.122.146/channel/7affff38/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_super_wings" tvg-name=kernel_super_wings group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_super_wings.png",Kernel TV Супер крылья
+#EXTINF:0 tvg-id="kernel_super_wings" tvg-name=kernel_super_wings group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_super_wings.png" catchup="shift" catchup-days="1",Kernel TV Супер крылья
 #EXTGRP:Детские
 http://45.142.122.146/channel/73a64915/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_timon_i_pumba" tvg-name=kernel_timon_i_pumba group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_timon_i_pumba.png",Kernel TV Тимон и Пумба
+#EXTINF:0 tvg-id="kernel_timon_i_pumba" tvg-name=kernel_timon_i_pumba group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_timon_i_pumba.png" catchup="shift" catchup-days="1",Kernel TV Тимон и Пумба
 #EXTGRP:Детские
 http://45.142.122.146/channel/3feab0b0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_tom_i_djerri" tvg-name=kernel_tom_i_djerri group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_tom_i_djerri.png",Kernel TV Том и Джерри
+#EXTINF:0 tvg-id="kernel_tom_i_djerri" tvg-name=kernel_tom_i_djerri group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_tom_i_djerri.png" catchup="shift" catchup-days="1",Kernel TV Том и Джерри
 #EXTGRP:Детские
 http://45.142.122.146/channel/n1dd633f2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_tri_cota" tvg-name=kernel_tri_cota group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_tri_cota.png",Kernel TV Три кота
+#EXTINF:0 tvg-id="kernel_tri_cota" tvg-name=kernel_tri_cota group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_tri_cota.png" catchup="shift" catchup-days="1",Kernel TV Три кота
 #EXTGRP:Детские
 http://45.142.122.146/channel/591913bc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_turbo" tvg-name=kernel_turbo group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_turbo.png",Kernel TV Команда Турбо
+#EXTINF:0 tvg-id="kernel_turbo" tvg-name=kernel_turbo group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_turbo.png" catchup="shift" catchup-days="1",Kernel TV Команда Турбо
 #EXTGRP:Детские
 http://45.142.122.146/channel/n66c459d7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_turtles_ninja" tvg-name=kernel_turtles_ninja group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_turtles_ninja.png",Kernel TV Черепашки ниндзя
+#EXTINF:0 tvg-id="kernel_turtles_ninja" tvg-name=kernel_turtles_ninja group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_turtles_ninja.png" catchup="shift" catchup-days="1",Kernel TV Черепашки ниндзя
 #EXTGRP:Детские
 http://45.142.122.146/channel/4e9a2947/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_vini_i_ego_druzya" tvg-name=kernel_vini_i_ego_druzya group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_vini_i_ego_druzya.png",Kernel TV Винни и его друзья
+#EXTINF:0 tvg-id="kernel_vini_i_ego_druzya" tvg-name=kernel_vini_i_ego_druzya group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_vini_i_ego_druzya.png" catchup="shift" catchup-days="1",Kernel TV Винни и его друзья
 #EXTGRP:Детские
 http://45.142.122.146/channel/n40f40eb8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 
@@ -4527,6 +4539,1130 @@ http://45.142.122.146/channel/n6f2543c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/n5d2cd4fb/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Разное" tvg-id="hlsproxy-1164" tvg-logo="http://1lot.tv/ch/10699.png" catchup="shift" catchup-days="1",EWTN Украина
 http://45.142.122.146/channel/2c3f606b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Земля любви
+http://srvru.play-x.ru/channel/59fe0e2d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Просто Мария
+http://srvru.play-x.ru/channel/6c9493cc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Хозяйка судьбы
+http://srvru.play-x.ru/channel/69888ddf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Клон
+http://srvru.play-x.ru/channel/n4eeae637/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Женщина в любви
+http://srvru.play-x.ru/channel/1b8bc0ed/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Жестокий ангел
+http://srvru.play-x.ru/channel/4368e1b2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Семейные узы
+http://srvru.play-x.ru/channel/7ad5be5b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Тайна Лауры
+http://srvru.play-x.ru/channel/n5c59e732/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Соледад
+http://srvru.play-x.ru/channel/n422fce08/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Hublle
+http://srvru.play-x.ru/channel/4562699/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Космический
+http://srvru.play-x.ru/channel/515e4e78/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x UFO
+http://srvru.play-x.ru/channel/n23a29c2b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Kosmo
+http://srvru.play-x.ru/channel/3a1a0f88/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мегрэ
+http://srvru.play-x.ru/channel/71a76f7e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 1 HD
+http://srvru.play-x.ru/channel/5014fe52/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 23 HD
+http://srvru.play-x.ru/channel/n4d5f0eec/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 2 HD
+http://srvru.play-x.ru/channel/501572b1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 3 HD
+http://srvru.play-x.ru/channel/5015e710/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 4 HD
+http://srvru.play-x.ru/channel/50165b6f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 5 HD
+http://srvru.play-x.ru/channel/5016cfce/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 6 HD
+http://srvru.play-x.ru/channel/5017442d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 7 HD
+http://srvru.play-x.ru/channel/5017b88c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 8 HD
+http://srvru.play-x.ru/channel/50182ceb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 9 HD
+http://srvru.play-x.ru/channel/5018a14a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 12 HD
+http://srvru.play-x.ru/channel/n4d6d9acc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 13 HD
+http://srvru.play-x.ru/channel/n4d6d266d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 14 HD
+http://srvru.play-x.ru/channel/n4d6cb20e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 15 HD
+http://srvru.play-x.ru/channel/n4d6c3daf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 11 HD
+http://srvru.play-x.ru/channel/n4d6e0f2b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 10 HD
+http://srvru.play-x.ru/channel/n4d6e838a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 16 HD
+http://srvru.play-x.ru/channel/n4d6bc950/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 17 HD
+http://srvru.play-x.ru/channel/n4d6b54f1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 18 HD
+http://srvru.play-x.ru/channel/n4d6ae092/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 19 HD
+http://srvru.play-x.ru/channel/n4d6a6c33/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 20 HD
+http://srvru.play-x.ru/channel/n4d606c09/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 21 HD
+http://srvru.play-x.ru/channel/n4d5ff7aa/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Кинозал 22 HD
+http://srvru.play-x.ru/channel/n4d5f834b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Баскетбол USA HD
+http://srvru.play-x.ru/channel/308bff3a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Муз Блатной Хит HD
+http://srvru.play-x.ru/channel/298262eb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Муз Golden Hits 90s HD
+http://srvru.play-x.ru/channel/n75bb27d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Муз Music 80s HD
+http://srvru.play-x.ru/channel/n540cb56a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Муз Rock Pop Ballads HD
+http://srvru.play-x.ru/channel/n7f6d1605/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Муз Муз Золотой век HD
+http://srvru.play-x.ru/channel/n3b6b6be4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Муз Old School Hits HD
+http://srvru.play-x.ru/channel/n4d959bd/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k UFO
+http://srvru.play-x.ru/channel/n648f8e6f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Киноновинки
+http://srvru.play-x.ru/channel/n691dc098/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Ужасы (VHS)
+http://srvru.play-x.ru/channel/3dc8c8ca/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Приключения
+http://srvru.play-x.ru/channel/4f720b63/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Avto Blog
+http://srvru.play-x.ru/channel/n7524485b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Ukrainian music
+http://srvru.play-x.ru/channel/25107ce4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Netflix
+http://srvru.play-x.ru/channel/n1fee9c7b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Korean music
+http://srvru.play-x.ru/channel/n6bd58c0a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Bollywood music
+http://srvru.play-x.ru/channel/n4564678f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Russian music
+http://srvru.play-x.ru/channel/n742e9af5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Heavy metal
+http://srvru.play-x.ru/channel/1c505ce1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Ужасы
+http://srvru.play-x.ru/channel/1bc9a3da/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Единоборства
+http://srvru.play-x.ru/channel/7a7d3805/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k КиноФраншизы
+http://srvru.play-x.ru/channel/n3d3048c7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Молодежные комедии
+http://srvru.play-x.ru/channel/n7901c6a5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Звериный мир
+http://srvru.play-x.ru/channel/23be666a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Боевик (VHS)
+http://srvru.play-x.ru/channel/1b8e1d49/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k DeepMe
+http://srvru.play-x.ru/channel/n791202cf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Eurovision
+http://srvru.play-x.ru/channel/n2d5c53be/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Киношарм
+http://srvru.play-x.ru/channel/n78f7ead0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Русские сериалы
+http://srvru.play-x.ru/channel/5980b87b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Мультимир
+http://srvru.play-x.ru/channel/n590936b7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K World Music
+http://srvru.play-x.ru/channel/n2e49a996/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Walt Disney
+http://srvru.play-x.ru/channel/6cf142f5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Запал
+http://srvru.play-x.ru/channel/1b1e05c4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HBO series
+http://srvru.play-x.ru/channel/n664ee691/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Marvel
+http://srvru.play-x.ru/channel/n660e5cd4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Remastered music
+http://srvru.play-x.ru/channel/7eaae26/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Anime アニメ
+http://srvru.play-x.ru/channel/n5c6dacc1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Боевик
+http://srvru.play-x.ru/channel/3b4c0399/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Deep House
+http://srvru.play-x.ru/channel/n15d48627/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Latin music
+http://srvru.play-x.ru/channel/1385107c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K RemasterWave
+http://srvru.play-x.ru/channel/n1c387525/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Драмы
+http://srvru.play-x.ru/channel/n483dc97a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Комедия
+http://srvru.play-x.ru/channel/n7ddd649f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Мультляндия
+http://srvru.play-x.ru/channel/n35697ca1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Сумеречный Эфир
+http://srvru.play-x.ru/channel/n1d557842/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Фантастика
+http://srvru.play-x.ru/channel/79a80afb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Asia
+http://srvru.play-x.ru/channel/n6405be49/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Galaxy Films
+http://srvru.play-x.ru/channel/n20f3d9d4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Космомир
+http://srvru.play-x.ru/channel/n34dfb36e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Города
+http://srvru.play-x.ru/channel/42954592/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Семейный
+http://srvru.play-x.ru/channel/n42bcae14/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Мода ХХХ
+http://srvru.play-x.ru/channel/n7dd4ebb0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Комедия СССР 1
+http://srvru.play-x.ru/channel/n354c21d1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Комедия СССР 2
+http://srvru.play-x.ru/channel/n354c21d0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Kинодети Cсср
+http://srvru.play-x.ru/channel/379810eb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K UrbanBlack
+http://srvru.play-x.ru/channel/n180c4206/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Game Film
+http://srvru.play-x.ru/channel/n67c6539b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Вселенная
+http://srvru.play-x.ru/channel/4e01c2b2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K КиноСССР
+http://srvru.play-x.ru/channel/n7909e175/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4k Классика кино
+http://srvru.play-x.ru/channel/48711b13/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Travel blog
+http://srvru.play-x.ru/channel/n25c760a5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Театр
+http://srvru.play-x.ru/channel/1bbb180e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Космомир 2
+http://srvru.play-x.ru/channel/n7bc08bdc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Триллер
+http://srvru.play-x.ru/channel/2c889cb8/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K BluesString
+http://srvru.play-x.ru/channel/16651f3d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Фэнтези
+http://srvru.play-x.ru/channel/n53325ee5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Ужасы VHS (siries)
+http://srvru.play-x.ru/channel/5c1355cb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Комедия (VHS)
+http://srvru.play-x.ru/channel/n754a40ef/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Фантастика (siries)
+http://srvru.play-x.ru/channel/n796cca95/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Ретро-Сказка 1
+http://srvru.play-x.ru/channel/n35d229aa/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Ретро-Сказка 2
+http://srvru.play-x.ru/channel/n35d229a9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K Наше кино
+http://srvru.play-x.ru/channel/n2c45d90e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 1
+http://srvru.play-x.ru/channel/n7f4ad592/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 2
+http://srvru.play-x.ru/channel/n7f4ad591/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 3
+http://srvru.play-x.ru/channel/n7f4ad590/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 4
+http://srvru.play-x.ru/channel/n7f4ad58f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 5
+http://srvru.play-x.ru/channel/n7f4ad58e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 6
+http://srvru.play-x.ru/channel/n7f4ad58d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 7
+http://srvru.play-x.ru/channel/n7f4ad58c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 8
+http://srvru.play-x.ru/channel/n7f4ad58b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 9
+http://srvru.play-x.ru/channel/n7f4ad58a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Clarity4k UHD" tvg-logo="https://play-x.ru/logo.png",Clarity4K HDR Cinema MIX 10
+http://srvru.play-x.ru/channel/n6a0fdc7e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Про людей и войну HD
+http://srvru.play-x.ru/channel/2ff671d9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x (90-е) HD
+http://srvru.play-x.ru/channel/n4201e570/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Пограничный HD
+http://srvru.play-x.ru/channel/n15ba715d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Пятница 13
+http://srvru.play-x.ru/channel/3d419054/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Каратэ
+http://srvru.play-x.ru/channel/n4063f6c6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x HBO
+http://srvru.play-x.ru/channel/n23a2cd74/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Game movie
+http://srvru.play-x.ru/channel/2f30dcb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Фронт
+http://srvru.play-x.ru/channel/721d547e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Marvel
+http://srvru.play-x.ru/channel/bcbf648/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вампир
+http://srvru.play-x.ru/channel/n4e0c562e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Круги Ада
+http://srvru.play-x.ru/channel/n1169571b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вестерн
+http://srvru.play-x.ru/channel/n6aae68db/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Black Cinema
+http://srvru.play-x.ru/channel/n1049b7a5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Comedy Woman
+http://srvru.play-x.ru/channel/n5dc422dc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Драмы
+http://srvru.play-x.ru/channel/713ba7ca/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Плащ и шпага
+http://srvru.play-x.ru/channel/3eae282c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Cinema Asia
+http://srvru.play-x.ru/channel/ec05190/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Гоблин
+http://srvru.play-x.ru/channel/n4b97439d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Польские фильмы в Советском прокате
+http://srvru.play-x.ru/channel/25f29ed6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Фантастика
+http://srvru.play-x.ru/channel/1ab7017/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Индия
+http://srvru.play-x.ru/channel/7172b73d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Триллер
+http://srvru.play-x.ru/channel/na0752e4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Старый добрый фильм
+http://srvru.play-x.ru/channel/167b7336/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Семейный
+http://srvru.play-x.ru/channel/21d54e08/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ужасы VHS
+http://srvru.play-x.ru/channel/41fd85ff/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x RUComedy
+http://srvru.play-x.ru/channel/n7b5036db/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Cinema Sport
+http://srvru.play-x.ru/channel/n35b9bc92/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Первый Пограничный
+http://srvru.play-x.ru/channel/3c9ace82/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Годзилла
+http://srvru.play-x.ru/channel/4211db4f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ангелы и демоны
+http://srvru.play-x.ru/channel/n3120e6ef/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Cinema Horror Kids
+http://srvru.play-x.ru/channel/n672a6c43/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Cinema Аnimals
+http://srvru.play-x.ru/channel/eade400/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Киборг
+http://srvru.play-x.ru/channel/n3ff9d819/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Cinema Woman
+http://srvru.play-x.ru/channel/n3581dc84/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Cinema Teens
+http://srvru.play-x.ru/channel/n35b0cb2d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Планета обезьян
+http://srvru.play-x.ru/channel/n77f3b3ca/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Cinema 90-х
+http://srvru.play-x.ru/channel/ebbafb5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вирусы и эпидемии
+http://srvru.play-x.ru/channel/7ce72301/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Полицейская академия
+http://srvru.play-x.ru/channel/459af10f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Не сильный пол!
+http://srvru.play-x.ru/channel/n372e253f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Нина Гребешкова
+http://srvru.play-x.ru/channel/n15090ad9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Александр Михайлов
+http://srvru.play-x.ru/channel/4f4d217c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Янковский Олег
+http://srvru.play-x.ru/channel/36c37daa/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сергей Гармаш
+http://srvru.play-x.ru/channel/n22140403/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Эльдар Рязанов
+http://srvru.play-x.ru/channel/2ac68e18/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Алексей Балабанов
+http://srvru.play-x.ru/channel/n29f04736/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Леонид Куравлёв
+http://srvru.play-x.ru/channel/24788665/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Данила Козловский
+http://srvru.play-x.ru/channel/31cbd61/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Людмила Гурченко
+http://srvru.play-x.ru/channel/n6abf7986/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Михаил Ефремов
+http://srvru.play-x.ru/channel/3ae15f5f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Владимир Ильин
+http://srvru.play-x.ru/channel/n7480c830/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Валентин Гафт
+http://srvru.play-x.ru/channel/n5c362f50/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Николай Караченцов
+http://srvru.play-x.ru/channel/n6b5c888b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Виктор Сухоруков
+http://srvru.play-x.ru/channel/30e98c9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Лев Дуров
+http://srvru.play-x.ru/channel/n6b03888c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Райкин Аркадий
+http://srvru.play-x.ru/channel/n24451172/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ролан Быков
+http://srvru.play-x.ru/channel/672ab4d5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сергей Бодров
+http://srvru.play-x.ru/channel/n24bdd007/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Марат Башаров
+http://srvru.play-x.ru/channel/n3df7d97e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Владимир Вдовиченков
+http://srvru.play-x.ru/channel/n1307663d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Гоша Куценко
+http://srvru.play-x.ru/channel/n16c31d1b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Андрей Мерзликин
+http://srvru.play-x.ru/channel/n26e7b428/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Борислав Брондуков
+http://srvru.play-x.ru/channel/33a984db/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Олег Табаков
+http://srvru.play-x.ru/channel/n5fd9aa9b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Владимир Епифанцев
+http://srvru.play-x.ru/channel/n6305acde/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Армен Джигарханян
+http://srvru.play-x.ru/channel/6af983de/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Евгений Леонов
+http://srvru.play-x.ru/channel/n128ab8a9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Андрей Миронов
+http://srvru.play-x.ru/channel/70fa9e3d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Александр Панкратов-Чёрный
+http://srvru.play-x.ru/channel/72179109/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Алексей Серебряков
+http://srvru.play-x.ru/channel/26a3436b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Надежда Румянцева
+http://srvru.play-x.ru/channel/n38e9d2f7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Фёдор Добронравов
+http://srvru.play-x.ru/channel/5a7649de/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Борис Новиков
+http://srvru.play-x.ru/channel/n725ed4c6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Всеволод Санаев
+http://srvru.play-x.ru/channel/n460c0a9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Галина Польских
+http://srvru.play-x.ru/channel/9888920/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Любовь Полищук
+http://srvru.play-x.ru/channel/n77c9f1d9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Роман Мадянов
+http://srvru.play-x.ru/channel/nc44e85c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сергей Филиппов
+http://srvru.play-x.ru/channel/n68b69c0f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сергей Юрский
+http://srvru.play-x.ru/channel/ce0ba98/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Савелий Крамаров
+http://srvru.play-x.ru/channel/192b18f5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Никулин Вицин
+http://srvru.play-x.ru/channel/n13f2de88/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Михаил Кокшенов
+http://srvru.play-x.ru/channel/n1de97885/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Александр Абдулов
+http://srvru.play-x.ru/channel/n6c4e86a0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Михаил Пуговкин
+http://srvru.play-x.ru/channel/n1a84b057/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Леонид Гайдай
+http://srvru.play-x.ru/channel/5d52faa3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Евгений Моргунов
+http://srvru.play-x.ru/channel/n53e63333/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дмитрий Харатьян
+http://srvru.play-x.ru/channel/n53abdff3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Евгений Евстигнеев
+http://srvru.play-x.ru/channel/n2650f508/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Константин Хабенский
+http://srvru.play-x.ru/channel/ne07ecaf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Андрей Федорцов
+http://srvru.play-x.ru/channel/3a3737ef/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Владимир Высоцкий
+http://srvru.play-x.ru/channel/36405749/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Папины дочки
+http://srvru.play-x.ru/channel/n7a314084/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Баффи – истреб. вампиров
+http://srvru.play-x.ru/channel/5222f78f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Патруль
+http://srvru.play-x.ru/channel/3c87c11c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ранетки
+http://srvru.play-x.ru/channel/712282cf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Доктор хаус
+http://srvru.play-x.ru/channel/2d59550c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сваты
+http://srvru.play-x.ru/channel/71ec7cdf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Полтергейст: Наследие
+http://srvru.play-x.ru/channel/n6ffa7ab3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мисс Марпл Агаты Кристи
+http://srvru.play-x.ru/channel/114e6ac2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Друзья
+http://srvru.play-x.ru/channel/n49be19d4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Чернобыль
+http://srvru.play-x.ru/channel/73efc495/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Игра престолов
+http://srvru.play-x.ru/channel/416fbb5a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Горец
+http://srvru.play-x.ru/channel/n6e3395d2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x По законам военного времени
+http://srvru.play-x.ru/channel/eb04627/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ивановы-Ивановы
+http://srvru.play-x.ru/channel/2a9e9aca/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Воронины
+http://srvru.play-x.ru/channel/n10f04aa4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Солдаты
+http://srvru.play-x.ru/channel/n42304f26/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Байки Митяя
+http://srvru.play-x.ru/channel/301645f5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сверхъестественное
+http://srvru.play-x.ru/channel/n32af69bc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Счастливы вместе
+http://srvru.play-x.ru/channel/n3b187baf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Семья
+http://srvru.play-x.ru/channel/71ee0842/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Каменская
+http://srvru.play-x.ru/channel/3c97c7d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Байки из склепа
+http://srvru.play-x.ru/channel/27f33274/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Бедная Настя
+http://srvru.play-x.ru/channel/nb6368d0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Великолепный век
+http://srvru.play-x.ru/channel/n7643b816/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Во все тяжкие
+http://srvru.play-x.ru/channel/n5498d66d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дежурная аптека
+http://srvru.play-x.ru/channel/n6ff4017b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Да "Лунный свет"
+http://srvru.play-x.ru/channel/2bd72d41/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Секретные материалы
+http://srvru.play-x.ru/channel/2e254278/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ее звали Никита
+http://srvru.play-x.ru/channel/5eddfe0c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Зена
+http://srvru.play-x.ru/channel/n4eec5a06/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Крутой Уокер
+http://srvru.play-x.ru/channel/n7caf36d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мажор
+http://srvru.play-x.ru/channel/71a5349b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Метод Фрейда
+http://srvru.play-x.ru/channel/65ff5aa6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Служба 911
+http://srvru.play-x.ru/channel/7710ff0e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Склифасовский
+http://srvru.play-x.ru/channel/n61747d3c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Теория большого взрыва
+http://srvru.play-x.ru/channel/n276512fc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кухня
+http://srvru.play-x.ru/channel/7191e0e5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Элен и ребята
+http://srvru.play-x.ru/channel/9149c8a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x СеняФедя
+http://srvru.play-x.ru/channel/24eedd3b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Молодёжка
+http://srvru.play-x.ru/channel/n4b5f6a7f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ищейка
+http://srvru.play-x.ru/channel/n42723bcc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Девушки с Макаровым
+http://srvru.play-x.ru/channel/n7f48a8f9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Милиционер с Рублёвки
+http://srvru.play-x.ru/channel/4b289ead/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Пес
+http://srvru.play-x.ru/channel/n2393e4fe/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Клиника
+http://srvru.play-x.ru/channel/463f75ff/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Восьмидесятые
+http://srvru.play-x.ru/channel/3570eac1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Военные сериалы
+http://srvru.play-x.ru/channel/f423f1e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Звёздные врата: Атлантида
+http://srvru.play-x.ru/channel/652b0895/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ольга HD
+http://srvru.play-x.ru/channel/42b47d59/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Чужой район
+http://srvru.play-x.ru/channel/36c630d4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Возвращение в Эдем
+http://srvru.play-x.ru/channel/26255bce/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Гром в раю
+http://srvru.play-x.ru/channel/46296c44/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Женаты и с детьми
+http://srvru.play-x.ru/channel/5238616a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Спрут
+http://srvru.play-x.ru/channel/71f2a1d8/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вовочка
+http://srvru.play-x.ru/channel/n5c27ba84/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Прапорщик Шматко или Ё-моё
+http://srvru.play-x.ru/channel/n3dba48e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Боец
+http://srvru.play-x.ru/channel/n4eeef359/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Последний из Магикян
+http://srvru.play-x.ru/channel/n9f85f2f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Зона. Тюремный роман
+http://srvru.play-x.ru/channel/48cf7fd0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ментовские войны
+http://srvru.play-x.ru/channel/n683a8fd4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сериал крот
+http://srvru.play-x.ru/channel/n5bf3f536/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дальнобойщики
+http://srvru.play-x.ru/channel/n62db79be/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Не родись красивой
+http://srvru.play-x.ru/channel/5b276b60/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Убойная сила
+http://srvru.play-x.ru/channel/2f4c51c2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Физрук
+http://srvru.play-x.ru/channel/n2ee69fc3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Коломбо
+http://srvru.play-x.ru/channel/4b88c8b9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Твин Пикс
+http://srvru.play-x.ru/channel/75b6fda2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Бригада
+http://srvru.play-x.ru/channel/72aaf159/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мир! Дружба! Жвачка!
+http://srvru.play-x.ru/channel/6415ba81/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Старый Универ
+http://srvru.play-x.ru/channel/354371f7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мылодрама
+http://srvru.play-x.ru/channel/n4f7f3c3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Улицы разбитых фонарей
+http://srvru.play-x.ru/channel/n4f5f657/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосгаз
+http://srvru.play-x.ru/channel/n3c347f1c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дрейк и Джош
+http://srvru.play-x.ru/channel/n6793104d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Звездный путь
+http://srvru.play-x.ru/channel/6f7c7111/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Доктор Куин: Женщина-врач
+http://srvru.play-x.ru/channel/70308ae9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Звездный путь  Вояджер
+http://srvru.play-x.ru/channel/3183889f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Академия "Амбрелла"
+http://srvru.play-x.ru/channel/n21140f6b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x ЧОП
+http://srvru.play-x.ru/channel/n2393c9e1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Клан Сопрано
+http://srvru.play-x.ru/channel/6a66e72a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мистер Робот
+http://srvru.play-x.ru/channel/431682c8/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Наследники
+http://srvru.play-x.ru/channel/n774ecf52/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Интерны
+http://srvru.play-x.ru/channel/n1f99e8b3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Агент национальной безопасности
+http://srvru.play-x.ru/channel/n69e898dc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Полицейский с Рублевки
+http://srvru.play-x.ru/channel/n3dcff1b8/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Боишься ли ты темноты?
+http://srvru.play-x.ru/channel/n7937a254/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Она написала убийство
+http://srvru.play-x.ru/channel/n4a8a6dac/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Тюрьма Оз
+http://srvru.play-x.ru/channel/n32fc9fbc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сумеречная зона
+http://srvru.play-x.ru/channel/n162ef874/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Жуки
+http://srvru.play-x.ru/channel/n4eec9a2c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Универ Молодые
+http://srvru.play-x.ru/channel/468aeb01/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Инспектор Гаврилов
+http://srvru.play-x.ru/channel/n523811d1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Чарльз Бронсон
+http://srvru.play-x.ru/channel/n5b2d65b6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Арнольд Шварценеггер
+http://srvru.play-x.ru/channel/n7785f47d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вин Дизель
+http://srvru.play-x.ru/channel/n59277ebb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Жан-Клод Ван Дамм
+http://srvru.play-x.ru/channel/n12c81fcd/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Энистон Дженнифер
+http://srvru.play-x.ru/channel/n7c0c3457/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Жан поль Бельмондо
+http://srvru.play-x.ru/channel/n5d66731a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Аль Пачино
+http://srvru.play-x.ru/channel/n5c5f8eb5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Леонардо ДиКаприо
+http://srvru.play-x.ru/channel/n5486e0fb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Уил смит
+http://srvru.play-x.ru/channel/55132c48/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Адриано Челентано
+http://srvru.play-x.ru/channel/n1e696330/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дрю Бэрримор
+http://srvru.play-x.ru/channel/715b8c49/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Майкл Дуглас
+http://srvru.play-x.ru/channel/51e53bcb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Милла Йовович
+http://srvru.play-x.ru/channel/n18a44865/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Антонио Бандерас
+http://srvru.play-x.ru/channel/245c57a1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вуди Аллен
+http://srvru.play-x.ru/channel/2c472b16/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Киллиан Мёрфи
+http://srvru.play-x.ru/channel/17deb6fd/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Николь Кидман
+http://srvru.play-x.ru/channel/786ea05a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ридли Скотт
+http://srvru.play-x.ru/channel/e9a97b5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ежи Штур
+http://srvru.play-x.ru/channel/37cc7249/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Маттиас Хьюз
+http://srvru.play-x.ru/channel/4cc39ee4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кира Найтли
+http://srvru.play-x.ru/channel/4e5b0802/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Паоло Вилладжо
+http://srvru.play-x.ru/channel/n5ca7b7b5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Стивен Спилберг
+http://srvru.play-x.ru/channel/n656a2194/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Бред Пит
+http://srvru.play-x.ru/channel/n24364420/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дольф Лундгрен
+http://srvru.play-x.ru/channel/6fa64554/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Крис Коламбус
+http://srvru.play-x.ru/channel/n5d9e34ec/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Синтия Ротрок
+http://srvru.play-x.ru/channel/47bcdf5c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дон Дракон Уилсон
+http://srvru.play-x.ru/channel/58df074f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Эдди Мерфи
+http://srvru.play-x.ru/channel/40aa0caf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Альфред Хичкок
+http://srvru.play-x.ru/channel/n759cdfd1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Гэри Дэниелс
+http://srvru.play-x.ru/channel/75a8c9a2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Жан Рено
+http://srvru.play-x.ru/channel/6acca23c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Джеки Чан
+http://srvru.play-x.ru/channel/n7274ad24/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сильвестр Сталлоне
+http://srvru.play-x.ru/channel/n5524ba24/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Квентин Тарантино
+http://srvru.play-x.ru/channel/n10ee8c4c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Джулия Робертс
+http://srvru.play-x.ru/channel/758a3c17/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Брюс Уиллис
+http://srvru.play-x.ru/channel/n3f030d0d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Брэд Питт
+http://srvru.play-x.ru/channel/n6cfcad86/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Джет Ли
+http://srvru.play-x.ru/channel/1a74e5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Джонни Депп
+http://srvru.play-x.ru/channel/n6de98c64/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Луи де Фюнес
+http://srvru.play-x.ru/channel/n65b51947/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Деми Мур
+http://srvru.play-x.ru/channel/n264d08e1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кэмерон Диас
+http://srvru.play-x.ru/channel/n9247cb5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Пьер Ришар
+http://srvru.play-x.ru/channel/n25a2dd3f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Стивен Сигал
+http://srvru.play-x.ru/channel/n3f057fad/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Адам Сэндлер
+http://srvru.play-x.ru/channel/n6f97aaa4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Николас Кейдж
+http://srvru.play-x.ru/channel/n4463607c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Джон Траволта
+http://srvru.play-x.ru/channel/c36621/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Джим Керри
+http://srvru.play-x.ru/channel/1084fac/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Джордж Клуни
+http://srvru.play-x.ru/channel/5d259ccc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Хью Джекман
+http://srvru.play-x.ru/channel/2bf58b60/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мел Гибсон
+http://srvru.play-x.ru/channel/n5c901fc5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Джейсон Стэйтем
+http://srvru.play-x.ru/channel/n62a0c9b3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Чак Норрис
+http://srvru.play-x.ru/channel/n1933cafe/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Тайны Чапман HD
+http://srvru.play-x.ru/channel/n68501d88/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x География уральских пельменей HD
+http://srvru.play-x.ru/channel/5915d1e7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Военная приемка HD
+http://srvru.play-x.ru/channel/n56ede7b6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x 6 кадров HD
+http://srvru.play-x.ru/channel/1a7e4792/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Импровизаторы HD
+http://srvru.play-x.ru/channel/a5e9a27/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Между нами HD
+http://srvru.play-x.ru/channel/5f1cd6ef/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Beast Games HD
+http://srvru.play-x.ru/channel/n31840e3a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Последний герой HD
+http://srvru.play-x.ru/channel/n27e27b19/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Русская дорога HD
+http://srvru.play-x.ru/channel/1e8a1503/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Уральские пельмени HD
+http://srvru.play-x.ru/channel/6bbe0771/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Женский стендап HD
+http://srvru.play-x.ru/channel/neeabf0c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Игра (Тнт) HD
+http://srvru.play-x.ru/channel/n2342143/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вне закона
+http://srvru.play-x.ru/channel/n779059f1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Однажды в России
+http://srvru.play-x.ru/channel/738cb31/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Концерты (Тнт)
+http://srvru.play-x.ru/channel/n2c91df8c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x На ножах
+http://srvru.play-x.ru/channel/771a2946/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Чарли чаплин
+http://srvru.play-x.ru/channel/72b359f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Своим ходом
+http://srvru.play-x.ru/channel/526559c1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ералаш
+http://srvru.play-x.ru/channel/n4811d8a9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Tik Tok
+http://srvru.play-x.ru/channel/n12e4c503/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Каламбур
+http://srvru.play-x.ru/channel/4033cca6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мир на изнанку
+http://srvru.play-x.ru/channel/n41100a34/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Банды 90-ых
+http://srvru.play-x.ru/channel/n39b27224/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Смак  с Андреем Макаревичем
+http://srvru.play-x.ru/channel/2a28199f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x СВ Шоу
+http://srvru.play-x.ru/channel/n37f8f1f9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дорожный патруль
+http://srvru.play-x.ru/channel/7d1c2b8b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Хроники московского быта
+http://srvru.play-x.ru/channel/n5061928c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Жак-Ив Кусто
+http://srvru.play-x.ru/channel/n24ff87dc/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Уральские пельмени
+http://srvru.play-x.ru/channel/39973eca/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Намедни
+http://srvru.play-x.ru/channel/n2d9e7aa6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Выжить любой ценой
+http://srvru.play-x.ru/channel/n548fd1d0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Одна за всех
+http://srvru.play-x.ru/channel/n6f060728/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Угадай Мелодию
+http://srvru.play-x.ru/channel/n100f9ec/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Городок
+http://srvru.play-x.ru/channel/n267c7d02/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дизель Шоу
+http://srvru.play-x.ru/channel/51beebe9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Окна с Дмитрием Нагиевым
+http://srvru.play-x.ru/channel/n640d30f2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Осторожно Модерн
+http://srvru.play-x.ru/channel/n2b192071/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x 6 кадров
+http://srvru.play-x.ru/channel/2f183d09/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Даёшь молодёжь!
+http://srvru.play-x.ru/channel/n1096cbe7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Маски-шоу
+http://srvru.play-x.ru/channel/3b38eb22/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мистер Бин
+http://srvru.play-x.ru/channel/n585f4cf9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Час Суда с Павлом Астаховым
+http://srvru.play-x.ru/channel/384fc693/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Жизнь замечатетьных людей
+http://srvru.play-x.ru/channel/n27abc281/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Галилео
+http://srvru.play-x.ru/channel/n3ea96c3f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Империя страсти
+http://srvru.play-x.ru/channel/3c95d63a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x 95 квартал
+http://srvru.play-x.ru/channel/n3466ab56/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Голые и смешные
+http://srvru.play-x.ru/channel/5ed278c2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Top Gear (Топ Гир)
+http://srvru.play-x.ru/channel/7122a436/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Царь горы
+http://srvru.play-x.ru/channel/n4825e609/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Следствие вели
+http://srvru.play-x.ru/channel/n590c846c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x В мире животных
+http://srvru.play-x.ru/channel/n6b0062e5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Клуб путешественников
+http://srvru.play-x.ru/channel/nd2b30fa/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Бородач
+http://srvru.play-x.ru/channel/6fb70ad7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Киножурнал Фитиль
+http://srvru.play-x.ru/channel/n17921542/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Русский ниндзя
+http://srvru.play-x.ru/channel/3c71ed5b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Четыре свадьбы
+http://srvru.play-x.ru/channel/n1e6beefa/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Слабое звено
+http://srvru.play-x.ru/channel/7915b2d6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Итальянцы by
+http://srvru.play-x.ru/channel/24248a56/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Наша раша
+http://srvru.play-x.ru/channel/n71def4c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Высоцкий Документалка
+http://srvru.play-x.ru/channel/n27b9b102/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Криминальная Россия
+http://srvru.play-x.ru/channel/na1b2ade/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Как это работает?
+http://srvru.play-x.ru/channel/6010826b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Задорнов
+http://srvru.play-x.ru/channel/n29a5f63/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x The Cube
+http://srvru.play-x.ru/channel/7721312d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x The Chase
+http://srvru.play-x.ru/channel/6cff09f6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Удивительная природа
+http://srvru.play-x.ru/channel/n49cf379b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Орел и решка
+http://srvru.play-x.ru/channel/n374fc8ae/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x +100500
+http://srvru.play-x.ru/channel/1173b9c6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Махинаторы
+http://srvru.play-x.ru/channel/n5d557a96/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Comedy Club
+http://srvru.play-x.ru/channel/n7eee6d2c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Что Где Когда
+http://srvru.play-x.ru/channel/n1f150747/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Разрушители легенд
+http://srvru.play-x.ru/channel/10920f32/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мужское и Женское
+http://srvru.play-x.ru/channel/n6acf17c4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Форт Боярд: Возвращение
+http://srvru.play-x.ru/channel/292ea747/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Советские детские фильмы
+http://srvru.play-x.ru/channel/n43dcb812/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ваш любимый детектив
+http://srvru.play-x.ru/channel/25b45405/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вокруг смеха
+http://srvru.play-x.ru/channel/n629917b0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Голубой огонек
+http://srvru.play-x.ru/channel/n44c5217/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Города Советского Союза
+http://srvru.play-x.ru/channel/61d7b58a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Жизнь в 90-е
+http://srvru.play-x.ru/channel/7c1713b2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Комедия! Комедия!!!
+http://srvru.play-x.ru/channel/n11a37869/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Очевидное  невероятное
+http://srvru.play-x.ru/channel/n970e341/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Программа ''Время''
+http://srvru.play-x.ru/channel/43d05d3b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Театр "Современник"
+http://srvru.play-x.ru/channel/30f53751/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Музыкальные фильмы
+http://srvru.play-x.ru/channel/30bb9a58/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Рок советского периода
+http://srvru.play-x.ru/channel/50cc0e07/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Советские видеоклипы
+http://srvru.play-x.ru/channel/5c8af0fd/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Cпокойной ночи малыши!
+http://srvru.play-x.ru/channel/1f083cc3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Утренняя почта
+http://srvru.play-x.ru/channel/n149f28cd/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Аншлаг  Аншлаг!
+http://srvru.play-x.ru/channel/5a328592/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Будильник
+http://srvru.play-x.ru/channel/n1f1288f1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Зарубежные страны глазами советского телевидения
+http://srvru.play-x.ru/channel/n4d332834/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Советский автопром
+http://srvru.play-x.ru/channel/be4b80a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Наш сад
+http://srvru.play-x.ru/channel/n2ed0392f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Компьютеры в СССР
+http://srvru.play-x.ru/channel/n4a43f743/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Советское радио.Передачи
+http://srvru.play-x.ru/channel/n299a54ed/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кабачок  13 стульев
+http://srvru.play-x.ru/channel/n449513c9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Юрий Никулин  Клуб Белый попугай
+http://srvru.play-x.ru/channel/94ffd65/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Comedy Club USSR
+http://srvru.play-x.ru/channel/10c7e749/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Меломан
+http://srvru.play-x.ru/channel/n5a065e7c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x RAP
+http://srvru.play-x.ru/channel/n23a2a808/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Дискотека 90-х
+http://srvru.play-x.ru/channel/n8fb5732/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Авторадио
+http://srvru.play-x.ru/channel/55c2f7e3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x ClubHouse HD
+http://srvru.play-x.ru/channel/n12026925/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Rammstein HD
+http://srvru.play-x.ru/channel/17b3294b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Каверы и лайвы
+http://srvru.play-x.ru/channel/6a48a862/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Dram Bass
+http://srvru.play-x.ru/channel/n1aae6744/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ленинград
+http://srvru.play-x.ru/channel/n268db5d0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Mafia
+http://srvru.play-x.ru/channel/3a2fb001/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Бутырка
+http://srvru.play-x.ru/channel/78618bf2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ляпис Трубецкой
+http://srvru.play-x.ru/channel/69fb2343/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Песня года
+http://srvru.play-x.ru/channel/n4cb79b6d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Алла Пугачёва
+http://srvru.play-x.ru/channel/n4d2361e0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Retro Disco
+http://srvru.play-x.ru/channel/n4c0625d1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Зололто шансона
+http://srvru.play-x.ru/channel/4ef60f69/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Виктор Цой и Группа КИНО
+http://srvru.play-x.ru/channel/n33454429/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Christmas Music
+http://srvru.play-x.ru/channel/n26d82ac2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Japan Music
+http://srvru.play-x.ru/channel/n2fb929be/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Underground Hit
+http://srvru.play-x.ru/channel/n2d1e6c77/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Korean Music
+http://srvru.play-x.ru/channel/272611f2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Александр Малинин
+http://srvru.play-x.ru/channel/d251312/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Сектор Газа
+http://srvru.play-x.ru/channel/264ab2af/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Концерт
+http://srvru.play-x.ru/channel/4ba88241/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x METAL
+http://srvru.play-x.ru/channel/3a22ad1e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Михаил Круг
+http://srvru.play-x.ru/channel/n1a1f0cdd/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Старые песни о главном
+http://srvru.play-x.ru/channel/n46ab3c7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Depeche Mode
+http://srvru.play-x.ru/channel/3d57a782/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ария
+http://srvru.play-x.ru/channel/n4eef5fd0/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Русский рок
+http://srvru.play-x.ru/channel/n15e4acd5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Disco - Дивы
+http://srvru.play-x.ru/channel/n1abdc881/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Robbie Williams
+http://srvru.play-x.ru/channel/n2a34fbd2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Юрий Шатунов
+http://srvru.play-x.ru/channel/n6773481c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x DiscoMan
+http://srvru.play-x.ru/channel/499c0809/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Arabesque (Sandra)
+http://srvru.play-x.ru/channel/n3c5a266a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Kylie Minogue
+http://srvru.play-x.ru/channel/n7b581915/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вокруг света за 80 дней
+http://srvru.play-x.ru/channel/3efb3091/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Новые приключения Скуби‑Ду
+http://srvru.play-x.ru/channel/309b46cd/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x A.L.F.
+http://srvru.play-x.ru/channel/nb8f3840/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x ALF
+http://srvru.play-x.ru/channel/n23a2e68e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Инспектор Гаджет
+http://srvru.play-x.ru/channel/4fd58c19/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Покемон
+http://srvru.play-x.ru/channel/53f5c3b8/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Чудеса на виражах
+http://srvru.play-x.ru/channel/1113f3d3/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Anime
+http://srvru.play-x.ru/channel/398c8a8b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Гравити Фолс
+http://srvru.play-x.ru/channel/n72cd07d6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Маша и медведь
+http://srvru.play-x.ru/channel/9397a93/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Новые приключения Винни Пуха
+http://srvru.play-x.ru/channel/477acbbb/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Русалочка
+http://srvru.play-x.ru/channel/32f3fdff/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Киносказка
+http://srvru.play-x.ru/channel/61ef1b7e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Грифины
+http://srvru.play-x.ru/channel/n2380be9c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Фиксики
+http://srvru.play-x.ru/channel/523d3d32/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Человек-паук
+http://srvru.play-x.ru/channel/18d22b58/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Том и Джери
+http://srvru.play-x.ru/channel/1a13bf5a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Масяня
+http://srvru.play-x.ru/channel/n3cf95d63/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Губка Боб
+http://srvru.play-x.ru/channel/6bac3132/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Союз мультфильм
+http://srvru.play-x.ru/channel/n5fc44aa2/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Секретные материалы псов-шпионов
+http://srvru.play-x.ru/channel/2fb61a45/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мимимишки
+http://srvru.play-x.ru/channel/70685229/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ферма монстров
+http://srvru.play-x.ru/channel/499d81be/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вуншпунш
+http://srvru.play-x.ru/channel/nd01af2c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Город Свиней
+http://srvru.play-x.ru/channel/6e558a38/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Что с Энди?
+http://srvru.play-x.ru/channel/n264a999a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Маша і ведмідь
+http://srvru.play-x.ru/channel/584533be/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Чародеи
+http://srvru.play-x.ru/channel/n1c63b5b9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Ну погоди
+http://srvru.play-x.ru/channel/2549dedf/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Буба
+http://srvru.play-x.ru/channel/n4eeee126/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Вспыш и чудо-машинки
+http://srvru.play-x.ru/channel/1175ff34/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Щенячий патруль
+http://srvru.play-x.ru/channel/n41e4bcfa/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Розовая пантера
+http://srvru.play-x.ru/channel/50e01172/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Охотники за привидениями
+http://srvru.play-x.ru/channel/5f0f0fc6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Финес и Ферб
+http://srvru.play-x.ru/channel/n6b350702/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Американский дракон Джейк Лонг
+http://srvru.play-x.ru/channel/n1d8191c7/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Новая семейка Аддамс
+http://srvru.play-x.ru/channel/na86f1e4/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Симпсоны
+http://srvru.play-x.ru/channel/n3ee77012/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Огги и тараканы
+http://srvru.play-x.ru/channel/n60c43db9/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X",Play-x Битлджус
+http://srvru.play-x.ru/channel/4d047189/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кинозал 10
+http://srvru.play-x.ru/channel/5046dee5/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кинозал 11
+http://srvru.play-x.ru/channel/5046dee6/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кинозал 18
+http://srvru.play-x.ru/channel/5046deed/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кинозал 22
+http://srvru.play-x.ru/channel/5046df06/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Кинозал 23
+http://srvru.play-x.ru/channel/5046df07/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Беларусьфильм
+http://srvru.play-x.ru/channel/6b195e07/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 2
+http://srvru.play-x.ru/channel/n6e3a8d4d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 11
+http://srvru.play-x.ru/channel/n59171c41/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 12
+http://srvru.play-x.ru/channel/n59171c40/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 13
+http://srvru.play-x.ru/channel/n59171c3f/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 14
+http://srvru.play-x.ru/channel/n59171c3e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 16
+http://srvru.play-x.ru/channel/n59171c3c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 1
+http://srvru.play-x.ru/channel/n6e3a8d4e/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 3
+http://srvru.play-x.ru/channel/n6e3a8d4c/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 4
+http://srvru.play-x.ru/channel/n6e3a8d4b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 5
+http://srvru.play-x.ru/channel/n6e3a8d4a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 6
+http://srvru.play-x.ru/channel/n6e3a8d49/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 7
+http://srvru.play-x.ru/channel/n6e3a8d48/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 8
+http://srvru.play-x.ru/channel/n6e3a8d47/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 9
+http://srvru.play-x.ru/channel/n6e3a8d46/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 10
+http://srvru.play-x.ru/channel/n59171c42/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 15
+http://srvru.play-x.ru/channel/n59171c3d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 17
+http://srvru.play-x.ru/channel/n59171c3b/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 18
+http://srvru.play-x.ru/channel/n59171c3a/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 19
+http://srvru.play-x.ru/channel/n59171c39/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Мосфильм 20
+http://srvru.play-x.ru/channel/n59171c23/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Арменфильм
+http://srvru.play-x.ru/channel/2ef822ec/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Новогодний калейдоскоп зарубежные
+http://srvru.play-x.ru/channel/n582d1e27/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Новогодний калейдоскоп мульты советские
+http://srvru.play-x.ru/channel/421898e1/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Новогодняя дискотека
+http://srvru.play-x.ru/channel/n333b64ec/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Новогодний калейдоскоп российские
+http://srvru.play-x.ru/channel/6469e13d/index.m3u8?q=577950063c2ab3f157549e419e16d765
+#EXTINF:-1 group-title="Кинозалы Play-X" tvg-logo="https://play-x.ru/logo.png",Play-x Новогодний калейдоскоп мульты зарубежные
+http://srvru.play-x.ru/channel/n30677cb8/index.m3u8?q=577950063c2ab3f157549e419e16d765
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JG_O6liA1oJqPHgwL34yf9vxJOxcm13rTXGPa96lL0X5.png" group-title="Ushba TV",Ushba TV-Retrovision Movies [480x360]
 http://45.142.122.146/channel/74be7ba5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JG_O6liA1oJqPHgwL34yf9vxJOxcm13rTXGPa96lL0X5.png" group-title="Ushba TV",Ushba TV-Кинозалы 1
