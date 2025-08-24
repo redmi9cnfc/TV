@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://45.142.122.146/epg.xml.gz?q=eyJ1c2VySWQiOiJLaXQydyJ9.gqS1LynLcHWCuIaxebAxAVh4Sr-CEO1pEGfkSY-ykNx1FXSmKf3eDC7PCjmkKFouQu3lSlZdrP1vvnhrMehM_w" description="Medium" size="Medium" background="#11609e"
+#EXTM3U
 #EXTINF:-1 group-title="Русские" tvg-id="hlsproxy-362" tvg-logo="http://1lot.tv/ch/20115.png" catchup="shift" catchup-days="1",Первый Канал HD (orig)
 http://45.142.122.146/channel/n4df45c39/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Русские" tvg-id="hlsproxy-362" tvg-logo="http://1lot.tv/ch/20105.png" catchup="shift" catchup-days="1",Первый Канал HD
@@ -4018,6 +4018,377 @@ http://45.142.122.146/channel/1ec0df06/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/5060647d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JO1Rz1owRjINgHlzufWhe0OBHUnQ4FKVm8WzmEjkhLb0.png" group-title="Кинодром",Скрипач ТВ
 http://45.142.122.146/channel/n5cddde53/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-277" tvg-logo="http://1lot.tv/ch/822.png" catchup="shift" catchup-days="2",Карусель
+http://45.142.122.146/channel/n5fdd2287/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://i.imgur.com/DnlngRZ.png" catchup="shift" catchup-days="2", Карусель International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-314" tvg-logo="http://1lot.tv/ch/407.png" catchup="shift" catchup-days="1",Мульт
+http://45.142.122.146/channel/64e5462f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-314" tvg-logo="http://1lot.tv/ch/0141.png" catchup="shift" catchup-days="1",Мульт HD
+http://45.142.122.146/channel/54e2d88d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-136" tvg-logo="http://1lot.tv/ch/14106.png" catchup="shift" catchup-days="1",Nickelodeon HD
+http://45.142.122.146/channel/531aa672/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-136" tvg-logo="http://1lot.tv/ch/709.png" catchup="shift" catchup-days="1",Nickelodeon
+http://45.142.122.146/channel/3849ca6a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-136" tvg-logo="http://1lot.tv/ch/8057.png" catchup="shift" catchup-days="1",Nickelodeon Global (UA)
+http://45.142.122.146/channel/5c06ff7c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-56" tvg-logo="http://1lot.tv/ch/19101.png" catchup="shift" catchup-days="1",Da Vinci
+http://45.142.122.146/channel/6a6745f9/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51109" tvg-logo="http://1lot.tv/ch/0148.png" catchup="shift" catchup-days="1",Капитан Фантастика
+http://45.142.122.146/channel/n2fd27dd7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-8521" tvg-logo="http://1lot.tv/ch/425.png" catchup="shift" catchup-days="2",В Гостях у Сказки
+http://45.142.122.146/channel/n5c3c7df0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-315" tvg-logo="http://1lot.tv/ch/428.png" catchup="shift" catchup-days="2",МультиЛандия
+http://45.142.122.146/channel/4dd6770c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-427" tvg-logo="http://1lot.tv/ch/420.png" catchup="shift" catchup-days="2",Мульт и Музыка
+http://45.142.122.146/channel/n205cb2f6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-40" tvg-logo="http://1lot.tv/ch/10697.png" catchup="shift" catchup-days="1",Baby Time
+http://45.142.122.146/channel/n6b02ee64/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-178" tvg-logo="http://1lot.tv/ch/2121.png" catchup="shift" catchup-days="2",TiJi
+http://45.142.122.146/channel/n7222ae31/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-102" tvg-logo="http://1lot.tv/ch/708.png" catchup="shift" catchup-days="1",JimJam
+http://45.142.122.146/channel/7acf24a3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-52" tvg-logo="http://1lot.tv/ch/802.png" catchup="shift" catchup-days="1",Cartoon Network
+http://45.142.122.146/channel/143e5941/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-135" tvg-logo="http://1lot.tv/ch/814.png" catchup="shift" catchup-days="1",Nick Jr.
+http://45.142.122.146/channel/n6c4034bc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-186" tvg-logo="http://1lot.tv/ch/808.png" catchup="shift" catchup-days="1",О!
+http://45.142.122.146/channel/n278ae662/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-1083" tvg-logo="http://1lot.tv/ch/821.png" catchup="shift" catchup-days="1",Cartoonito
+http://45.142.122.146/channel/n3303a8f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-89" tvg-logo="http://epg.one/img2/810.png" catchup="shift" catchup-days="1",Gulli Girl
+http://45.142.122.146/channel/3e2d3f7c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-506" tvg-logo="http://1lot.tv/ch/1312.png" catchup="shift" catchup-days="1",Солнце (RU)
+http://45.142.122.146/channel/1fb6ed35/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-53859" tvg-logo="http://1lot.tv/ch/5515.png" catchup="shift" catchup-days="3",Niki Junior HD
+http://45.142.122.146/channel/6516c227/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-53858" tvg-logo="http://1lot.tv/ch/5516.png" catchup="shift" catchup-days="3",Niki Kids HD
+http://45.142.122.146/channel/6f1b8ee3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="http://epg.one/img2/323.png" catchup="shift" catchup-days="1",2х2
+http://45.142.122.146/channel/361fe1c4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="https://iptvx.one/picons/2na2-pl4.png" catchup="shift" catchup-days="1" tvg-shift="+4",2х2 (+4)
+http://45.142.122.146/channel/7f05f94/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="https://iptvx.one/picons/2na2-pl7.png" catchup="shift" catchup-days="1" tvg-shift="+7",2х2 (+7)
+http://45.142.122.146/channel/7f05ff1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-54501" tvg-logo="http://1lot.tv/ch/5571.png" catchup="shift" catchup-days="3",СТС Kids
+http://45.142.122.146/channel/21a6b828/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55103" tvg-logo="http://1lot.tv/ch/6304.png" catchup="shift" catchup-days="1",FAN HD
+http://45.142.122.146/channel/71b95da4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-logo="https://rstatic.oshkole.ru/editor_images/215777.jpg" catchup="shift" catchup-days="3" tvg-id="no_epg_mult", Мультики
+https://v2.catcast.tv/content/47757/index.m3u8?password=kizugtv
+#EXTINF:-1 group-title="Детские" tvg-logo="https://rstatic.oshkole.ru/editor_images/215777.jpg" catchup="shift" catchup-days="3" tvg-id="no_epg_mult", Мультики 2
+https://v2.catcast.tv/content/47786/index.m3u8?password=kizugtv
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://tmsearch.onlinepatent.ru/images/34a/34ad2b69-e297-4db9-b698-e8a00c89aa58.jpg" catchup="shift" catchup-days="3", Маша и Медведь
+https://glb.bozztv.com/glb/ushba78/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-masha-i-medved-nadpis-na-prozrachnom-fone-12.jpg" catchup="shift" catchup-days="3", Маша и Медведь 2
+https://glb.bozztv.com/glb/ushba79/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-22070" tvg-logo="http://1lot.tv/ch/6546.png" catchup="shift" catchup-days="7",Смайл ТВ
+http://45.142.122.146/channel/n29d6a6ac/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-238" tvg-logo="http://1lot.tv/ch/1112.png" catchup="shift" catchup-days="2",Уникум
+http://45.142.122.146/channel/435f42b0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-424" tvg-logo="http://1lot.tv/ch/1117.png" catchup="shift" catchup-days="2",Шаян ТВ
+http://45.142.122.146/channel/1c0f2ebf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-54368" tvg-logo="http://1lot.tv/ch/1327.png" catchup="shift" catchup-days="1",NickToons
+http://45.142.122.146/channel/n18d8cde5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-241" tvg-logo="http://1lot.tv/ch/122.png" catchup="shift" catchup-days="1",СуперГерои
+http://45.142.122.146/channel/n7e170995/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="cartoons-big" tvg-logo="http://1lot.tv/ch/6836.png" catchup="shift" catchup-days="2",Cartoons Big
+http://45.142.122.146/channel/85a4d40/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="cartoons-short" tvg-logo="http://1lot.tv/ch/6835.png" catchup="shift" catchup-days="3",Cartoons Short
+http://45.142.122.146/channel/5beb44bc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="cartoons-90" tvg-logo="http://1lot.tv/ch/6834.png" catchup="shift" catchup-days="2",Cartoons 90
+http://45.142.122.146/channel/n62d3cd49/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2483" tvg-logo="http://1lot.tv/ch/6830.png" catchup="shift" catchup-days="7",Кроха ТВ
+http://45.142.122.146/channel/n14de0118/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/6818.png" catchup="shift" catchup-days="7",Веселая Карусель HD
+http://45.142.122.146/channel/n51fc561a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100571" tvg-logo="http://1lot.tv/ch/7187.png" catchup="shift" catchup-days="1",YOSSO TV Kids
+http://45.142.122.146/channel/4aa5dea9/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100541" tvg-logo="http://1lot.tv/ch/8757.png" catchup="shift" catchup-days="1",YOSSO TV Disney
+http://45.142.122.146/channel/2cbdb790/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100580" tvg-logo="http://1lot.tv/ch/7192.png" catchup="shift" catchup-days="1",YOSSO TV СоюзМульт
+http://45.142.122.146/channel/f273868/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100675" tvg-logo="http://1lot.tv/ch/7228.png" catchup="shift" catchup-days="1",CineMan Симпсоны
+http://45.142.122.146/channel/n2f5baa7d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-163" tvg-logo="http://1lot.tv/ch/7589.png" catchup="shift" catchup-days="1",Z! Smile HD
+http://45.142.122.146/channel/n6ac2714e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100605" tvg-logo="http://1lot.tv/ch/7638.png" catchup="shift" catchup-days="1",C-Cartoon HD
+http://45.142.122.146/channel/311816f3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100642" tvg-logo="http://1lot.tv/ch/7953.png" catchup="shift" catchup-days="1",SKY High Bunny HD
+http://45.142.122.146/channel/2e9ef27a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100550" tvg-logo="http://1lot.tv/ch/7969.png" catchup="shift" catchup-days="1",SKY High Kids USSR
+http://45.142.122.146/channel/n102ad4d4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100641" tvg-logo="http://1lot.tv/ch/7961.png" catchup="shift" catchup-days="1",SKY High Adult HD
+http://45.142.122.146/channel/4f474dc6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100550" tvg-logo="http://1lot.tv/ch/10277.png" catchup="shift" catchup-days="1",SKY High Jetix HD
+http://45.142.122.146/channel/293acf38/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55526" tvg-logo="http://1lot.tv/ch/6291.png" catchup="shift" catchup-days="1",BCU Kids HD
+http://45.142.122.146/channel/adea008/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55527" tvg-logo="http://1lot.tv/ch/6323.png" catchup="shift" catchup-days="1",BCU Kids+ HD
+http://45.142.122.146/channel/50f9cba5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55463" tvg-logo="http://1lot.tv/ch/6290.png" catchup="shift" catchup-days="1",BCU Multserial HD
+http://45.142.122.146/channel/5e276131/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="walt-disney-mm" tvg-logo="http://1lot.tv/ch/7234.png" catchup="shift" catchup-days="1",MM Walt Disney HD
+http://45.142.122.146/channel/120b20bf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="bcu-little" tvg-logo="http://1lot.tv/ch/8063.png" catchup="shift" catchup-days="1",BCU Little HD
+http://45.142.122.146/channel/n49b09b61/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="tom-and-jerry-mm" tvg-logo="http://1lot.tv/ch/7131.png" catchup="shift" catchup-days="1",MM Tom and Jerry HD
+http://45.142.122.146/channel/n79120446/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="mult-mm" tvg-logo="http://1lot.tv/ch/7136.png" catchup="shift" catchup-days="1",MM USSR Мультфильм HD
+http://45.142.122.146/channel/6db56311/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="ussr-skazki-mm" tvg-logo="http://1lot.tv/ch/7137.png" catchup="shift" catchup-days="1",MM USSR Сказки HD
+http://45.142.122.146/channel/6910d980/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51191" tvg-logo="http://1lot.tv/ch/7142.png" catchup="shift" catchup-days="1",MM Honey HD
+http://45.142.122.146/channel/n271dcda/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51191" tvg-logo="http://1lot.tv/ch/7158.png" catchup="shift" catchup-days="1",MM Lesson HD
+http://45.142.122.146/channel/1675325f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51191" tvg-logo="http://1lot.tv/ch/7159.png" catchup="shift" catchup-days="1",MM Smile HD
+http://45.142.122.146/channel/23fec39/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51191" tvg-logo="http://1lot.tv/ch/8232.png" catchup="shift" catchup-days="1",MM Гриффины HD
+http://45.142.122.146/channel/5292011c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="klifamily" tvg-logo="http://1lot.tv/ch/8041.png" catchup="shift" catchup-days="1",KLI Family HD
+http://45.142.122.146/channel/25c53745/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="klikids" tvg-logo="http://1lot.tv/ch/8345.png" catchup="shift" catchup-days="1",KLI Kids FHD
+http://45.142.122.146/channel/5ecd25e2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="klimult" tvg-logo="http://1lot.tv/ch/8346.png" catchup="shift" catchup-days="1",KLI Мультики HD
+http://45.142.122.146/channel/n2477f8c3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100620" tvg-logo="http://1lot.tv/ch/6567.png" catchup="shift" catchup-days="1",KBC-Family Animation
+http://45.142.122.146/channel/68b40c4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="kbc-multzal" tvg-logo="http://1lot.tv/ch/6578.png" catchup="shift" catchup-days="1",KBC-Союз МультЗал
+http://45.142.122.146/channel/2a83c8f6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="kbc-skazka-remake" tvg-logo="http://1lot.tv/ch/10254.png" catchup="shift" catchup-days="1",KBC-Сказочный Remake HD
+http://45.142.122.146/channel/n32a3d67f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-58" tvg-logo="http://1lot.tv/ch/8070.png" catchup="shift" catchup-days="1",Fresh Kids
+http://45.142.122.146/channel/2686dd3a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-1255" tvg-logo="http://1lot.tv/ch/8104.png" catchup="shift" catchup-days="1",Magic Disney
+http://45.142.122.146/channel/n27a577e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg" tvg-logo="https://psv4.userapi.com/s/v1/d/aPDGBrjTBjwcKaZlnPwPKLxJlMsHA_dTN6qHUtJ45hh7vyKUZSfGDvSx9QMUTSfDNfZrN7dfS6BPJRz6ZAayoUxFRAIGklwLi_Y8czYmSXHLYy8w7uXHcw/eralash.png" catchup="shift" catchup-days="1", Ералаш
+https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg" tvg-logo="https://psv4.userapi.com/s/v1/d/aPDGBrjTBjwcKaZlnPwPKLxJlMsHA_dTN6qHUtJ45hh7vyKUZSfGDvSx9QMUTSfDNfZrN7dfS6BPJRz6ZAayoUxFRAIGklwLi_Y8czYmSXHLYy8w7uXHcw/eralash.png" catchup="shift" catchup-days="1", Ералаш 2
+https://fl1004.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-595" tvg-logo="http://1lot.tv/ch/8115.png" catchup="shift" catchup-days="1",Ералаш HD
+http://45.142.122.146/channel/n600bd68d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="no-epg" tvg-logo="http://1lot.tv/ch/8116.png" catchup="shift" catchup-days="1",Том и Джерри
+http://45.142.122.146/channel/51640b48/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2333" tvg-logo="http://1lot.tv/ch/8151.png" catchup="shift" catchup-days="3",Duck
+http://45.142.122.146/channel/n7229c40c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2333" tvg-logo="http://1lot.tv/ch/8152.png" catchup="shift" catchup-days="3",Duck HD
+http://45.142.122.146/channel/n4a54af58/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2522" tvg-logo="http://1lot.tv/ch/8153.png" catchup="shift" catchup-days="3",Duck Plus HD
+http://45.142.122.146/channel/n4e51ef0a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-54501" tvg-logo="http://1lot.tv/ch/8156.png" catchup="shift" catchup-days="1",СТС Kids HD
+http://45.142.122.146/channel/850f7f4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-1279" tvg-logo="http://1lot.tv/ch/8216.png" catchup="shift" catchup-days="1",MyTV Kids
+http://45.142.122.146/channel/n6f4ae81c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img2/9181.png" catchup="shift" catchup-days="1", Sumiko
+http://158.160.149.81:8080/8709/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/8220.png" catchup="shift" catchup-days="1",Sky2000 Mult RU
+http://45.142.122.146/channel/496dbb37/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/8221.png" catchup="shift" catchup-days="1",Sky2000 Mult SU
+http://45.142.122.146/channel/496dbb56/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51108" tvg-logo="http://1lot.tv/ch/8418.png" catchup="shift" catchup-days="1",Рыжий
+http://45.142.122.146/channel/652131f1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-304" tvg-logo="http://1lot.tv/ch/19120.png" catchup="shift" catchup-days="1",Мама
+http://45.142.122.146/channel/n705bfadd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/9041.png" catchup="shift" catchup-days="1",Репка HD
+http://45.142.122.146/channel/159ddb37/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-239" tvg-logo="http://1lot.tv/ch/8599.png" catchup="shift" catchup-days="1",Детский Мир
+http://45.142.122.146/channel/6b05c124/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100674" tvg-logo="http://1lot.tv/ch/8600.png" catchup="shift" catchup-days="1",Лёва HD
+http://45.142.122.146/channel/n5cf0f4b3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-1007011" tvg-logo="http://1lot.tv/ch/9014.png" catchup="shift" catchup-days="1",Чижик
+http://45.142.122.146/channel/657b336c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/9044.png" catchup="shift" catchup-days="1",Sky2000 Mult MM HD
+http://45.142.122.146/channel/n7bc31f8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="TVPlayEralash.tv" tvg-logo="http://1lot.tv/ch/9224.png" catchup="shift" catchup-days="1",TVPlay Ералаш
+http://45.142.122.146/channel/60310c7d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="veles-kids" tvg-logo="http://1lot.tv/ch/9395.png" catchup="shift" catchup-days="1",VeleS Kids
+http://45.142.122.146/channel/n4da07c63/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="lapki-live" tvg-logo="http://1lot.tv/ch/9401.png" catchup="shift" catchup-days="1",Лапки Live
+http://45.142.122.146/channel/n77884721/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-719" tvg-logo="http://1lot.tv/ch/9408.png" catchup="shift" catchup-days="1",Пингвин Лоло
+http://45.142.122.146/channel/n10610fa7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540" tvg-id="no_epg_mult" group-title="Детские" catchup="shift" catchup-days="1", Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" group-title="Детские" catchup="shift" catchup-days="1", Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="Детские" catchup="shift" catchup-days="1", Детский телеканал Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" catchup="shift" catchup-days="1", СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYDISNEYFHD" tvg-logo="http://1lot.tv/ch/9461.png" catchup="shift" catchup-days="1",LIBERTY Дисней FHD
+http://45.142.122.146/channel/n2969d636/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYSIMPSONYFHD" tvg-logo="http://1lot.tv/ch/9465.png" catchup="shift" catchup-days="1",LIBERTY Симпсоны FHD
+http://45.142.122.146/channel/7550916b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYSOUTHPARKFHD" tvg-logo="http://1lot.tv/ch/9467.png" catchup="shift" catchup-days="1",LIBERTY Южный Парк FHD
+http://45.142.122.146/channel/6e01638e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYBEBIMULTFHD" tvg-logo="http://1lot.tv/ch/9472.png" catchup="shift" catchup-days="1",LIBERTY Бебимульт FHD
+http://45.142.122.146/channel/15ca6b5d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100552" tvg-logo="http://1lot.tv/ch/9486.png" catchup="shift" catchup-days="1",LIBERTY Сказки FHD
+http://45.142.122.146/channel/4bfa8ba4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYKROSHFHD" tvg-logo="http://1lot.tv/ch/9496.png" catchup="shift" catchup-days="1",LIBERTY Крош FHD
+http://45.142.122.146/channel/3faf8616/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYPLANKTONFHD" tvg-logo="http://1lot.tv/ch/9497.png" catchup="shift" catchup-days="1",LIBERTY Планктон FHD
+http://45.142.122.146/channel/n79fe8a0a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYMUUKRFHD" tvg-logo="http://1lot.tv/ch/9504.png" catchup="shift" catchup-days="1",LIBERTY Мульт UKR FHD
+http://45.142.122.146/channel/22cdaba4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="skycam_simpsony" tvg-name=skycam_simpsony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_simpsony.png",SkyCam Симпсоны
+#EXTGRP:Детские
+http://45.142.122.146/channel/66e77351/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="skycam_south_park" tvg-name=skycam_south_park group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_south_park.png",SkyCam Южный Парк
+#EXTGRP:Детские
+http://45.142.122.146/channel/24fcacf4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-52" tvg-logo="http://1lot.tv/ch/9665.png" catchup="shift" catchup-days="1",Cartoon Classics
+http://45.142.122.146/channel/4e88bd6e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="TVPlayThe90sCartoons.tv" tvg-logo="http://1lot.tv/ch/9809.png" catchup="shift" catchup-days="1",TVPlay The90s Cartoons
+http://45.142.122.146/channel/n2163c7d5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="TVPlayLadyBag.tv" tvg-logo="http://1lot.tv/ch/9812.png" catchup="shift" catchup-days="1",TVPlay Леди Баг и Супер Кот
+http://45.142.122.146/channel/n27a61e61/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="TVPlaySovMultHD.tv" tvg-logo="http://1lot.tv/ch/9376.png" catchup="shift" catchup-days="1",TVPlay Советские Мультфильмы HD
+http://45.142.122.146/channel/n60d72aeb/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="velilla-tij" tvg-logo="http://1lot.tv/ch/9865.png" catchup="shift" catchup-days="1",Velilla TV Том и Джерри HD
+http://45.142.122.146/channel/n367306c9/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="cartoonsdisney" tvg-logo="http://1lot.tv/ch/10191.png" catchup="shift" catchup-days="1",Velilla TV Cartoons Disney 4K
+http://45.142.122.146/channel/n4f18cb20/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="velilla-detsky" tvg-logo="http://1lot.tv/ch/10403.png" catchup="shift" catchup-days="1",Velilla TV Детский HD
+http://45.142.122.146/channel/n1cd7fe47/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="fizmultprivet_hd" tvg-logo="http://1lot.tv/ch/10002.png" catchup="shift" catchup-days="1",Чебур ТВ - Физ Мульт Привет FHD
+http://45.142.122.146/channel/n607bccdb/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="mult_epoha_uhd" tvg-logo="http://1lot.tv/ch/10019.png" catchup="shift" catchup-days="1",Чебур ТВ - МультЭпоха СССР
+http://45.142.122.146/channel/n31d91bb6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="MultSeries" tvg-logo="http://1lot.tv/ch/10020.png" catchup="shift" catchup-days="1",Чебур ТВ - MultSeries FHD
+http://45.142.122.146/channel/51a95a91/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="detstvo_ussr" tvg-logo="http://1lot.tv/ch/10031.png" catchup="shift" catchup-days="1",Чебур ТВ - Наше Детство СССР
+http://45.142.122.146/channel/n7aa50597/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="multiki_hd" tvg-logo="http://1lot.tv/ch/9988.png" catchup="shift" catchup-days="1",Чебур ТВ - Мультики HD
+http://45.142.122.146/channel/9f438c8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10044.png" catchup="shift" catchup-days="7",Jetix Anime
+http://45.142.122.146/channel/n7ac347df/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_aladdin" tvg-name=kernel_aladdin group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_aladdin.png",Kernel TV Аладдин
+#EXTGRP:Детские
+http://45.142.122.146/channel/n384dd69a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_alice" tvg-name=kernel_alice group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_alice.png",Kernel TV Алиса
+#EXTGRP:Детские
+http://45.142.122.146/channel/32d76e7b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_anime" tvg-name=kernel_anime group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_anime.png",Kernel TV Аниме
+#EXTGRP:Детские
+http://45.142.122.146/channel/3bc6753c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_barboskiny" tvg-name=kernel_barboskiny group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_barboskiny.png",Kernel TV Барбоскины
+#EXTGRP:Детские
+http://45.142.122.146/channel/n1bfecd92/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_ben_ten" tvg-name=kernel_ben_ten group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ben_ten.png",Kernel TV Бен 10
+#EXTGRP:Детские
+http://45.142.122.146/channel/6e641ef5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_buba" tvg-name=kernel_buba group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_buba.png",Kernel TV Буба
+#EXTGRP:Детские
+http://45.142.122.146/channel/5c761129/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_carevny" tvg-name=kernel_carevny group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_carevny.png",Kernel TV Царевны
+#EXTGRP:Детские
+http://45.142.122.146/channel/26b6ab51/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_chernyy_plashch" tvg-name=kernel_chernyy_plashch group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_chernyy_plashch.png",Kernel TV Чёрный плащ
+#EXTGRP:Детские
+http://45.142.122.146/channel/2c1325b1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_chip_i_deyl" tvg-name=kernel_chip_i_deyl group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_chip_i_deyl.png",Kernel TV Чип и Дейл
+#EXTGRP:Детские
+http://45.142.122.146/channel/3263dacd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_dracony_i_vsadniki" tvg-name=kernel_dracony_i_vsadniki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_dracony_i_vsadniki.png",Kernel TV Драконы и всадники Олуха
+#EXTGRP:Детские
+http://45.142.122.146/channel/4e0c695f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_ductles" tvg-name=kernel_ductles group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ductles.png",Kernel TV Утиные истории
+#EXTGRP:Детские
+http://45.142.122.146/channel/n5b11e2bf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_fines_i_ferb" tvg-name=kernel_fines_i_ferb group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_fines_i_ferb.png",Kernel TV Финис и Ферб
+#EXTGRP:Детские
+http://45.142.122.146/channel/n33df0c78/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_fixiki" tvg-name=kernel_fixiki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_fixiki.png",Kernel TV Фиксики
+#EXTGRP:Детские
+http://45.142.122.146/channel/n1adcdc49/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_futurama" tvg-name=kernel_futurama group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_futurama.png",Kernel TV Футурама
+#EXTGRP:Детские
+http://45.142.122.146/channel/520f41e5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_grand_spider_man" tvg-name=kernel_grand_spider_man group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_grand_spider_man.png",Kernel TV Человек-паук
+#EXTGRP:Детские
+http://45.142.122.146/channel/n2d6839b0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_gravity_falls" tvg-name=kernel_gravity_falls group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_gravity_falls.png",Kernel TV Гравити Фолз
+#EXTGRP:Детские
+http://45.142.122.146/channel/1e5460c6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_gubob" tvg-name=kernel_gubob group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_gubob.png",Kernel TV Губка Боб Квадратные Штаны
+#EXTGRP:Детские
+http://45.142.122.146/channel/1b96df3e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_ledi_bag" tvg-name=kernel_ledi_bag group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ledi_bag.png",Kernel TV Леди Баг и супер Кот
+#EXTGRP:Детские
+http://45.142.122.146/channel/n66d5f260/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_lego" tvg-name=kernel_lego group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_lego.png",Kernel TV Лего
+#EXTGRP:Детские
+http://45.142.122.146/channel/1ab8b38d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_lilo_i_stith" tvg-name=kernel_lilo_i_stith group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_lilo_i_stith.png",Kernel TV Лило и Стич
+#EXTGRP:Детские
+http://45.142.122.146/channel/n4a8582f8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_luk_time" tvg-name=kernel_luk_time group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_luk_time.png",Kernel TV Люк путешественник во времени
+#EXTGRP:Детские
+http://45.142.122.146/channel/33754a20/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_luntik" tvg-name=kernel_luntik group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_luntik.png",Kernel TV Лунтик
+#EXTGRP:Детские
+http://45.142.122.146/channel/284d2027/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_malyh" tvg-name=kernel_malyh group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_malyh.png",Kernel TV Малыш
+#EXTGRP:Детские
+http://45.142.122.146/channel/n6203ab48/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_masha_i_medved" tvg-name=kernel_masha_i_medved group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_masha_i_medved.png",Kernel TV Маша и Медведь
+#EXTGRP:Детские
+http://45.142.122.146/channel/67857a3a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_mimimihki" tvg-name=kernel_mimimihki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_mimimihki.png",Kernel TV Ми-ми-мишки
+#EXTGRP:Детские
+http://45.142.122.146/channel/n7e03b62e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_miniforce" tvg-name=kernel_miniforce group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_miniforce.png",Kernel TV МиниФорс
+#EXTGRP:Детские
+http://45.142.122.146/channel/n3c0e73cd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_my_litle_pony" tvg-name=kernel_my_litle_pony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_my_litle_pony.png",Kernel TV Мой маленький Пони
+#EXTGRP:Детские
+http://45.142.122.146/channel/n2e42a8f7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_girls" tvg-name=kernel_girls group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_girls.png",Kernel TV Подружки
+#EXTGRP:Детские
+http://45.142.122.146/channel/6c2b5a8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_puhustici" tvg-name=kernel_puhustici group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_puhustici.png",Kernel TV Пушистики
+#EXTGRP:Детские
+http://45.142.122.146/channel/n39abb4e7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_pups_patrol" tvg-name=kernel_pups_patrol group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_pups_patrol.png",Kernel TV Щенячий патруль
+#EXTGRP:Детские
+http://45.142.122.146/channel/1f48d48b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_rusalochka" tvg-name=kernel_rusalochka group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_rusalochka.png",Kernel TV Русалочка
+#EXTGRP:Детские
+http://45.142.122.146/channel/n4f6238e7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_shkodniki" tvg-name=kernel_shkodniki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_shkodniki.png",Kernel TV Шкодники
+#EXTGRP:Детские
+http://45.142.122.146/channel/n1586fa13/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_smeshariki" tvg-name=kernel_smeshariki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_smeshariki.png",Kernel TV Смешарики
+#EXTGRP:Детские
+http://45.142.122.146/channel/ea5c1f4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_sonic_bum" tvg-name=kernel_sonic_bum group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_sonic_bum.png",Kernel TV Сонник Бум
+#EXTGRP:Детские
+http://45.142.122.146/channel/7affff38/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_super_wings" tvg-name=kernel_super_wings group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_super_wings.png",Kernel TV Супер крылья
+#EXTGRP:Детские
+http://45.142.122.146/channel/73a64915/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_timon_i_pumba" tvg-name=kernel_timon_i_pumba group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_timon_i_pumba.png",Kernel TV Тимон и Пумба
+#EXTGRP:Детские
+http://45.142.122.146/channel/3feab0b0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_tom_i_djerri" tvg-name=kernel_tom_i_djerri group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_tom_i_djerri.png",Kernel TV Том и Джерри
+#EXTGRP:Детские
+http://45.142.122.146/channel/n1dd633f2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_tri_cota" tvg-name=kernel_tri_cota group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_tri_cota.png",Kernel TV Три кота
+#EXTGRP:Детские
+http://45.142.122.146/channel/591913bc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_turbo" tvg-name=kernel_turbo group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_turbo.png",Kernel TV Команда Турбо
+#EXTGRP:Детские
+http://45.142.122.146/channel/n66c459d7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_turtles_ninja" tvg-name=kernel_turtles_ninja group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_turtles_ninja.png",Kernel TV Черепашки ниндзя
+#EXTGRP:Детские
+http://45.142.122.146/channel/4e9a2947/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:0 tvg-id="kernel_vini_i_ego_druzya" tvg-name=kernel_vini_i_ego_druzya group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_vini_i_ego_druzya.png",Kernel TV Винни и его друзья
+#EXTGRP:Детские
+http://45.142.122.146/channel/n40f40eb8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+
 #EXTINF:-1 group-title="Разное" tvg-id="goldline-naked" tvg-logo="http://1lot.tv/ch/10286.png" catchup="shift" catchup-days="1",GL Naked and Funny (Голые и cмешные)
 http://45.142.122.146/channel/nd30b4e4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Разное" tvg-id="goldline-naked" tvg-logo="http://1lot.tv/ch/10286.png" catchup="shift" catchup-days="1",GL Naked and Funny (Голые и cмешные)
@@ -4832,6 +5203,77 @@ http://45.142.122.146/channel/4fc81d15/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/643b195f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOtkIwdhmt-dn3k0JVzChrIUwbQARi5Nye5CjVKOsF4I.png" group-title="Org-TV" tvg-id="hlsproxy-52318",MiTV Arabesque (Sandra)
 http://45.142.122.146/channel/n3fcbf05e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 1
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64331.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 2
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64332.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 3
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64330.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 4
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65374.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 5
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64777.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 6
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64781.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 7
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65375.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 8
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64822.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 9
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/100624.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 10
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/244486.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 11
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65376.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 12
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/264811.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 13
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/246028.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 14
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66287.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 15
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/81968.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 16
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66433.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 17
+http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64782.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 18
+https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Cozy Vibes
+https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Fireplace
+https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8
+
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png" tvg-id="Sochi Live" group-title="Relax", SOCHI LIVE HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.yandex.net/get-music-content/108289/c999e45a.a.7729293-1/m1000x1000?webp=false" group-title="Relax", Lounge Deluxe
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Relax" tvg-logo="https://www.parsatv.com/thumb.php?w=560&h=315&src=https://www.parsatv.com/index_files/channels/barazatv.jpg", Baraza TV Relax Music
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Relax" tvg-logo="https://www.parsatv.com/thumb.php?w=560&h=315&src=https://www.parsatv.com/index_files/channels/barazatv.jpg", Baraza Relax TV Music
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="4K" tvg-id="hlsproxy-1205" tvg-logo="http://1lot.tv/ch/6313.png" catchup="shift" catchup-days="3",Home UHD
 http://45.142.122.146/channel/729a2f0b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="4K" tvg-id="insight-ultra-hd" tvg-logo="http://1lot.tv/ch/6314.png" catchup="shift" catchup-days="1",Инсайт ТВ UHD
@@ -5622,351 +6064,6 @@ http://45.142.122.146/channel/1987454c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/n5cf0c7e1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Спорт" tvg-id="equalympic" tvg-logo="http://1lot.tv/ch/10682.png" catchup="shift" catchup-days="1",Equalympic HD
 http://45.142.122.146/channel/1456bdbf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-136" tvg-logo="http://1lot.tv/ch/14106.png" catchup="shift" catchup-days="1",Nickelodeon HD
-http://45.142.122.146/channel/531aa672/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-136" tvg-logo="http://1lot.tv/ch/709.png" catchup="shift" catchup-days="1",Nickelodeon
-http://45.142.122.146/channel/3849ca6a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-136" tvg-logo="http://1lot.tv/ch/8057.png" catchup="shift" catchup-days="1",Nickelodeon Global (UA)
-http://45.142.122.146/channel/5c06ff7c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-56" tvg-logo="http://1lot.tv/ch/19101.png" catchup="shift" catchup-days="1",Da Vinci
-http://45.142.122.146/channel/6a6745f9/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51109" tvg-logo="http://1lot.tv/ch/0148.png" catchup="shift" catchup-days="1",Капитан Фантастика
-http://45.142.122.146/channel/n2fd27dd7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-8521" tvg-logo="http://1lot.tv/ch/425.png" catchup="shift" catchup-days="2",В Гостях у Сказки
-http://45.142.122.146/channel/n5c3c7df0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-314" tvg-logo="http://1lot.tv/ch/0141.png" catchup="shift" catchup-days="1",Мульт HD
-http://45.142.122.146/channel/54e2d88d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-314" tvg-logo="http://1lot.tv/ch/407.png" catchup="shift" catchup-days="1",Мульт
-http://45.142.122.146/channel/64e5462f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-315" tvg-logo="http://1lot.tv/ch/428.png" catchup="shift" catchup-days="2",МультиЛандия
-http://45.142.122.146/channel/4dd6770c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-427" tvg-logo="http://1lot.tv/ch/420.png" catchup="shift" catchup-days="2",Мульт и Музыка
-http://45.142.122.146/channel/n205cb2f6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-40" tvg-logo="http://1lot.tv/ch/10697.png" catchup="shift" catchup-days="1",Baby Time
-http://45.142.122.146/channel/n6b02ee64/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-277" tvg-logo="http://1lot.tv/ch/822.png" catchup="shift" catchup-days="2",Карусель
-http://45.142.122.146/channel/n5fdd2287/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-178" tvg-logo="http://1lot.tv/ch/2121.png" catchup="shift" catchup-days="2",TiJi
-http://45.142.122.146/channel/n7222ae31/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-102" tvg-logo="http://1lot.tv/ch/708.png" catchup="shift" catchup-days="1",JimJam
-http://45.142.122.146/channel/7acf24a3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-52" tvg-logo="http://1lot.tv/ch/802.png" catchup="shift" catchup-days="1",Cartoon Network
-http://45.142.122.146/channel/143e5941/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-135" tvg-logo="http://1lot.tv/ch/814.png" catchup="shift" catchup-days="1",Nick Jr.
-http://45.142.122.146/channel/n6c4034bc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-186" tvg-logo="http://1lot.tv/ch/808.png" catchup="shift" catchup-days="1",О!
-http://45.142.122.146/channel/n278ae662/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-1083" tvg-logo="http://1lot.tv/ch/821.png" catchup="shift" catchup-days="1",Cartoonito
-http://45.142.122.146/channel/n3303a8f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-89" tvg-logo="http://epg.one/img2/810.png" catchup="shift" catchup-days="1",Gulli Girl
-http://45.142.122.146/channel/3e2d3f7c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-506" tvg-logo="http://1lot.tv/ch/1312.png" catchup="shift" catchup-days="1",Солнце (RU)
-http://45.142.122.146/channel/1fb6ed35/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-53859" tvg-logo="http://1lot.tv/ch/5515.png" catchup="shift" catchup-days="3",Niki Junior HD
-http://45.142.122.146/channel/6516c227/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-53858" tvg-logo="http://1lot.tv/ch/5516.png" catchup="shift" catchup-days="3",Niki Kids HD
-http://45.142.122.146/channel/6f1b8ee3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="http://epg.one/img2/323.png" catchup="shift" catchup-days="1",2х2
-http://45.142.122.146/channel/361fe1c4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="https://iptvx.one/picons/2na2-pl4.png" catchup="shift" catchup-days="1" tvg-shift="+4",2х2 (+4)
-http://45.142.122.146/channel/7f05f94/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-276" tvg-logo="https://iptvx.one/picons/2na2-pl7.png" catchup="shift" catchup-days="1" tvg-shift="+7",2х2 (+7)
-http://45.142.122.146/channel/7f05ff1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-54501" tvg-logo="http://1lot.tv/ch/5571.png" catchup="shift" catchup-days="3",СТС Kids
-http://45.142.122.146/channel/21a6b828/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55103" tvg-logo="http://1lot.tv/ch/6304.png" catchup="shift" catchup-days="1",FAN HD
-http://45.142.122.146/channel/71b95da4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-22070" tvg-logo="http://1lot.tv/ch/6546.png" catchup="shift" catchup-days="7",Смайл ТВ
-http://45.142.122.146/channel/n29d6a6ac/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-238" tvg-logo="http://1lot.tv/ch/1112.png" catchup="shift" catchup-days="2",Уникум
-http://45.142.122.146/channel/435f42b0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-424" tvg-logo="http://1lot.tv/ch/1117.png" catchup="shift" catchup-days="2",Шаян ТВ
-http://45.142.122.146/channel/1c0f2ebf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-54368" tvg-logo="http://1lot.tv/ch/1327.png" catchup="shift" catchup-days="1",NickToons
-http://45.142.122.146/channel/n18d8cde5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-241" tvg-logo="http://1lot.tv/ch/122.png" catchup="shift" catchup-days="1",СуперГерои
-http://45.142.122.146/channel/n7e170995/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="cartoons-big" tvg-logo="http://1lot.tv/ch/6836.png" catchup="shift" catchup-days="2",Cartoons Big
-http://45.142.122.146/channel/85a4d40/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="cartoons-short" tvg-logo="http://1lot.tv/ch/6835.png" catchup="shift" catchup-days="3",Cartoons Short
-http://45.142.122.146/channel/5beb44bc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="cartoons-90" tvg-logo="http://1lot.tv/ch/6834.png" catchup="shift" catchup-days="2",Cartoons 90
-http://45.142.122.146/channel/n62d3cd49/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2483" tvg-logo="http://1lot.tv/ch/6830.png" catchup="shift" catchup-days="7",Кроха ТВ
-http://45.142.122.146/channel/n14de0118/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/6818.png" catchup="shift" catchup-days="7",Веселая Карусель HD
-http://45.142.122.146/channel/n51fc561a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100571" tvg-logo="http://1lot.tv/ch/7187.png" catchup="shift" catchup-days="1",YOSSO TV Kids
-http://45.142.122.146/channel/4aa5dea9/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100541" tvg-logo="http://1lot.tv/ch/8757.png" catchup="shift" catchup-days="1",YOSSO TV Disney
-http://45.142.122.146/channel/2cbdb790/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100580" tvg-logo="http://1lot.tv/ch/7192.png" catchup="shift" catchup-days="1",YOSSO TV СоюзМульт
-http://45.142.122.146/channel/f273868/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100675" tvg-logo="http://1lot.tv/ch/7228.png" catchup="shift" catchup-days="1",CineMan Симпсоны
-http://45.142.122.146/channel/n2f5baa7d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-163" tvg-logo="http://1lot.tv/ch/7589.png" catchup="shift" catchup-days="1",Z! Smile HD
-http://45.142.122.146/channel/n6ac2714e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100605" tvg-logo="http://1lot.tv/ch/7638.png" catchup="shift" catchup-days="1",C-Cartoon HD
-http://45.142.122.146/channel/311816f3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100642" tvg-logo="http://1lot.tv/ch/7953.png" catchup="shift" catchup-days="1",SKY High Bunny HD
-http://45.142.122.146/channel/2e9ef27a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100550" tvg-logo="http://1lot.tv/ch/7969.png" catchup="shift" catchup-days="1",SKY High Kids USSR
-http://45.142.122.146/channel/n102ad4d4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100641" tvg-logo="http://1lot.tv/ch/7961.png" catchup="shift" catchup-days="1",SKY High Adult HD
-http://45.142.122.146/channel/4f474dc6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100550" tvg-logo="http://1lot.tv/ch/10277.png" catchup="shift" catchup-days="1",SKY High Jetix HD
-http://45.142.122.146/channel/293acf38/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55526" tvg-logo="http://1lot.tv/ch/6291.png" catchup="shift" catchup-days="1",BCU Kids HD
-http://45.142.122.146/channel/adea008/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55527" tvg-logo="http://1lot.tv/ch/6323.png" catchup="shift" catchup-days="1",BCU Kids+ HD
-http://45.142.122.146/channel/50f9cba5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55463" tvg-logo="http://1lot.tv/ch/6290.png" catchup="shift" catchup-days="1",BCU Multserial HD
-http://45.142.122.146/channel/5e276131/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="walt-disney-mm" tvg-logo="http://1lot.tv/ch/7234.png" catchup="shift" catchup-days="1",MM Walt Disney HD
-http://45.142.122.146/channel/120b20bf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="bcu-little" tvg-logo="http://1lot.tv/ch/8063.png" catchup="shift" catchup-days="1",BCU Little HD
-http://45.142.122.146/channel/n49b09b61/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="tom-and-jerry-mm" tvg-logo="http://1lot.tv/ch/7131.png" catchup="shift" catchup-days="1",MM Tom and Jerry HD
-http://45.142.122.146/channel/n79120446/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="mult-mm" tvg-logo="http://1lot.tv/ch/7136.png" catchup="shift" catchup-days="1",MM USSR Мультфильм HD
-http://45.142.122.146/channel/6db56311/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="ussr-skazki-mm" tvg-logo="http://1lot.tv/ch/7137.png" catchup="shift" catchup-days="1",MM USSR Сказки HD
-http://45.142.122.146/channel/6910d980/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51191" tvg-logo="http://1lot.tv/ch/7142.png" catchup="shift" catchup-days="1",MM Honey HD
-http://45.142.122.146/channel/n271dcda/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51191" tvg-logo="http://1lot.tv/ch/7158.png" catchup="shift" catchup-days="1",MM Lesson HD
-http://45.142.122.146/channel/1675325f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51191" tvg-logo="http://1lot.tv/ch/7159.png" catchup="shift" catchup-days="1",MM Smile HD
-http://45.142.122.146/channel/23fec39/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51191" tvg-logo="http://1lot.tv/ch/8232.png" catchup="shift" catchup-days="1",MM Гриффины HD
-http://45.142.122.146/channel/5292011c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="klifamily" tvg-logo="http://1lot.tv/ch/8041.png" catchup="shift" catchup-days="1",KLI Family HD
-http://45.142.122.146/channel/25c53745/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="klikids" tvg-logo="http://1lot.tv/ch/8345.png" catchup="shift" catchup-days="1",KLI Kids FHD
-http://45.142.122.146/channel/5ecd25e2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="klimult" tvg-logo="http://1lot.tv/ch/8346.png" catchup="shift" catchup-days="1",KLI Мультики HD
-http://45.142.122.146/channel/n2477f8c3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100620" tvg-logo="http://1lot.tv/ch/6567.png" catchup="shift" catchup-days="1",KBC-Family Animation
-http://45.142.122.146/channel/68b40c4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="kbc-multzal" tvg-logo="http://1lot.tv/ch/6578.png" catchup="shift" catchup-days="1",KBC-Союз МультЗал
-http://45.142.122.146/channel/2a83c8f6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="kbc-skazka-remake" tvg-logo="http://1lot.tv/ch/10254.png" catchup="shift" catchup-days="1",KBC-Сказочный Remake HD
-http://45.142.122.146/channel/n32a3d67f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-58" tvg-logo="http://1lot.tv/ch/8070.png" catchup="shift" catchup-days="1",Fresh Kids
-http://45.142.122.146/channel/2686dd3a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-1255" tvg-logo="http://1lot.tv/ch/8104.png" catchup="shift" catchup-days="1",Magic Disney
-http://45.142.122.146/channel/n27a577e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-595" tvg-logo="http://1lot.tv/ch/8115.png" catchup="shift" catchup-days="1",Ералаш HD
-http://45.142.122.146/channel/n600bd68d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="no-epg" tvg-logo="http://1lot.tv/ch/8116.png" catchup="shift" catchup-days="1",Том и Джерри
-http://45.142.122.146/channel/51640b48/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2333" tvg-logo="http://1lot.tv/ch/8151.png" catchup="shift" catchup-days="3",Duck
-http://45.142.122.146/channel/n7229c40c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2333" tvg-logo="http://1lot.tv/ch/8152.png" catchup="shift" catchup-days="3",Duck HD
-http://45.142.122.146/channel/n4a54af58/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-2522" tvg-logo="http://1lot.tv/ch/8153.png" catchup="shift" catchup-days="3",Duck Plus HD
-http://45.142.122.146/channel/n4e51ef0a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-54501" tvg-logo="http://1lot.tv/ch/8156.png" catchup="shift" catchup-days="1",СТС Kids HD
-http://45.142.122.146/channel/850f7f4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-1279" tvg-logo="http://1lot.tv/ch/8216.png" catchup="shift" catchup-days="1",MyTV Kids
-http://45.142.122.146/channel/n6f4ae81c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/8220.png" catchup="shift" catchup-days="1",Sky2000 Mult RU
-http://45.142.122.146/channel/496dbb37/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/8221.png" catchup="shift" catchup-days="1",Sky2000 Mult SU
-http://45.142.122.146/channel/496dbb56/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-51108" tvg-logo="http://1lot.tv/ch/8418.png" catchup="shift" catchup-days="1",Рыжий
-http://45.142.122.146/channel/652131f1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-304" tvg-logo="http://1lot.tv/ch/19120.png" catchup="shift" catchup-days="1",Мама
-http://45.142.122.146/channel/n705bfadd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/9041.png" catchup="shift" catchup-days="1",Репка HD
-http://45.142.122.146/channel/159ddb37/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-239" tvg-logo="http://1lot.tv/ch/8599.png" catchup="shift" catchup-days="1",Детский Мир
-http://45.142.122.146/channel/6b05c124/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100674" tvg-logo="http://1lot.tv/ch/8600.png" catchup="shift" catchup-days="1",Лёва HD
-http://45.142.122.146/channel/n5cf0f4b3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-1007011" tvg-logo="http://1lot.tv/ch/9014.png" catchup="shift" catchup-days="1",Чижик
-http://45.142.122.146/channel/657b336c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/9044.png" catchup="shift" catchup-days="1",Sky2000 Mult MM HD
-http://45.142.122.146/channel/n7bc31f8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="TVPlayEralash.tv" tvg-logo="http://1lot.tv/ch/9224.png" catchup="shift" catchup-days="1",TVPlay Ералаш
-http://45.142.122.146/channel/60310c7d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="veles-kids" tvg-logo="http://1lot.tv/ch/9395.png" catchup="shift" catchup-days="1",VeleS Kids
-http://45.142.122.146/channel/n4da07c63/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="lapki-live" tvg-logo="http://1lot.tv/ch/9401.png" catchup="shift" catchup-days="1",Лапки Live
-http://45.142.122.146/channel/n77884721/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-719" tvg-logo="http://1lot.tv/ch/9408.png" catchup="shift" catchup-days="1",Пингвин Лоло
-http://45.142.122.146/channel/n10610fa7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYDISNEYFHD" tvg-logo="http://1lot.tv/ch/9461.png" catchup="shift" catchup-days="1",LIBERTY Дисней FHD
-http://45.142.122.146/channel/n2969d636/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYSIMPSONYFHD" tvg-logo="http://1lot.tv/ch/9465.png" catchup="shift" catchup-days="1",LIBERTY Симпсоны FHD
-http://45.142.122.146/channel/7550916b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYSOUTHPARKFHD" tvg-logo="http://1lot.tv/ch/9467.png" catchup="shift" catchup-days="1",LIBERTY Южный Парк FHD
-http://45.142.122.146/channel/6e01638e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYBEBIMULTFHD" tvg-logo="http://1lot.tv/ch/9472.png" catchup="shift" catchup-days="1",LIBERTY Бебимульт FHD
-http://45.142.122.146/channel/15ca6b5d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-100552" tvg-logo="http://1lot.tv/ch/9486.png" catchup="shift" catchup-days="1",LIBERTY Сказки FHD
-http://45.142.122.146/channel/4bfa8ba4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYKROSHFHD" tvg-logo="http://1lot.tv/ch/9496.png" catchup="shift" catchup-days="1",LIBERTY Крош FHD
-http://45.142.122.146/channel/3faf8616/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYPLANKTONFHD" tvg-logo="http://1lot.tv/ch/9497.png" catchup="shift" catchup-days="1",LIBERTY Планктон FHD
-http://45.142.122.146/channel/n79fe8a0a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYMUUKRFHD" tvg-logo="http://1lot.tv/ch/9504.png" catchup="shift" catchup-days="1",LIBERTY Мульт UKR FHD
-http://45.142.122.146/channel/22cdaba4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="skycam_simpsony" tvg-name=skycam_simpsony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_simpsony.png",SkyCam Симпсоны
-#EXTGRP:Детские
-http://45.142.122.146/channel/66e77351/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="skycam_south_park" tvg-name=skycam_south_park group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_south_park.png",SkyCam Южный Парк
-#EXTGRP:Детские
-http://45.142.122.146/channel/24fcacf4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-52" tvg-logo="http://1lot.tv/ch/9665.png" catchup="shift" catchup-days="1",Cartoon Classics
-http://45.142.122.146/channel/4e88bd6e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="TVPlayThe90sCartoons.tv" tvg-logo="http://1lot.tv/ch/9809.png" catchup="shift" catchup-days="1",TVPlay The90s Cartoons
-http://45.142.122.146/channel/n2163c7d5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="TVPlayLadyBag.tv" tvg-logo="http://1lot.tv/ch/9812.png" catchup="shift" catchup-days="1",TVPlay Леди Баг и Супер Кот
-http://45.142.122.146/channel/n27a61e61/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="TVPlaySovMultHD.tv" tvg-logo="http://1lot.tv/ch/9376.png" catchup="shift" catchup-days="1",TVPlay Советские Мультфильмы HD
-http://45.142.122.146/channel/n60d72aeb/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="velilla-tij" tvg-logo="http://1lot.tv/ch/9865.png" catchup="shift" catchup-days="1",Velilla TV Том и Джерри HD
-http://45.142.122.146/channel/n367306c9/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="cartoonsdisney" tvg-logo="http://1lot.tv/ch/10191.png" catchup="shift" catchup-days="1",Velilla TV Cartoons Disney 4K
-http://45.142.122.146/channel/n4f18cb20/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="velilla-detsky" tvg-logo="http://1lot.tv/ch/10403.png" catchup="shift" catchup-days="1",Velilla TV Детский HD
-http://45.142.122.146/channel/n1cd7fe47/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="fizmultprivet_hd" tvg-logo="http://1lot.tv/ch/10002.png" catchup="shift" catchup-days="1",Чебур ТВ - Физ Мульт Привет FHD
-http://45.142.122.146/channel/n607bccdb/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="mult_epoha_uhd" tvg-logo="http://1lot.tv/ch/10019.png" catchup="shift" catchup-days="1",Чебур ТВ - МультЭпоха СССР
-http://45.142.122.146/channel/n31d91bb6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="MultSeries" tvg-logo="http://1lot.tv/ch/10020.png" catchup="shift" catchup-days="1",Чебур ТВ - MultSeries FHD
-http://45.142.122.146/channel/51a95a91/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="detstvo_ussr" tvg-logo="http://1lot.tv/ch/10031.png" catchup="shift" catchup-days="1",Чебур ТВ - Наше Детство СССР
-http://45.142.122.146/channel/n7aa50597/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="multiki_hd" tvg-logo="http://1lot.tv/ch/9988.png" catchup="shift" catchup-days="1",Чебур ТВ - Мультики HD
-http://45.142.122.146/channel/9f438c8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10044.png" catchup="shift" catchup-days="7",Jetix Anime
-http://45.142.122.146/channel/n7ac347df/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_aladdin" tvg-name=kernel_aladdin group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_aladdin.png",Kernel TV Аладдин
-#EXTGRP:Детские
-http://45.142.122.146/channel/n384dd69a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_alice" tvg-name=kernel_alice group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_alice.png",Kernel TV Алиса
-#EXTGRP:Детские
-http://45.142.122.146/channel/32d76e7b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_anime" tvg-name=kernel_anime group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_anime.png",Kernel TV Аниме
-#EXTGRP:Детские
-http://45.142.122.146/channel/3bc6753c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_barboskiny" tvg-name=kernel_barboskiny group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_barboskiny.png",Kernel TV Барбоскины
-#EXTGRP:Детские
-http://45.142.122.146/channel/n1bfecd92/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_ben_ten" tvg-name=kernel_ben_ten group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ben_ten.png",Kernel TV Бен 10
-#EXTGRP:Детские
-http://45.142.122.146/channel/6e641ef5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_buba" tvg-name=kernel_buba group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_buba.png",Kernel TV Буба
-#EXTGRP:Детские
-http://45.142.122.146/channel/5c761129/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_carevny" tvg-name=kernel_carevny group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_carevny.png",Kernel TV Царевны
-#EXTGRP:Детские
-http://45.142.122.146/channel/26b6ab51/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_chernyy_plashch" tvg-name=kernel_chernyy_plashch group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_chernyy_plashch.png",Kernel TV Чёрный плащ
-#EXTGRP:Детские
-http://45.142.122.146/channel/2c1325b1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_chip_i_deyl" tvg-name=kernel_chip_i_deyl group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_chip_i_deyl.png",Kernel TV Чип и Дейл
-#EXTGRP:Детские
-http://45.142.122.146/channel/3263dacd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_dracony_i_vsadniki" tvg-name=kernel_dracony_i_vsadniki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_dracony_i_vsadniki.png",Kernel TV Драконы и всадники Олуха
-#EXTGRP:Детские
-http://45.142.122.146/channel/4e0c695f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_ductles" tvg-name=kernel_ductles group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ductles.png",Kernel TV Утиные истории
-#EXTGRP:Детские
-http://45.142.122.146/channel/n5b11e2bf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_fines_i_ferb" tvg-name=kernel_fines_i_ferb group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_fines_i_ferb.png",Kernel TV Финис и Ферб
-#EXTGRP:Детские
-http://45.142.122.146/channel/n33df0c78/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_fixiki" tvg-name=kernel_fixiki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_fixiki.png",Kernel TV Фиксики
-#EXTGRP:Детские
-http://45.142.122.146/channel/n1adcdc49/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_futurama" tvg-name=kernel_futurama group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_futurama.png",Kernel TV Футурама
-#EXTGRP:Детские
-http://45.142.122.146/channel/520f41e5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_grand_spider_man" tvg-name=kernel_grand_spider_man group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_grand_spider_man.png",Kernel TV Человек-паук
-#EXTGRP:Детские
-http://45.142.122.146/channel/n2d6839b0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_gravity_falls" tvg-name=kernel_gravity_falls group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_gravity_falls.png",Kernel TV Гравити Фолз
-#EXTGRP:Детские
-http://45.142.122.146/channel/1e5460c6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_gubob" tvg-name=kernel_gubob group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_gubob.png",Kernel TV Губка Боб Квадратные Штаны
-#EXTGRP:Детские
-http://45.142.122.146/channel/1b96df3e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_ledi_bag" tvg-name=kernel_ledi_bag group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_ledi_bag.png",Kernel TV Леди Баг и супер Кот
-#EXTGRP:Детские
-http://45.142.122.146/channel/n66d5f260/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_lego" tvg-name=kernel_lego group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_lego.png",Kernel TV Лего
-#EXTGRP:Детские
-http://45.142.122.146/channel/1ab8b38d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_lilo_i_stith" tvg-name=kernel_lilo_i_stith group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_lilo_i_stith.png",Kernel TV Лило и Стич
-#EXTGRP:Детские
-http://45.142.122.146/channel/n4a8582f8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_luk_time" tvg-name=kernel_luk_time group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_luk_time.png",Kernel TV Люк путешественник во времени
-#EXTGRP:Детские
-http://45.142.122.146/channel/33754a20/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_luntik" tvg-name=kernel_luntik group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_luntik.png",Kernel TV Лунтик
-#EXTGRP:Детские
-http://45.142.122.146/channel/284d2027/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_malyh" tvg-name=kernel_malyh group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_malyh.png",Kernel TV Малыш
-#EXTGRP:Детские
-http://45.142.122.146/channel/n6203ab48/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_masha_i_medved" tvg-name=kernel_masha_i_medved group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_masha_i_medved.png",Kernel TV Маша и Медведь
-#EXTGRP:Детские
-http://45.142.122.146/channel/67857a3a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_mimimihki" tvg-name=kernel_mimimihki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_mimimihki.png",Kernel TV Ми-ми-мишки
-#EXTGRP:Детские
-http://45.142.122.146/channel/n7e03b62e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_miniforce" tvg-name=kernel_miniforce group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_miniforce.png",Kernel TV МиниФорс
-#EXTGRP:Детские
-http://45.142.122.146/channel/n3c0e73cd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_my_litle_pony" tvg-name=kernel_my_litle_pony group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_my_litle_pony.png",Kernel TV Мой маленький Пони
-#EXTGRP:Детские
-http://45.142.122.146/channel/n2e42a8f7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_girls" tvg-name=kernel_girls group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_girls.png",Kernel TV Подружки
-#EXTGRP:Детские
-http://45.142.122.146/channel/6c2b5a8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_puhustici" tvg-name=kernel_puhustici group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_puhustici.png",Kernel TV Пушистики
-#EXTGRP:Детские
-http://45.142.122.146/channel/n39abb4e7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_pups_patrol" tvg-name=kernel_pups_patrol group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_pups_patrol.png",Kernel TV Щенячий патруль
-#EXTGRP:Детские
-http://45.142.122.146/channel/1f48d48b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_rusalochka" tvg-name=kernel_rusalochka group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_rusalochka.png",Kernel TV Русалочка
-#EXTGRP:Детские
-http://45.142.122.146/channel/n4f6238e7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_shkodniki" tvg-name=kernel_shkodniki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_shkodniki.png",Kernel TV Шкодники
-#EXTGRP:Детские
-http://45.142.122.146/channel/n1586fa13/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_smeshariki" tvg-name=kernel_smeshariki group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_smeshariki.png",Kernel TV Смешарики
-#EXTGRP:Детские
-http://45.142.122.146/channel/ea5c1f4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_sonic_bum" tvg-name=kernel_sonic_bum group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_sonic_bum.png",Kernel TV Сонник Бум
-#EXTGRP:Детские
-http://45.142.122.146/channel/7affff38/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_super_wings" tvg-name=kernel_super_wings group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_super_wings.png",Kernel TV Супер крылья
-#EXTGRP:Детские
-http://45.142.122.146/channel/73a64915/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_timon_i_pumba" tvg-name=kernel_timon_i_pumba group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_timon_i_pumba.png",Kernel TV Тимон и Пумба
-#EXTGRP:Детские
-http://45.142.122.146/channel/3feab0b0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_tom_i_djerri" tvg-name=kernel_tom_i_djerri group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_tom_i_djerri.png",Kernel TV Том и Джерри
-#EXTGRP:Детские
-http://45.142.122.146/channel/n1dd633f2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_tri_cota" tvg-name=kernel_tri_cota group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_tri_cota.png",Kernel TV Три кота
-#EXTGRP:Детские
-http://45.142.122.146/channel/591913bc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_turbo" tvg-name=kernel_turbo group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_turbo.png",Kernel TV Команда Турбо
-#EXTGRP:Детские
-http://45.142.122.146/channel/n66c459d7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_turtles_ninja" tvg-name=kernel_turtles_ninja group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_turtles_ninja.png",Kernel TV Черепашки ниндзя
-#EXTGRP:Детские
-http://45.142.122.146/channel/4e9a2947/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:0 tvg-id="kernel_vini_i_ego_druzya" tvg-name=kernel_vini_i_ego_druzya group-title="Kernel TV" TV tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_vini_i_ego_druzya.png",Kernel TV Винни и его друзья
-#EXTGRP:Детские
-http://45.142.122.146/channel/n40f40eb8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Educational" tvg-id="hlsproxy-53818" tvg-logo="http://1lot.tv/ch/5519.png" catchup="shift" catchup-days="1",Дикая Рыбалка HD
 http://45.142.122.146/channel/n489b0045/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/dsAt8cMDBjbP3mVNdeYR4TVmSI-AfOO93ZFtnLtXdHQftDc8IaDPxPl4dj979-d0H1Pn8kyVoKLK01afEtxkww.png" group-title="Educational",Исторический HD
