@@ -2881,6 +2881,20 @@ http://45.142.122.146/channel/n13b883d7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b
 http://45.142.122.146/channel/n20560a05/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Киномания" tvg-id="velilla-kuxnia" tvg-logo="http://1lot.tv/ch/10768.png" catchup="shift" catchup-days="1",Velilla TV Кухня + Отель "Элеон" HD
 http://45.142.122.146/channel/5fc1ca9b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JD3FyTE2MvPUtYUdZAOF_OstFCc9tqqFnMN56dA4QF7yqkqFXUT04r1Hx47_zAo2Zg.png" group-title="Киномания",Velilla TV Cinema 4K
+http://45.142.122.146/channel/n3091702b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JHVcouWZ4RCjVsk2Hov3Cp1NKQzWnfe0jQQkrHgZ4bCxD-hEkDqz6GGpUjYh0PQNmA.png" group-title="Киномания",Velilla TV Action War Films HD
+http://45.142.122.146/channel/n1dbed1a2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBx6duodLfOJ7I5XIPHUqlDMfd1WBH_9j1SBmCSa3eO_D7wgJpWnsgFp_329LeUKug.png" group-title="Киномания",Velilla TV Русский Сериал HD
+http://45.142.122.146/channel/n3cd8974/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JA4tCH6kmXR5TvMRio32AltYMxY6kIZcYdytnVITXNGAbbqKIgsi7-NQEWbkPK4z8g.png" group-title="Киномания",Velilla TV Домашний HD
+http://45.142.122.146/channel/n132800a9/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JIq0byheYY59X2uKbyWI63wn-XvvEo8wJi3dLDuNPueiKH1ghBnwMvbZcuAJ892Zkg.png" group-title="Киномания",Velilla TV Мосгаз HD
+http://45.142.122.146/channel/5de434d0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JCTZtG79c_MjTlN51VfoCc5aTQgWTTeGQ83QMvdlXZ3AnIISA3hwiJbYegyrLHf1mQ.png" group-title="Киномания",Velilla TV Морские дьяволы HD
+http://45.142.122.146/channel/4a58f046/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JBLLnjP_ewO8vbzmResc7SnMrS-PZzMqAs56DPpgd_cfi-vitXkYpgrQAPsZCEu0NA.png" group-title="Киномания",Velilla TV Русские Мелодрамы HD
+http://45.142.122.146/channel/4aeb6862/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Киномания" tvg-id="LIBERTYDC" tvg-logo="http://1lot.tv/ch/9458.png" catchup="shift" catchup-days="1",LIBERTY DC
 http://45.142.122.146/channel/49796443/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Киномания" tvg-id="LIBERTYKOROTKOMETRAZHNOYEFHD" tvg-logo="http://1lot.tv/ch/9459.png" catchup="shift" catchup-days="1",LIBERTY Короткометражки FHD
@@ -2897,8 +2911,6 @@ http://45.142.122.146/channel/61a62a06/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/11e82c15/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Киномания" tvg-id="LIBERTYZANAVESFHD" tvg-logo="http://1lot.tv/ch/9473.png" catchup="shift" catchup-days="1",LIBERTY Занавес FHD
 http://45.142.122.146/channel/15a845f0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Киномания" tvg-id="LIBERTYANIMEFHD" tvg-logo="http://1lot.tv/ch/9474.png" catchup="shift" catchup-days="1",LIBERTY Аниме FHD
-http://45.142.122.146/channel/n6479863e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Киномания" tvg-id="LIBERTYSHOUFHD" tvg-logo="http://1lot.tv/ch/9475.png" catchup="shift" catchup-days="1",LIBERTY Шоу FHD
 http://45.142.122.146/channel/n582fa235/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Киномания" tvg-id="hlsproxy-100554" tvg-logo="http://1lot.tv/ch/9487.png" catchup="shift" catchup-days="1",LIBERTY МиМ FHD
@@ -3692,74 +3704,120 @@ http://45.142.122.146/channel/2d82222b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/n6f504618/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOzELWeWPHkrH3rQRCikaJeXi_Omc8x7mkmCAKCjxG-1.png" group-title="Кинодром" tvg-id="hlsproxy-6109",Comedy Hub
 http://45.142.122.146/channel/367edd70/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DITV ФИЛЬМЫ УЖАСОВ 80-х
-http://45.142.122.146/channel/a8340bd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DITV Американские комедии 80-90-х
-http://45.142.122.146/channel/n2ede4778/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Про акул
-http://45.142.122.146/channel/n244458ca/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Про вампиров
-http://45.142.122.146/channel/6f8f03d1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Карпов
-http://45.142.122.146/channel/51b7edfa/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Лихач
-http://45.142.122.146/channel/765188ae/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ФИЛЬМЫ
-http://45.142.122.146/channel/616512e5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV комедийные сериалы
-http://45.142.122.146/channel/n23e389ec/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Глухарь
-http://45.142.122.146/channel/n7a13ac7f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Куба
-http://45.142.122.146/channel/n1d377ac7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Пёс
-http://45.142.122.146/channel/nf131a2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DITV Агент национальной безопасности
-http://45.142.122.146/channel/nbad0ce4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Пятницкий
-http://45.142.122.146/channel/n752719cf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DITV Game of Thrones
-http://45.142.122.146/channel/n386c7ee1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Счастливы вместе
-http://45.142.122.146/channel/n1acb78a7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DITV КЛАССИКА ИНДИЙСКОГО КИНО
-http://45.142.122.146/channel/n8b08af1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ПАТРИОТ
-http://45.142.122.146/channel/n4a8b7fe4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV VHS
-http://45.142.122.146/channel/nffe830/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Зачарованные
-http://45.142.122.146/channel/5154b219/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ВОРОНИНЫ
-http://45.142.122.146/channel/n6c4033bc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КОМЕДИИ СССР
-http://45.142.122.146/channel/2a3c3479/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КОМЕДИИ 90-х
-http://45.142.122.146/channel/28665b49/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DITV Удивительные странствия Геракла
-http://45.142.122.146/channel/n1965884e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV БОЕВИКИ
-http://45.142.122.146/channel/n17fc7405/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV УЖАСЫ
-http://45.142.122.146/channel/76b20736/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ФАНТАСТИКА
-http://45.142.122.146/channel/3ab168ff/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КОМЕДИИ
-http://45.142.122.146/channel/n3b806c5a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Детективы
-http://45.142.122.146/channel/n6e82dd1c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DITV ФИЛЬМЫ С Джеки Чаном
-http://45.142.122.146/channel/n55c648d7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DITV Альянс Вольных Переводчиков
-http://45.142.122.146/channel/n69fe6bd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV  Папины Дочки
-http://45.142.122.146/channel/n33c1dd3e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV НТВ Сериалы
-http://45.142.122.146/channel/2a1eb1d0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Детективные сериалы
-http://45.142.122.146/channel/5a91c394/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV  Ивановы-Ивановы
-http://45.142.122.146/channel/n3cea3a5c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром"-Кинодром" tvg-id="hlsproxy-53602" tvg-id="hlsproxy-53602",DITV СОЮЗМУЛТФИЛМ
+http://45.142.122.146/channel/nb5f3baf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV ФИЛЬМЫ УЖАСОВ 80-х
+http://45.142.122.146/channel/417f9154/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Американские комедии 80-90-х
+http://45.142.122.146/channel/n382087a1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ГАРИ ПОТЕР
+http://45.142.122.146/channel/n1156d9f5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Про акул
+http://45.142.122.146/channel/1c10788d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Про вампиров
+http://45.142.122.146/channel/n1422ae58/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Карпов
+http://45.142.122.146/channel/2ef2911/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Лихач
+http://45.142.122.146/channel/n7bb4f149/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ФИЛЬМЫ
+http://45.142.122.146/channel/129c4dfc/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV комедийные сериалы
+http://45.142.122.146/channel/1318c6ab/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Глухарь
+http://45.142.122.146/channel/n46384b6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Куба
+http://45.142.122.146/channel/n460e65f0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Walt Disney
+http://45.142.122.146/channel/n1812b66/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Concert
+http://45.142.122.146/channel/n649e8942/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Пёс
+http://45.142.122.146/channel/589442a7/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV СБОРНИК МУЛЬТФИЛЬМОВ СКАЗОК
+http://45.142.122.146/channel/n371677a0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Агент национальной безопасности
+http://45.142.122.146/channel/7faa8fe5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Пятницкий
+http://45.142.122.146/channel/551e3fba/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Game of Thrones
+http://45.142.122.146/channel/63e7cfe8/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Счастливы вместе
+http://45.142.122.146/channel/n2c95ee50/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV КЛАССИКА ИНДИЙСКОГО КИНО
+http://45.142.122.146/channel/279cb866/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ПАТРИОТ
+http://45.142.122.146/channel/2b24a7e5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV VHS
+http://45.142.122.146/channel/58858c19/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Зачарованные
+http://45.142.122.146/channel/n325d0010/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ВОРОНИНЫ
+http://45.142.122.146/channel/n2beb6265/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КОМЕДИИ СССР
+http://45.142.122.146/channel/n59757db0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV МАСКИ ШОУ
+http://45.142.122.146/channel/n9265250/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КЛИПЫ 90х
+http://45.142.122.146/channel/726a63c9/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КОМЕДИИ 90-х
+http://45.142.122.146/channel/n5b4b56e0/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КУЛИНАРИЯ
+http://45.142.122.146/channel/45489c56/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Удивительные странствия Геракла
+http://45.142.122.146/channel/71f2147b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV БОЕВИКИ
+http://45.142.122.146/channel/5db3b3c4/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV УЖАСЫ
+http://45.142.122.146/channel/n7b5472c1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ФАНТАСТИКА
+http://45.142.122.146/channel/n46e8bf6a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КОМЕДИИ
+http://45.142.122.146/channel/3a2fbb6f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Русский рок
+http://45.142.122.146/channel/33fa66c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Детективы
+http://45.142.122.146/channel/5bc27c6d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Мультфильмы для малышей
+http://45.142.122.146/channel/4b6501c6/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV ФИЛЬМЫ С Джеки Чаном
+http://45.142.122.146/channel/13643e00/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Альянс Вольных Переводчиков
+http://45.142.122.146/channel/n17707d74/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV  Папины Дочки
+http://45.142.122.146/channel/n26467035/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Осторожно модерн!
+http://45.142.122.146/channel/268b9913/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Шоу Бенни Хилла
+http://45.142.122.146/channel/2ad73e76/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV НТВ Сериалы
+http://45.142.122.146/channel/7873cd19/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Детективные сериалы
+http://45.142.122.146/channel/31f85dd/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV  Ивановы-Ивановы
+http://45.142.122.146/channel/n4eb4b005/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Домашний арест
+http://45.142.122.146/channel/559d3402/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Гости из прошлого
+http://45.142.122.146/channel/2a33cde/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КРИК
+http://45.142.122.146/channel/n460eec70/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV БИМ
+http://45.142.122.146/channel/5894070d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV ИНДИАНА ДЖОНС
+http://45.142.122.146/channel/n75d51c2e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром",DITV Очень странные дела
+http://45.142.122.146/channel/47a37d4e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Стивена Кинга
+http://45.142.122.146/channel/n2fb8d2bf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV МЕЧ
+http://45.142.122.146/channel/58943006/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV КАЛАМБУР
+http://45.142.122.146/channel/2538b4e5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Киножурнал Фитиль
+http://45.142.122.146/channel/n55c2f6c1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="Кинодром" tvg-id="hlsproxy-53602",DITV Невский
+http://45.142.122.146/channel/16c7b8c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DIZAL Домашний арест
 http://45.142.122.146/channel/52e225c2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JB59WNs_nhPV5_i8SGpZQxyEhVOIVu-eaw2V0j5AzwPGzxmn2aSU463ohcadUKr9Jw.png" group-title="Кинодром",DIZAL Гости из прошлого
@@ -4143,10 +4201,10 @@ http://45.142.122.146/channel/adea008/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32
 http://45.142.122.146/channel/50f9cba5/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="hlsproxy-55463" tvg-logo="http://1lot.tv/ch/6290.png" catchup="shift" catchup-days="1",BCU Multserial HD
 http://45.142.122.146/channel/5e276131/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 group-title="Детские" tvg-id="walt-disney-mm" tvg-logo="http://1lot.tv/ch/7234.png" catchup="shift" catchup-days="1",MM Walt Disney HD
-http://45.142.122.146/channel/120b20bf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="bcu-little" tvg-logo="http://1lot.tv/ch/8063.png" catchup="shift" catchup-days="1",BCU Little HD
 http://45.142.122.146/channel/n49b09b61/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Детские" tvg-id="walt-disney-mm" tvg-logo="http://1lot.tv/ch/7234.png" catchup="shift" catchup-days="1",MM Walt Disney HD
+http://45.142.122.146/channel/120b20bf/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="tom-and-jerry-mm" tvg-logo="http://1lot.tv/ch/7131.png" catchup="shift" catchup-days="1",MM Tom and Jerry HD
 http://45.142.122.146/channel/n79120446/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="mult-mm" tvg-logo="http://1lot.tv/ch/7136.png" catchup="shift" catchup-days="1",MM USSR Мультфильм HD
@@ -4229,6 +4287,8 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="no_epg_mult" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" catchup="shift" catchup-days="1", СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="LIBERTYANIMEFHD" tvg-logo="http://1lot.tv/ch/9474.png" catchup="shift" catchup-days="1",LIBERTY Аниме FHD
+http://45.142.122.146/channel/n6479863e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="LIBERTYDISNEYFHD" tvg-logo="http://1lot.tv/ch/9461.png" catchup="shift" catchup-days="1",LIBERTY Дисней FHD
 http://45.142.122.146/channel/n2969d636/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Детские" tvg-id="LIBERTYSIMPSONYFHD" tvg-logo="http://1lot.tv/ch/9465.png" catchup="shift" catchup-days="1",LIBERTY Симпсоны FHD
@@ -5742,6 +5802,34 @@ http://45.142.122.146/channel/229cb7b2/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/n619a829e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-52535" tvg-logo="http://1lot.tv/ch/7920.png" catchup="shift" catchup-days="1",Sky Sports Football
 http://45.142.122.146/channel/n3ba1caac/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc1966" tvg-logo="http://1lot.tv/ch/10555.png" catchup="shift" catchup-days="1",Velilla TV World Cup 1966
+http://45.142.122.146/channel/384b0930/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="worldcup1970" tvg-logo="http://1lot.tv/ch/9864.png" catchup="shift" catchup-days="1",Velilla TV World Cup 1970
+http://45.142.122.146/channel/384b0949/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc1974" tvg-logo="http://1lot.tv/ch/9863.png" catchup="shift" catchup-days="1",Velilla TV World Cup 1974
+http://45.142.122.146/channel/384b094d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="worldcup1978" tvg-logo="http://1lot.tv/ch/9862.png" catchup="shift" catchup-days="1",Velilla TV World Cup 1978
+http://45.142.122.146/channel/384b0951/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc1990" tvg-logo="http://1lot.tv/ch/10252.png" catchup="shift" catchup-days="1",Velilla TV World Cup 1990
+http://45.142.122.146/channel/384b0987/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc1994" tvg-logo="http://1lot.tv/ch/10332.png" catchup="shift" catchup-days="1",Velilla TV World Cup 1994
+http://45.142.122.146/channel/384b098b/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc1998" tvg-logo="http://1lot.tv/ch/10398.png" catchup="shift" catchup-days="1",Velilla TV World Cup 1998
+http://45.142.122.146/channel/384b098f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc2006" tvg-logo="http://1lot.tv/ch/10248.png" catchup="shift" catchup-days="1",Velilla TV World Cup 2006
+http://45.142.122.146/channel/384b5b0c/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc2010" tvg-logo="http://1lot.tv/ch/10190.png" catchup="shift" catchup-days="1",Velilla TV World Cup 2010
+http://45.142.122.146/channel/384b5b25/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc2014" tvg-logo="http://1lot.tv/ch/10184.png" catchup="shift" catchup-days="1",Velilla TV World Cup 2014
+http://45.142.122.146/channel/384b5b29/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-wc2018" tvg-logo="http://1lot.tv/ch/10185.png" catchup="shift" catchup-days="1",Velilla TV World Cup 2018
+http://45.142.122.146/channel/384b5b2d/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-euro1984" tvg-logo="http://1lot.tv/ch/10339.png" catchup="shift" catchup-days="1",Velilla TV EuroCup 1984
+http://45.142.122.146/channel/n4e05f75/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velilla-euro1988" tvg-logo="http://1lot.tv/ch/10340.png" catchup="shift" catchup-days="1",Velilla TV EuroCup 1988
+http://45.142.122.146/channel/n4e05f71/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
+#EXTINF:-1 group-title="Спорт" tvg-id="velillalegendarymatches" tvg-logo="http://1lot.tv/ch/10137.png" catchup="shift" catchup-days="1",Velilla TV Legendary Matches HD
+http://45.142.122.146/channel/n5d951c1a/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-52093" tvg-logo="http://1lot.tv/ch/7924.png" catchup="shift" catchup-days="1",FS1 HD
 http://45.142.122.146/channel/72a9d5f3/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-52095" tvg-logo="http://1lot.tv/ch/7925.png" catchup="shift" catchup-days="1",FS2 HD
