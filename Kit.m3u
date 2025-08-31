@@ -5275,74 +5275,114 @@ http://45.142.122.146/channel/4fc81d15/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 http://45.142.122.146/channel/643b195f/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 tvg-logo="http://chiburator.monster:8000/images/QCqX5p5x3Y181Q8jwb82JOtkIwdhmt-dn3k0JVzChrIUwbQARi5Nye5CjVKOsF4I.png" group-title="Org-TV" tvg-id="hlsproxy-52318",MiTV Arabesque (Sandra)
 http://45.142.122.146/channel/n3fcbf05e/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 1
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64331.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 2
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64332.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 3
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64330.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 4
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65374.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 5
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64777.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 6
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64781.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 7
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65375.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 8
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64822.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 9
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/100624.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 10
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/244486.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 11
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65376.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 12
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/264811.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 13
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/246028.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 14
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66287.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 15
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/81968.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 16
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66433.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 17
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64782.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Relax 18
-https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Cozy Vibes
-https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax", Fireplace
-https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8
-
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0925/60/9fb81f851b8d68ef84ff900adf597f60.png" tvg-id="Sochi Live" group-title="Relax", SOCHI LIVE HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.yandex.net/get-music-content/108289/c999e45a.a.7729293-1/m1000x1000?webp=false" group-title="Relax", Lounge Deluxe
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" group-title="Relax" tvg-logo="https://www.parsatv.com/thumb.php?w=560&h=315&src=https://www.parsatv.com/index_files/channels/barazatv.jpg", Baraza TV Relax Music
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Aquarium 2 HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/ef0ba3a6-870b-4d3f-9814-78bafa0c043e/2.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Better Life Nature
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Drone FHD
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Europe Towns 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505566&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝" tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Fireplace Vibes 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=83
+#EXTINF:-1 group-title="🏝RELAX🏝",Fish 4K
+https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US700012OU
+#EXTINF:-1 group-title="🏝RELAX🏝",Flower 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505571&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Forest 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502987&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Forest American 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505565&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Holiday FHD
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Iceland 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1503007&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Insperation 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502988&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Italia 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505561&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Morning relaxion 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505568&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Morocco 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1503006&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Nature Earth 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505570&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Nature Relax 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502986&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Nature Relaxion 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502991&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝" tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Nature Stream
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Nature Time FHD
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Prima Earth Seures 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502995&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Relax
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="🏝RELAX🏝",Relax 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502999&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Relax 3
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1503000&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/047/872/small_2x/jellyfish-logo-template-vector.jpg",RELAX МЕДУЗЫ
+https://streaming102.goodstream.cyou/live/2000.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝" tvg-logo="https://avatars.mds.yandex.net/i?id=4f6346fc5e8f024a87d5ea199672d884cd76ee50-8549383-images-thumbs&n=13",RELAX МОРЕ
+https://streaming102.goodstream.cyou/live/1000.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Relaxion Film 2 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502994&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Relaxion Film 3 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502996&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Relaxion Film 4 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502997&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Relaxion Film 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502993&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Relaxion Film 5 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1503004&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Relaxion Film 6 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1503003&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Scenic Relaxion 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502992&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Schweizerland 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505562&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Snow Winter 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505573&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Stardust 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505574&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Stingray Holidayscapes FHD
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+#EXTINF:-1 group-title="🏝RELAX🏝",Stingray Naturescape
+http://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝" tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝" tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Stingray ZenLIFE FHD
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500027DS
+#EXTINF:-1 group-title="🏝RELAX🏝" tvg-logo="https://w7.pngwing.com/pngs/557/426/png-transparent-preview-relax-miscellaneous-purple-violet-thumbnail.png",Storm Vibes
+https://df7ah0yzgl23k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbhefwc1hszs2/SONO50.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US1400014N9
+#EXTINF:-1 group-title="🏝RELAX🏝",The Ocean 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502989&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",The Sea 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502998&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Travel 4К
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Turcia 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502984&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",Vietnam 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1505564&extension=ts
+#EXTINF:-1 group-title="🏝RELAX🏝",ZenLife Stingray
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝" tvg-logo="https://completefireplacenj.com/wordpress/wp-content/uploads/2018/07/Complte-Fireplace-Logo-wht-300x300.png",Горящий камин
+https://streaming102.goodstream.cyou/live/3000.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Камин 2 4K
+https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBA3800004EL
+#EXTINF:-1 group-title="🏝RELAX🏝",Камин HD
+https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900005NW
+#EXTINF:-1 group-title="🏝RELAX🏝",Пляж
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/698be388-6e91-46d9-b2dc-d617aaa8bd75/1.m3u8
+#EXTINF:-1 group-title="🏝RELAX🏝",Пляж Тропический 4K
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:37:2F:19&stream=1502990&extension=ts
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Relax" tvg-logo="https://www.parsatv.com/thumb.php?w=560&h=315&src=https://www.parsatv.com/index_files/channels/barazatv.jpg", Baraza Relax TV Music
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
