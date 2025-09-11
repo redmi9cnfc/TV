@@ -2578,7 +2578,7 @@ http://45.142.122.146/channel/496dbb37/index.mpeg?q=f1946a9b4cdb204a2f64769f45b3
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-id="no_epg_mult" tvg-logo="http://1lot.tv/ch/8221.png" catchup="shift" catchup-days="1",Sky2000 Mult SU
 http://45.142.122.146/channel/496dbb56/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-logo="http://epg.one/img2/9181.png" catchup="shift" catchup-days="1", Sumiko
-http://158.160.149.81:8080/8709/index.m3u8
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJsIjoiM2YwODc4NmUiLCJwIjoiM2YwODc4NmUwM2JhNzk3OCIsImMiOiIxMDAxIiwidCI6IjFmYThiNjhjZTYyZDMyZTNmMTIzMjM3YmFjODg2Y2Y1IiwiZCI6IjQxMDE5MiIsInIiOiI0MjIxNjEiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL2Nkbi5tYWluY2R5LmNvbS84OTY4L3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8?token=137946825
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-id="hlsproxy-51108" tvg-logo="http://1lot.tv/ch/8418.png" catchup="shift" catchup-days="1",Рыжий
 http://45.142.122.146/channel/652131f1/index.mpeg?q=f1946a9b4cdb204a2f64769f45b32019
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-id="hlsproxy-304" tvg-logo="http://1lot.tv/ch/19120.png" catchup="shift" catchup-days="1",Мама
