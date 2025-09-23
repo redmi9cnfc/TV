@@ -2162,268 +2162,6 @@ http://45.142.122.146/channel/n901ac59/index.mpeg?q=4a730778c98b49aa2740a067de1e
 #EXTINF:-1 tvg-name="OK TV - Гарри Поттер 60fps FHD" tvg-id="garri_potter" group-title="Чебур ТВ",OK TV - Гарри Поттер 60fps FHD
 #EXTGRP:Чебур ТВ
 http://45.142.122.146/channel/n4427d10d/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9226" tvg-logo="http://epg.one/img2/9226.png" tvg-rec="3",VF Сериалы Турции
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/9123/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9227" tvg-logo="http://epg.one/img2/9227.png" tvg-rec="0",VF Вестерн
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31553/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7271" tvg-logo="http://epg.one/img2/7271.png" tvg-rec="3",VF Счастливы Вместе
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/9242/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7272" tvg-logo="http://epg.one/img2/7272.png" tvg-rec="7",VF Бесстыжие
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10075/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7270" tvg-logo="http://epg.one/img2/7270.png" tvg-rec="7",VF Владимир Высоцкий 
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10066/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7273" tvg-logo="http://epg.one/img2/7273.png" tvg-rec="7",VF Два с половиной человека
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10062/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6163" tvg-logo="http://epg.one/img2/6163.png" tvg-rec="0",VF Новогодний
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17035/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7274" tvg-logo="http://epg.one/img2/7274.png" tvg-rec="0",VF Ёлки
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14222/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5981" tvg-logo="http://epg.one/img2/5981.png" tvg-rec="0",VF New Year
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15522/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5982" tvg-logo="http://epg.one/img2/5982.png" tvg-rec="0",VF С новым годом!
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15524/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7276" tvg-logo="http://epg.one/img2/7276.png" tvg-rec="0",VF Гарри Поттер
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14230/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7277" tvg-logo="http://epg.one/img2/7277.png" tvg-rec="0",VF Секс в большом городе
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14224/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7275" tvg-logo="http://epg.one/img2/7275.png" tvg-rec="0",VF Карточный домик
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14221/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7278" tvg-logo="http://epg.one/img2/7278.png" tvg-rec="0",VF Disney Movie
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15010/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15009/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4591" tvg-logo="http://epg.one/img2/4591.png" tvg-rec="7",VF Adventure
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10000/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4592" tvg-logo="http://epg.one/img2/4592.png" tvg-rec="7",VF Anime
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10001/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4593" tvg-logo="http://epg.one/img2/4593.png" tvg-rec="7",VF Cartoon
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10002/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4594" tvg-logo="http://epg.one/img2/4594.png" tvg-rec="7",VF Comedy
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10003/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4595" tvg-logo="http://epg.one/img2/4595.png" tvg-rec="7",VF Family
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10004/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4596" tvg-logo="http://epg.one/img2/4596.png" tvg-rec="7",VF Fantasy
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10005/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4597" tvg-logo="http://epg.one/img2/4597.png" tvg-rec="7",VF Melodrama
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10006/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4598" tvg-logo="http://epg.one/img2/4598.png" tvg-rec="7",VF Mystic
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10007/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4599" tvg-logo="http://epg.one/img2/4599.png" tvg-rec="7",VF Ужасы
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10008/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4600" tvg-logo="http://epg.one/img2/4600.png" tvg-rec="7",VF VHS MIX
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10009/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4601" tvg-logo="http://epg.one/img2/4601.png" tvg-rec="7",VF Ужасы VHS
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10010/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4644" tvg-logo="http://epg.one/img2/4644.png" tvg-rec="7",VF Премьера
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10051/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4645" tvg-logo="http://epg.one/img2/4645.png" tvg-rec="7",VF Premiere
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10052/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4646" tvg-logo="http://epg.one/img2/4646.png" tvg-rec="7",VF Классика
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10053/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4647" tvg-logo="http://epg.one/img2/4647.png" tvg-rec="7",VF Classic
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10054/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4648" tvg-logo="http://epg.one/img2/4648.png" tvg-rec="7",VF Комедия
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10055/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4666" tvg-logo="http://epg.one/img2/4666.png" tvg-rec="7",VF Катастрофы
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10080/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4663" tvg-logo="http://epg.one/img2/4663.png" tvg-rec="7",VF Marvel
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10081/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4665" tvg-logo="http://epg.one/img2/4665.png" tvg-rec="7",VF Военные
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10082/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4669" tvg-logo="http://epg.one/img2/4669.png" tvg-rec="7",VF Наша победа
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10083/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4667" tvg-logo="http://epg.one/img2/4667.png" tvg-rec="7",VF Мосфильм
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10084/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4670" tvg-logo="http://epg.one/img2/4670.png" tvg-rec="7",VF Фильмы СССР
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10085/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4668" tvg-logo="http://epg.one/img2/4668.png" tvg-rec="7",VF Мультфильмы СССР
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10086/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4664" tvg-logo="http://epg.one/img2/4664.png" tvg-rec="7",VF Боевик
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10087/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4804" tvg-logo="http://epg.one/img2/4804.png" tvg-rec="0",VF Кино 4K
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11114/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4805" tvg-logo="http://epg.one/img2/4805.png" tvg-rec="0",VF Сериал 4K
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11115/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4789" tvg-logo="http://epg.one/img2/4789.png" tvg-rec="0",VF TOP Series
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11116/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4791" tvg-logo="http://epg.one/img2/4791.png" tvg-rec="0",VF Art house
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11119/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4792" tvg-logo="http://epg.one/img2/4792.png" tvg-rec="0",VF Detective
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11120/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4793" tvg-logo="http://epg.one/img2/4793.png" tvg-rec="0",VF Fantastic
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11121/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4794" tvg-logo="http://epg.one/img2/4794.png" tvg-rec="0",VF Оскар
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11122/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5193" tvg-logo="http://epg.one/img2/5193.png" tvg-rec="0",VF Сваты
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13080/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5194" tvg-logo="http://epg.one/img2/5194.png" tvg-rec="0",VF Солдаты
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13081/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5195" tvg-logo="http://epg.one/img2/5195.png" tvg-rec="0",VF Тайны следствия
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13082/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5196" tvg-logo="http://epg.one/img2/5196.png" tvg-rec="0",VF Воронины
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13083/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5197" tvg-logo="http://epg.one/img2/5197.png" tvg-rec="0",VF Универ
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13084/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5198" tvg-logo="http://epg.one/img2/5198.png" tvg-rec="0",VF Series
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13085/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5199" tvg-logo="http://epg.one/img2/5199.png" tvg-rec="0",VF След
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13086/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5200" tvg-logo="http://epg.one/img2/5200.png" tvg-rec="0",VF Сериал
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13087/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5201" tvg-logo="http://epg.one/img2/5201.png" tvg-rec="0",VF Мыльные оперы
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13088/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5202" tvg-logo="http://epg.one/img2/5202.png" tvg-rec="0",VF Thriller
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13089/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5203" tvg-logo="http://epg.one/img2/5203.png" tvg-rec="0",VF Индия
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13090/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5204" tvg-logo="http://epg.one/img2/5204.png" tvg-rec="0",VF История
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13091/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5205" tvg-logo="http://epg.one/img2/5205.png" tvg-rec="0",VF Comics
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13092/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5206" tvg-logo="http://epg.one/img2/5206.png" tvg-rec="0",VF Криминал
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13093/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5207" tvg-logo="http://epg.one/img2/5207.png" tvg-rec="0",VF Клиника
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/13094/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6144" tvg-logo="http://epg.one/img2/6144.png" tvg-rec="0",VF Луи де Фюнес
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17000/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6145" tvg-logo="http://epg.one/img2/6145.png" tvg-rec="0",VF Чернобыль
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17001/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6146" tvg-logo="http://epg.one/img2/6146.png" tvg-rec="0",VF The X-Files
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17002/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6147" tvg-logo="http://epg.one/img2/6147.png" tvg-rec="0",VF Сверхъестественное
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17003/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6148" tvg-logo="http://epg.one/img2/6148.png" tvg-rec="0",VF Леонид Гайдай
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17004/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6149" tvg-logo="http://epg.one/img2/6149.png" tvg-rec="0",VF Американская история ужасов
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17005/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6150" tvg-logo="http://epg.one/img2/6150.png" tvg-rec="0",VF Друзья
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17006/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6151" tvg-logo="http://epg.one/img2/6151.png" tvg-rec="0",VF СашаТаня
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17008/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6152" tvg-logo="http://epg.one/img2/6152.png" tvg-rec="0",VF Джеки Чан
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17009/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6153" tvg-logo="http://epg.one/img2/6153.png" tvg-rec="0",VF Наша Раша
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17010/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6154" tvg-logo="http://epg.one/img2/6154.png" tvg-rec="0",VF Привет из 90х
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17011/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6155" tvg-logo="http://epg.one/img2/6155.png" tvg-rec="0",VF Эльдар Рязанов
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17012/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6156" tvg-logo="http://epg.one/img2/6156.png" tvg-rec="0",VF Универ новая общага
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17013/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6157" tvg-logo="http://epg.one/img2/6157.png" tvg-rec="0",VF Ходячие мертвецы
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17014/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6158" tvg-logo="http://epg.one/img2/6158.png" tvg-rec="0",VF Реальные пацаны
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17015/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6159" tvg-logo="http://epg.one/img2/6159.png" tvg-rec="0",VF Доктор Хаус
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17016/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6160" tvg-logo="http://epg.one/img2/6160.png" tvg-rec="0",VF Без цензуры
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17017/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6226" tvg-logo="http://epg.one/img2/6226.png" tvg-rec="0",VF Городок
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18097/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6284" tvg-logo="http://epg.one/img2/6284.png" tvg-rec="0",VF Comedy Woman
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18101/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6323" tvg-logo="http://epg.one/img2/6323.png" tvg-rec="0",VF Игра престолов
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18119/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6324" tvg-logo="http://epg.one/img2/6324.png" tvg-rec="0",VF Одесская киностудия
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18120/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6325" tvg-logo="http://epg.one/img2/6325.png" tvg-rec="0",VF Ленфильм
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18121/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6326" tvg-logo="http://epg.one/img2/6326.png" tvg-rec="0",VF Киностудия им. Горького
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18122/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6327" tvg-logo="http://epg.one/img2/6327.png" tvg-rec="0",VF Рижская киностудия
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18123/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6328" tvg-logo="http://epg.one/img2/6328.png" tvg-rec="0",VF Свердловская киностудия
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18124/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6329" tvg-logo="http://epg.one/img2/6329.png" tvg-rec="0",VF Беларусьфильм
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18125/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6823" tvg-logo="http://epg.one/img2/6823.png" tvg-rec="0",VF Netflix
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/19427/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6824" tvg-logo="http://epg.one/img2/6824.png" tvg-rec="0",VF HBO
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/19428/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9230" tvg-logo="http://epg.one/img2/9230.png" tvg-rec="0",VF Michael Jackson
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31554/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9228" tvg-logo="http://epg.one/img2/9228.png" tvg-rec="0",VF Король и Шут
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31555/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7573" tvg-logo="http://epg.one/img2/7573.png" tvg-rec="7",VF Легенды Ретро ФМ
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/10067/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6135" tvg-logo="http://epg.one/img2/6135.png" tvg-rec="0",VF Музыкальный Новый год!
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/16140/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7552" tvg-logo="http://epg.one/img2/7552.png" tvg-rec="0",VF Modern Talking
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14004/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7553" tvg-logo="http://epg.one/img2/7553.png" tvg-rec="0",VF Britney Spears
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14005/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5985" tvg-logo="http://epg.one/img2/5985.png" tvg-rec="0",VF Музыка
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15512/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5986" tvg-logo="http://epg.one/img2/5986.png" tvg-rec="0",VF Music
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15516/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5987" tvg-logo="http://epg.one/img2/5987.png" tvg-rec="0",VF Rock
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15517/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5988" tvg-logo="http://epg.one/img2/5988.png" tvg-rec="0",VF Караоке
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15518/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5989" tvg-logo="http://epg.one/img2/5989.png" tvg-rec="0",VF Шансон
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15519/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5990" tvg-logo="http://epg.one/img2/5990.png" tvg-rec="0",VF Музсоюз
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15521/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6168" tvg-logo="http://epg.one/img2/6168.png" tvg-rec="0",VF Metal
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17033/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6169" tvg-logo="http://epg.one/img2/6169.png" tvg-rec="0",VF Rap
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17034/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6170" tvg-logo="http://epg.one/img2/6170.png" tvg-rec="0",VF Хит-парад
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17036/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6171" tvg-logo="http://epg.one/img2/6171.png" tvg-rec="0",VF Русский рок
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17037/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7593" tvg-logo="http://epg.one/img2/7593.png" tvg-rec="0",VF Disney Cartoon
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15027/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7594" tvg-logo="http://epg.one/img2/7594.png" tvg-rec="0",VF Союзмультфильм
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14238/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7595" tvg-logo="http://epg.one/img2/7595.png" tvg-rec="0",VF Ералаш
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14163/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4790" tvg-logo="http://epg.one/img2/4790.png" tvg-rec="0",VF VHS Cartoon
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11118/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4795" tvg-logo="http://epg.one/img2/4795.png" tvg-rec="0",VF Малыш
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11123/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5995" tvg-logo="http://epg.one/img2/5995.png" tvg-rec="0",VF Мультуб
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15520/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5996" tvg-logo="http://epg.one/img2/5996.png" tvg-rec="0",VF Новогодние мультфильмы
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15523/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6162" tvg-logo="http://epg.one/img2/6162.png" tvg-rec="0",VF Скуби-Ду
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/17007/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5991" tvg-logo="http://epg.one/img2/5991.png" tvg-rec="0",VF Авто
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15511/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5992" tvg-logo="http://epg.one/img2/5992.png" tvg-rec="0",VF Охота
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15513/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5993" tvg-logo="http://epg.one/img2/5993.png" tvg-rec="0",VF Домашний повар
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15514/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="5994" tvg-logo="http://epg.one/img2/5994.png" tvg-rec="0",VF Путешествия
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/15515/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6124" tvg-logo="http://epg.one/img2/6124.png" tvg-rec="0",VF Рыбалка
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/16138/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6125" tvg-logo="http://epg.one/img2/6125.png" tvg-rec="0",VF Стройка
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/16139/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9232" tvg-logo="http://epg.one/img2/9232.png" tvg-rec="0",VF Маски Шоу
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31556/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9233" tvg-logo="http://epg.one/img2/9233.png" tvg-rec="0",VF Каламбур
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31557/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="9328" tvg-logo="http://epg.one/img2/9328.png" tvg-rec="0",VF Орел и решка
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/31476/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7663" tvg-logo="http://epg.one/img2/7663.png" tvg-rec="0",VF Концерты
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14159/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7664" tvg-logo="http://epg.one/img2/7664.png" tvg-rec="0",VF КВН
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14170/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6129" tvg-logo="http://epg.one/img2/6129.png" tvg-rec="0",VF Юмор 18+
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/16137/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6417" tvg-logo="http://epg.one/img2/6417.png" tvg-rec="0",VF Уральские пельмени
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18198/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6418" tvg-logo="http://epg.one/img2/6418.png" tvg-rec="0",VF Кухня
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18199/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6419" tvg-logo="http://epg.one/img2/6419.png" tvg-rec="0",VF Баня
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/18200/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="6706" tvg-logo="http://epg.one/img2/6706.png" tvg-rec="0",VF Однажды в России
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/19286/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="7714" tvg-logo="http://epg.one/img2/7714.png" tvg-rec="0",VF Граиндхаус
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/14158/index.m3u8
-#EXTINF:0 group-title="Кинозалы VF (ограничение)" tvg-id="4800" tvg-logo="http://epg.one/img2/4800.png" tvg-rec="0",VF Cartoon 18+
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/11117/index.m3u8
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-id="hlsproxy-277" tvg-logo="http://1lot.tv/ch/822.png" catchup="shift" catchup-days="2",Карусель
 http://45.142.122.146/channel/n5fdd2287/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-id="no_epg_mult" tvg-logo="https://i.imgur.com/DnlngRZ.png" catchup="shift" catchup-days="2", Карусель International
@@ -2486,6 +2224,8 @@ https://v2.catcast.tv/content/47757/index.m3u8?password=kizugtv
 https://v2.catcast.tv/content/47786/index.m3u8?password=kizugtv
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-id="no_epg_mult" tvg-logo="https://images-s.kinorium.com/movie/logo/578724/h280_51498408.png" catchup="shift" catchup-days="3", Маша и Медведь
 http://vod.stb.tvime.ru/Maasha/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Kids ┃ Детские" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",Мультики и сказки
+https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-id="hlsproxy-7178" tvg-logo="http://1lot.tv/ch/6546.png" catchup="shift" catchup-days="7",Смайл ТВ
 http://45.142.122.146/channel/n29d6a6ac/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
 #EXTINF:-1 group-title="Kids ┃ Детские" tvg-id="hlsproxy-238" tvg-logo="http://1lot.tv/ch/1112.png" catchup="shift" catchup-days="2",Уникум
@@ -2681,10 +2421,7 @@ https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
 http://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 
 #EXTINF:-0 tvg-id="vhs-ka" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png", VHS-ка HD 
-http://vod1.stb.tvime.ru/VHS-KA_HD/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
-
-#EXTINF:-0 tvg-id="yosso-vhs" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/yosso-vhs.png", YOSSO VHS
-http://vod.stb.tvime.ru/Yosso_TV_VHS/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
+http://95.66.188.74/VHS/index.m3u8
 
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg", Следствие вели... 
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
@@ -2872,89 +2609,88 @@ https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/istoricheskiy-hd.webp" tvg-id="Исторический HD" group-title="Кинозалы 2", ИСТОРИЧЕСКИЙ HD
-https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/sovetskie-filmy.webp" tvg-id="Советские фильмы" group-title="Кинозалы 2", СОВЕТСКИЕ ФИЛЬМЫ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-18.ott.tricolor.tv/dtv/id1009_MSKSG-PVR-1--kinozal_23_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/23dbe088-a083-41d9-a514-0349b02fb006" tvg-id="Детские песенки" group-title="Кинозалы 2", ДЕТСКИЕ ПЕСЕНКИ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/edbcd58f-6b7d-44b4-b980-e7d021023835" tvg-id="Легенды Спарка" group-title="Кинозалы 2", РОБОЗУНА
-https://live-mirror-18.ott.tricolor.tv/dtv/id1007_MSKSG-PVR-1--kinozal_21_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-18.ott.tricolor.tv/dtv/id1007_MSKSG-PVR-1--kinozal_21_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/komedii.webp" tvg-id="zal-12-tricolor" group-title="Кинозалы 2", КОМЕДИИ
-https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-14.ott.tricolor.tv/dtv/id906_MSKSG-PVR-1--Kinozal_12/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/boeviki-hd.webp" tvg-id="Боевики HD" group-title="Кинозалы 2", БОЕВИКИ HD
-https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/uzhasy-hd.webp" tvg-id="Ужасы HD" group-title="Кинозалы 2", УЖАСЫ HD
-https://stream-msk-19.ott.tricolor.tv/dtv/id997_MSKSG-PVR-1--Kinopokaz_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-19.ott.tricolor.tv/dtv/id997_MSKSG-PVR-1--Kinopokaz_9/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/bodo-borodo.webp" tvg-id="no_epg_mult" group-title="Кинозалы 2", КЛУБ ВИНКС
-https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/sherlok-holms.webp" tvg-id="zal-01-tricolor" group-title="Кинозалы 2", ШЕРЛОК ХОЛМС
-https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/6ac31def-48c9-45c7-8393-171cac5f7901" tvg-id="zal-02-tricolor" group-title="Кинозалы 2", СЛЕД
-https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/mentovskie-voyny.webp" tvg-id="zal-03-tricolor" group-title="Кинозалы 2", МЕНТОВСКИЕ ВОЙНЫ
-https://stream-msk-15.ott.tricolor.tv/dtv/id977_MSKSG-PVR-1--Kinozal_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-15.ott.tricolor.tv/dtv/id977_MSKSG-PVR-1--Kinozal_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/4b7d379e-7f5d-4d55-b281-ea358d1a8490" tvg-id="zal-05-tricolor" group-title="Кинозалы 2", СЕМНАДЦАТЬ МГНОВЕНИЙ ВЕСНЫ
-https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-16.ott.tricolor.tv/dtv/id925_MSKSG-PVR-1--Kinozal_5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/tri-bogaturya.webp" tvg-id="zal-07-tricolor" group-title="Кинозалы 2", ТРИ БОГАТЫРЯ
-https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-15.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/d527b212-214c-41e1-abd0-ab30e31e13cf" tvg-id="zal-08-tricolor" group-title="Кинозалы 2", ЧУЖОЙ РАЙОН
-https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/ec34674e-bcad-49ce-9f21-c680b66850a1" tvg-id="zal-06-tricolor" group-title="Кинозалы 2", НЕКРАСИВАЯ ПОДРУЖКА
-http://live-mirror-17.ott.tricolor.tv/dtv/id978_MSKSG-PVR-1--Kinozal_6/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+http://live-mirror-17.ott.tricolor.tv/dtv/id978_MSKSG-PVR-1--Kinozal_6/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/4b466397-5d62-4574-9223-83f9f5f775a4" tvg-id="zal-09-tricolor" group-title="Кинозалы 2", АННА-ДЕТЕКТИВЪ
-https://live-mirror-15.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-15.ott.tricolor.tv/dtv/id908_MSKSG-PVR-1--Kinozal_9/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/1437b815-1865-40b5-977b-61256828c82a" tvg-id="zal-10-tricolor" group-title="Кинозалы 2", СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
-https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://xn--b1apmbmg.xn----dtbqifrblfni.xn--p1ai/assets/img/tricolor_channels_new/smeshariki.webp" tvg-id="zal-11-tricolor" group-title="Кинозалы 2", СМЕШАРИКИ
-https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/34f9d683-64eb-4b4e-920c-1e4d03f3e00a" tvg-id="Глухарь" group-title="Кинозалы 2", ГЛУХАРЬ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1012_MSKSG-PVR-1--Kinozal24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-18.ott.tricolor.tv/dtv/id1012_MSKSG-PVR-1--Kinozal24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/882d5675-063c-49f7-911d-ad8799b56907" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ГОРЮНОВ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1013_MSKSG-PVR-1--Kinozal25_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-18.ott.tricolor.tv/dtv/id1013_MSKSG-PVR-1--Kinozal25_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/50c4e7b3-7995-4198-8dbe-69db51be0a8e" tvg-id="Карпов" group-title="Кинозалы 2", ПОСЛЕДНИЙ МЕНТ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-18.ott.tricolor.tv/dtv/id1014_MSKSG-PVR-1--Kinozal26_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/2522c8f0-8a52-4183-8ab4-67375256eb8c" tvg-id="Улицы разбитых фонарей" group-title="Кинозалы 2", УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
-https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/76287287-53ce-443d-a14a-9582f8c74815" tvg-id="6 кадров" group-title="Кинозалы 2", 6 КАДРОВ
-https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/5bd90869-7eee-4619-a15a-578a6cb9e37d" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ЖЕНСКИЙ ДЕТЕКТИВ
-https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/c9b210d5-34b1-4b10-80c1-935a5495e86b" tvg-id="Мажор" group-title="Кинозалы 2", МАЖОР
-https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/1c611298-925b-4670-bcbd-f10f2b6b8a63" tvg-id="no_epg" group-title="Кинозалы 2", ДЫЛДЫ
-https://live-mirror-19.ott.tricolor.tv/dtv/id1037_MSKSG-PVR-1--Kinozal_31/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-19.ott.tricolor.tv/dtv/id1037_MSKSG-PVR-1--Kinozal_31/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/8e839863-898b-49a7-a6dc-ca27b5dba240" tvg-id="no_epg_cinema" group-title="Кинозалы 2", БАНДИТСКИЙ ПЕТЕРБУРГ
-https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
+https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/40dcffa8-1371-47c2-b9e7-1e3c64c6076f" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ВОСТОК-ЗАПАД
-https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODA3NDQyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU3NDY5NjI3LCJzZXNzaW9uX2lkIjoiZDlmZTgxOTFmYTFjMjQ4ZjUzN2ViNjVlOWE0M2ZjOGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.g1L-cwTkjltXHyAVVKPyFgLG7fmTOOKtj33WrsSL8hE
-
+https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 #EXTINF:-1 group-title="Киномания ┃ Kinomaniya" tvg-id="hlsproxy-55465" tvg-logo="http://1lot.tv/ch/6274.png" catchup="shift" catchup-days="7",BCU Action HD
 http://45.142.122.146/channel/n2a7f5ea1/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
 #EXTINF:-1 group-title="Киномания ┃ Kinomaniya" tvg-id="hlsproxy-55464" tvg-logo="http://1lot.tv/ch/6275.png" catchup="shift" catchup-days="7",BCU Catastrophe HD
@@ -3141,6 +2877,8 @@ http://45.142.122.146/channel/n67fa29be/index.mpeg?q=4a730778c98b49aa2740a067de1
 http://45.142.122.146/channel/n6a639757/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
 #EXTINF:-1 group-title="Киномания ┃ Kinomaniya" tvg-id="hlsproxy-55002" tvg-logo="http://1lot.tv/ch/7962.png" catchup="shift" catchup-days="1",MS Magic 4K
 http://45.142.122.146/channel/n31ae2437/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
+#EXTINF:-1 group-title="Киномания ┃ Kinomaniya" tvg-logo="https://i.ibb.co/ZpKFWL9G/image.png" catchup="shift" catchup-days="1" tvg-id="no_epg", KizugTV
+https://132544.edgevideo.ru/streams/132544_970181/1325441080/index.m3u8
 #EXTINF:-1 group-title="Киномания ┃ Kinomaniya" tvg-id="goldline-brief" tvg-logo="http://1lot.tv/ch/10282.png" catchup="shift" catchup-days="1",GL Brief (Короткие истории)
 http://45.142.122.146/channel/2d049295/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
 #EXTINF:-1 group-title="Киномания ┃ Kinomaniya" tvg-id="goldline-evidence" tvg-logo="http://1lot.tv/ch/10283.png" catchup="shift" catchup-days="1",GL Evidence (Улика)
