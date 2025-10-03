@@ -206,6 +206,17 @@ http://45.142.122.146/channel/n5a136c01/index.mpeg?q=4a730778c98b49aa2740a067de1
 #EXTINF:0 tvg-id="hlsproxy-474" tvg-logo="http://epg.it999.ru/img/898.png" tvg-rec="14" tvg-shift="+7" group-title="Развлекательные ┃ Entertainment",Ю +7
 #EXTGRP:Развлекательные ┃ Entertainment
 http://45.142.122.146/channel/n5a136bfe/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
+#EXTINF:-1 group-title="Развлекательные ┃ Entertainment" tvg-id="no_epg" tvg-logo="https://i.ibb.co/ZpKFWL9G/image.png", ЗАЛИПАТЕЛЬНЫЕ_РОЛИКИ
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлекательные ┃ Entertainment" tvg-id="no_epg" tvg-logo="https://i.ibb.co/ZpKFWL9G/image.png", ЗАЛИПАТЕЛЬНЫЕ_РОЛИКИ 2
+https://30a-tv.com/feeds/720p/63.m3u8
+
+#EXTINF:-1 group-title="Развлекательные ┃ Entertainment" tvg-id="no_epg" tvg-logo="https://i.ibb.co/ZpKFWL9G/image.png", People Are Awesome
+https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
+
+#EXTINF:-1 group-title="Развлекательные ┃ Entertainment" tvg-id="no_epg" tvg-logo="https://i.ibb.co/ZpKFWL9G/image.png",5-Minute Crafts Live
+https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb5638186573608684ce3b78d3f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0fcb05c41d064a2ac154d937b58e683179fc914bfd1d6469845d376f417c896a58ed611e033a059896f58c41222404facc21fa1dc4ea5d39b1b48f6130d736e99623ef184281993554c4cfd85a4d7d11252bce00e936124b50f9c4e9672f70305e4e6932d8b899aa5306a2ba5d7556e23a1f7b381f22c739674fabba3b5191acaa3442817993f9c4abf5be1204860f96af0b0965a0f41bb7129dcb265d1f09796fdbf9d4fd308c5d4f7972a7883026e0dab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a552e73d72094ce3b21f5e434d6fd9a1335e6737901396a6a08b40000ee8f8daed800268755e39664cdab2a920e1cdaa4f3a19ce542a650e60349e16d964da40044019c010d7a31e67c7610528f5ac2b524a66f49ce799e636abe83be00ba929ef89f95b2e9944b136e0c16ec68d22/46/960x540_2200000/index.m3u8
 #EXTINF:0 tvg-id="hlsproxy-134" tvg-logo="http://45.142.122.146/proxy/https://iptvx.one/picons/360-int.png" tvg-rec="14" group-title="Развлекательные ┃ Entertainment",360
 #EXTGRP:Развлекательные ┃ Entertainment
 http://45.142.122.146/channel/d8d5849/index.mpeg?q=4a730778c98b49aa2740a067de1ed26f
