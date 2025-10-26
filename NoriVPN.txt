@@ -1,3 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇱🇹Литва
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=&encryption=none&host=m.vk.com&type=ws#🇷🇺Анти-глушилки%20(белые%20списки)
-vless://9618316d-386b-4523-9ac7-5476dbdffe17@45.84.222.208:443?type=tcp&encryption=none&security=reality&pbk=vidk0eo9G8oTqFb_ITf5TiptVAp1keex5RIokRCgIWU&fp=chrome&sni=m.vk.com&sid=e9a1ad39e2aa1493&spx=%2F&flow=xtls-rprx-vision#PORTAL%20t.me%2FSTR_BYPASS-PORTAL%20FREE%20t.me%2FSTR_BYPASS
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇱🇹%20Литва
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=&encryption=none&host=m.vk.com&type=ws#🇷🇺%20Анти-глушилки%20№1
+vless://9618316d-386b-4523-9ac7-5476dbdffe17@45.84.222.208:443?type=tcp&encryption=none&security=reality&pbk=vidk0eo9G8oTqFb_ITf5TiptVAp1keex5RIokRCgIWU&fp=chrome&sni=m.vk.com&sid=e9a1ad39e2aa1493&spx=%2F&flow=xtls-rprx-vision#🇷🇺%20Portal-WG
