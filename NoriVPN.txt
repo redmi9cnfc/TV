@@ -1,2 +1,2 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇱🇹Литва
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=&encryption=none&host=m.vk.com&type=ws#🇷🇺Анти-глушилки(белые списки)
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=&encryption=none&host=m.vk.com&type=ws#🇷🇺Анти-глушилки%20(белые%20списки)
