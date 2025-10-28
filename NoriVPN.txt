@@ -3,6 +3,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱%20Нидерланды
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=&encryption=none&host=m.vk.com&type=ws#🇷🇺%20Анти-глушилки%20№1
 vless://vpn@109.205.56.37:5000?path=%2F&security=&encryption=none&host=ozon.ru&type=ws#🇷🇺%20Анти-глушилки%20№2
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=m.vk.com&type=ws#🇷🇺%20Анти-глушилки%20%3
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#🇷🇺%20Warp
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#🇷🇺%20Portal%20WG
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=&encryption=none&type=grpc#🇫🇷%20Франция
