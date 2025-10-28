@@ -3,7 +3,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱%20Нидерланды
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=&encryption=none&host=m.vk.com&type=ws#🇷🇺%20Анти-глушилки%20№1
 vless://vpn@109.205.56.37:5000?path=%2F&security=&encryption=none&host=ozon.ru&type=ws#🇷🇺%20Анти-глушилки%20№2
-vmess://eyJhZGQiOiI5MS45OS4xODUuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLnZrLmNvbSIsImlkIjoiN2JkNmExZWEtYTIyMC00ZjFjLWFmZWQtNmNmYjhhYjk2YWQ5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoi8J+MgCDQkNC90YLQvtC9INCQ0L3RgtC+0L0g0JHQu9C40YbQvtC5ICMzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiAiOTEuOTkuMTg1LjIxNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJtLnZrLmNvbSIsICJpZCI6ICI3YmQ2YTEzZWEtYTIyMC00ZjFjLWFmZWQtNmNmYjhhYjk2YWQ5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDA4NiIsICJwcyI6ICLwn5iTIExUT1JUQUwg8J+YgCB0Lm1lL1NUUl9CWVBBU1TQvtCw0YLRgdC+0LIg0LHQtdC70YvRhSDRgdC/0LjRgdC60L7QsiBHZXJtYW55LCBGYWxrZW5zdGVpbiwgSGV0em5lciBPbmxpbmUgR21iSCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#🇷🇺%20Warp
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#🇷🇺%20Portal%20WG
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=&encryption=none&type=grpc#🇫🇷%20Франция
