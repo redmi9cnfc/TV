@@ -1,5 +1,6 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇬🇧%20Великобритания
 vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@nrtcfdns.zone.id:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&type=ws&sni=2.294294.xyz#🇩🇪%20Германия
+warp://162.159.195.1:968?ifp=40-80&ifps=50-100&ifpd=2-4&ifpm=m4#🇮🇶#20Ирак
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇱🇹%20Литва
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱%20Нидерланды
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=&encryption=none&host=m.vk.com&type=ws#🇷🇺%20Анти-глушилки%20№1
