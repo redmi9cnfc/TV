@@ -1,6 +1,6 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇬🇧%20Великобритания
 vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@nrtcfdns.zone.id:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&type=ws&sni=2.294294.xyz#🇩🇪%20Германия
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@194.152.44.253:2096?path=%2FTelegram%20%40%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#🇷🇺%20Анти-глушилки
+vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443/?type=ws&encryption=none&flow=&host=cdn.filterai.ru&path=%2Fwebsocketpl&security=tls&sni=zen.yandex.net&allowInsecure=1&packetEncoding=xudp#🇷🇺%20Анти-глушилки
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#🇷🇺%20Warp
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#🇷🇺%20Portal%20WG
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#🇸🇪%20Швеция
