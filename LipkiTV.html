@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>LipkiTV — IPTV Player</title>
+
+  <style>
+    :root{
+      --bg:#0f1724; --card:#0b1220; --muted:#9aa4b2;
+      --accent:#4f46e5; --text:#e6eef8; --glass:rgba(255,255,255,0.03);
+    }
+    body{
+      margin:0; font-family:Inter,Arial;
+      background:var(--bg); color:var(--text);
+      height:100vh; overflow:hidden; /* оставляем */
+    }
+
+    /* ===== ОСНОВНАЯ СЕТКА ===== */
+    .app{
+      display:grid;
+      grid-template-columns:260px 1fr;
+      height:100vh;
+      gap:10px;
+      padding:10px;
+    }
+
+    /* ========== МОБИЛЬНАЯ ВЕРСИЯ ========== */
+    @media(max-width:800px){
+      .app{ grid-template-columns:1fr; }
+
+      .sidebar{
+        position:fixed;
+        top:0; left:-260px;
+        width:260px; height:100vh;
+        transition:.3s;
+        z-index:20;
+        box-shadow:0 0 20px #0008;
+      }
+      .sidebar.open{ left:0; }
+
+      #menuBtn{ display:block; }
+    }
+
+    #menuBtn{
+      display:none;
+      position:absolute;
+      top:10px; left:10px;
+      padding:6px 10px;
+      font-size:20px;
+      z-index:25;
+    }
+
+    /* ===== САЙДБАР ===== */
+    .sidebar{
+      background:var(--card);
+      padding:12px;
+      border-radius:10px;
+      overflow-y:auto;
+    }
+
+    /* ===== MAIN ===== */
+    .main{
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+      overflow:hidden;           /* чтобы внутренние элементы не ломали высоту */
+    }
+
+    /* ===== VIDEO ===== */
+    .video-wrap{
+      background:#000;
+      border-radius:8px;
+      position:relative;
+      padding-top:56.25%;
+    }
+    video{
+      position:absolute;
+      top:0; left:0;
+      width:100%; height:100%;
+    }
+
+    /* ===== КАНАЛЫ ===== */
+    .channels-holder{
+      flex:1;
+      overflow-y:auto;            /* ГЛАВНОЕ — ЛИСТАЕТСЯ */
+      padding-right:5px;
+    }
+
+    .channels{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
+      gap:8px;
+    }
+
+    @media(max-width:800px){
+      .channels{
+        grid-template-columns:repeat(2,1fr);
+      }
+    }
+
+    .channel{
+      background:var(--card);
+      padding:8px;
+      border-radius:8px;
+      cursor:pointer;
+      display:flex; gap:8px;
+      align-items:center;
+      transition:.2s;
+    }
+    .channel:hover{
+      background:var(--glass);
+    }
+
+    .group{
+      padding:6px; border-radius:8px; cursor:pointer;
+    }
+    .group.active{
+      background:var(--glass);
+    }
+
+    .muted{ color:var(--muted); font-size:12px; }
+
+    button,input{
+      background:transparent;
+      color:var(--text);
+      border:1px solid #444;
+      padding:6px;
+      border-radius:6px;
+    }
+
+    /* ===== ЛИСТАТЕЛ ===== */
+    .nav-ch{
+      margin-top:10px;
+      display:flex;
+      justify-content:space-between;
+    }
+
+  </style>
+</head>
+
+<body>
+
+<button id="menuBtn">☰</button>
+
+<div class="app">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div style="font-size:20px;font-weight:700;margin-bottom:10px">LipkiTV</div>
+
+    <button id="settingsToggle" style="width:100%;margin-bottom:10px">⚙ Настройки</button>
+
+    <div id="settingsPanel" style="display:none">
+      <label class="muted">Показывать логотипы <input id="showLogo" type="checkbox" checked></label><br><br>
+      <label class="muted">Автоплей <input id="autoplay" type="checkbox"></label><br><br>
+      <label class="muted">Буфер (сек): <input id="bufferInput" type="number" value="10" min="1" max="60" style="width:70px"></label><br><br>
+    </div>
+
+    <h3 class="muted">Группы</h3>
+    <div id="groupsList" style="display:flex;flex-direction:column;gap:4px"></div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main">
+
+    <div>
+      <div class="video-wrap">
+        <video id="video" controls playsinline></video>
+      </div>
+
+      <div class="muted" id="nowPlaying" style="margin-top:6px">—</div>
+
+      <div class="nav-ch">
+        <button id="prevBtn">⟸ Предыдущий</button>
+        <button id="nextBtn">Следующий ⟹</button>
+      </div>
+    </div>
+
+    <!-- ЛИСТАЕМЫЙ БЛОК КАНАЛОВ -->
+    <div class="channels-holder">
+      <h3 style="margin:0 0 8px 0">Каналы</h3>
+      <input id="filter" placeholder="Поиск..." style="width:100%;margin-bottom:8px">
+      <div id="channelsGrid" class="channels"></div>
+    </div>
+
+  </main>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
+
+<script>
+  const BUILTIN_URL =
+    "https://dl.dropboxusercontent.com/scl/fi/j9kbbrl5c0vi0ehapepuw/LIPKITV-GRUPS.m3u8?rlkey=u9bwaasqdl57x5ufvxb63w2qm&st=0d2qxf5o";
+
+  const groupsList = document.getElementById("groupsList");
+  const channelsGrid = document.getElementById("channelsGrid");
+  const video = document.getElementById("video");
+  const nowPlaying = document.getElementById("nowPlaying");
+  const filterInput = document.getElementById("filter");
+  const showLogo = document.getElementById("showLogo");
+  const autoplay = document.getElementById("autoplay");
+  const bufferInput = document.getElementById("bufferInput");
+  const settingsToggle = document.getElementById("settingsToggle");
+  const settingsPanel = document.getElementById("settingsPanel");
+  const prevBtn = document.getElementById("prevBtn");
+  const nextBtn = document.getElementById("nextBtn");
+  const menuBtn = document.getElementById("menuBtn");
+  const sidebar = document.getElementById("sidebar");
+
+  let channels = [];
+  let groups = [];
+  let currentGroup = null;
+  let playlistText = "";
+  let hls = null;
+
+  let currentList = [];
+  let currentIndex = -1;
+
+  menuBtn.onclick = () => sidebar.classList.toggle("open");
+
+  settingsToggle.onclick = () =>
+    settingsPanel.style.display =
+      settingsPanel.style.display === "none" ? "block" : "none";
+
+  filterInput.oninput = () => renderChannels(currentGroup);
+
+  loadBuiltin();
+
+  async function loadBuiltin() {
+    try {
+      const r = await fetch(BUILTIN_URL);
+      playlistText = await r.text();
+      parseAndRender(playlistText);
+    } catch (e) {
+      groupsList.innerHTML = "<div class='muted'>Ошибка загрузки плейлиста</div>";
+    }
+  }
+
+  function parseAndRender(text) {
+    channels = parseM3U(text);
+    groups = [...new Set(channels.map(c => c.group))];
+
+    groupsList.innerHTML = "";
+    groups.forEach(g => {
+      let div = document.createElement("div");
+      div.className = "group";
+      div.textContent = g;
+      div.onclick = () => selectGroup(g);
+      groupsList.appendChild(div);
+    });
+
+    selectGroup(groups[0]);
+  }
+
+  function parseM3U(text) {
+    let out = [];
+    let last = null;
+
+    for (let line of text.split(/\n/)) {
+      line = line.trim();
+
+      if (line.startsWith("#EXTINF")) last = line;
+      else if (line && !line.startsWith("#")) {
+        let meta = {
+          title: line,
+          url: line,
+          group: "Other",
+          logo: ""
+        };
+
+        if (last) {
+          const name = last.split(",")[1];
+          meta.title = name || line;
+
+          const grp = last.match(/group-title="([^"]+)"/i);
+          if (grp) meta.group = grp[1];
+
+          const logo = last.match(/tvg-logo="([^"]+)"/i);
+          if (logo) meta.logo = logo[1];
+        }
+        out.push(meta);
+        last = null;
+      }
+    }
+    return out;
+  }
+
+  function selectGroup(g) {
+    currentGroup = g;
+    [...groupsList.children].forEach(el =>
+      el.classList.toggle("active", el.textContent === g)
+    );
+    renderChannels(g);
+  }
+
+  function renderChannels(group) {
+    const q = filterInput.value.toLowerCase();
+
+    currentList = channels.filter(
+      c =>
+        c.group === group &&
+        (c.title.toLowerCase().includes(q) || c.url.toLowerCase().includes(q))
+    );
+
+    channelsGrid.innerHTML = "";
+
+    currentList.forEach((ch, i) => {
+      const el = document.createElement("div");
+      el.className = "channel";
+      el.onclick = () => playChannel(ch, i);
+
+      if (showLogo.checked && ch.logo) {
+        const img = document.createElement("img");
+        img.src = ch.logo;
+        img.width = 50;
+        el.appendChild(img);
+      }
+
+      const m = document.createElement("div");
+      m.innerHTML = "<div style='font-weight:600'>" + ch.title + "</div>";
+      el.appendChild(m);
+
+      channelsGrid.appendChild(el);
+    });
+  }
+
+  function stopPlayback() {
+    if (hls) hls.destroy();
+    hls = null;
+    video.src = "";
+    nowPlaying.textContent = "—";
+  }
+
+  function playChannel(ch, index) {
+    stopPlayback();
+
+    nowPlaying.textContent = ch.title;
+    currentIndex = index;
+
+    if (Hls.isSupported() && ch.url.includes(".m3u8")) {
+      hls = new Hls({
+        maxBufferLength: Number(bufferInput.value) || 10
+      });
+      hls.loadSource(ch.url);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, () => {
+        if (autoplay.checked) video.play();
+      });
+    } else {
+      video.src = ch.url;
+      if (autoplay.checked) video.play();
+    }
+  }
+
+  /* ЛИСТАТЕЛ КАНАЛОВ */
+  prevBtn.onclick = () => {
+    if (currentIndex > 0)
+      playChannel(currentList[currentIndex - 1], currentIndex - 1);
+  };
+
+  nextBtn.onclick = () => {
+    if (currentIndex < currentList.length - 1)
+      playChannel(currentList[currentIndex + 1], currentIndex + 1);
+  };
+</script>
+
+</body>
+</html>
