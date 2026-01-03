@@ -1,4 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇬🇧%20Великобритания
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#   ⬇️⬇️⬇️Обычный VPN⬇️⬇️⬇️
 vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@nrtcfdns.zone.id:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&type=ws&sni=2.294294.xyz#🇩🇪%20Германия
 vless://id7766933065@185.121.232.245:443?security=reality&encryption=none&pbk=Zcn37ICU8CGqJZiUROPMDDhujlA32SqapcAX8OonTys&headerType=none&fp=chrome&spx=%2F8xjfTjIHLgjbhjC&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=c754d2#🇳🇱%20Нидерланды
 vless://id7766933065@185.40.4.142:443?security=reality&encryption=none&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&headerType=none&fp=random&spx=%2FDF9djrEJQRzuRxy&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=5a56f9b61609#🇳🇴%20Норвегия
