@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Крош</title>
+
+<style>
+body{
+margin:0;
+font-family:Arial;
+background:#0e1621;
+color:white;
+height:100vh;
+display:flex;
+flex-direction:column;
+}
+
+.top{
+background:#17212b;
+padding:14px;
+text-align:center;
+font-size:18px;
+}
+
+.messages{
+flex:1;
+overflow:auto;
+padding:10px;
+display:flex;
+flex-direction:column;
+}
+
+.msg{
+padding:10px;
+border-radius:14px;
+margin:5px 0;
+max-width:75%;
+word-wrap:break-word;
+}
+
+.me{
+background:#2b5278;
+align-self:flex-end;
+}
+
+.other{
+background:#1f2c3a;
+align-self:flex-start;
+}
+
+.bottom{
+display:flex;
+padding:10px;
+background:#17212b;
+}
+
+input{
+flex:1;
+padding:12px;
+border:none;
+border-radius:10px;
+background:#0e1621;
+color:white;
+font-size:16px;
+}
+
+button{
+margin-left:8px;
+padding:12px 16px;
+border:none;
+border-radius:10px;
+background:#2b5278;
+color:white;
+font-size:16px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="top">Крош</div>
+<div id="messages" class="messages"></div>
+
+<div class="bottom">
+<input id="text" placeholder="Сообщение">
+<button onclick="send()">➤</button>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth-compat.js"></script>
+
+<script>
+const firebaseConfig = {
+  apiKey: "AIzaSyBYK8JkFknFnyIsXDgePCI1ceLsKuq6X5U",
+  authDomain: "krosh-fb1be.firebaseapp.com",
+  projectId: "krosh-fb1be",
+  storageBucket: "krosh-fb1be.firebasestorage.app",
+  messagingSenderId: "266611723143",
+  appId: "1:266611723143:web:7b1b9e652543f9fcb1a122"
+};
+
+firebase.initializeApp(firebaseConfig);
+const db = firebase.firestore();
+
+let username = localStorage.getItem("krosh_user");
+if(!username){
+username = prompt("Придумай username");
+localStorage.setItem("krosh_user", username);
+}
+
+firebase.auth().signInAnonymously();
+
+const box = document.getElementById("messages");
+
+db.collection("messages")
+.orderBy("time")
+.onSnapshot(snap=>{
+box.innerHTML="";
+snap.forEach(doc=>{
+let m=doc.data();
+let div=document.createElement("div");
+div.className="msg "+(m.user==username?"me":"other");
+div.innerHTML="<b>@"+m.user+"</b><br>"+m.text;
+box.appendChild(div);
+});
+box.scrollTop=box.scrollHeight;
+});
+
+function send(){
+let text=document.getElementById("text").value;
+if(!text) return;
+
+db.collection("messages").add({
+user:username,
+text:text,
+time:Date.now()
+});
+
+document.getElementById("text").value="";
+}
+</script>
+
+</body>
+</html>
