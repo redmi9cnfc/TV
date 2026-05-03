@@ -1,7 +1,5 @@
 #profile-title: 🌿 NoriVPN
 #profile-update-interval: 1
-#support-url: https://t.me/unlockedkit
-#support-url: https://t.me/unlockedkit
 #announce: NoriVPN - лучший бесплатный VPN. Для чёрных списков использовать обычные сервера, а для белых списков использовать LTE сервера. #СВОБОДАИНТЕРНЕТУ
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
