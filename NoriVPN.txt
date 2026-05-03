@@ -1,10 +1,27 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#⬇️⬇️⬇️⬇️Обычный VPN⬇️⬇️⬇️⬇️
-vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@nrtcfdns.zone.id:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&type=ws&sni=2.294294.xyz#🇩🇪%20Германия
-vless://id7766933065@185.121.232.245:443?security=reality&encryption=none&pbk=Zcn37ICU8CGqJZiUROPMDDhujlA32SqapcAX8OonTys&headerType=none&fp=chrome&spx=%2F8xjfTjIHLgjbhjC&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=c754d2#🇳🇱%20Нидерланды
-vless://id7766933065@185.40.4.142:443?security=reality&encryption=none&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&headerType=none&fp=random&spx=%2FDF9djrEJQRzuRxy&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=5a56f9b61609#🇳🇴%20Норвегия
-vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443/?type=ws&encryption=none&flow=&host=cdn.filterai.ru&path=%2Fwebsocketpl&security=tls&sni=zen.yandex.net&allowInsecure=1&packetEncoding=xudp#🇷🇺%20Анти-глушилки
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#🇷🇺%20Warp
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#🇷🇺%20Portal%20WG
-vless://id7766933065@45.12.143.61:443?security=reality&encryption=none&pbk=mY0JLmacybzPTWwmOzLy5QuXSXumLQ__uDQ-nNPyImk&headerType=none&fp=chrome&spx=%2FtfF1XMChJc5TOVo&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=66ad7008a9#🇹🇷%20Турция
-vless://id7766933065@2.56.173.178:443?security=reality&encryption=none&pbk=8FGAZxlDl8WcDg0GuaAbAWqZ3w12x5KwpaHgG0pVnTA&headerType=none&fp=chrome&spx=%2Fw8Qa5TXJI6pKyI4&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=efb4ec70#🇫🇮%20Финляндия
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#🇸🇪%20Швеция
+#profile-title: 🌿 NoriVPN
+#profile-update-interval: 1
+#support-url: https://t.me/unlockedkit
+#support-url: https://t.me/unlockedkit
+#announce: NoriVPN - лучший бесплатный VPN. Для обычного использования использовать обычные сервера, а для белых списках использовать LTE сервера. #СВОБОДУИНТЕРНЕТУ
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.pyatnica.pro:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nN0yOjtfONIcmjurY2SwM1DMkugK5unIWZVnpgYnQCk&sid=9f0e2c6b4833757f&sni=web.pyatnica.pro#🇦🇹%20Австрия
+vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@107.181.134.16:7443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&packetEncoding=xudp#🇬🇧%20Великобритания
+vless://24ed4d8c-4345-42a8-bfd0-3aada23bc6ca@45.66.228.4:443?authority=&fp=chrome&headerType=&mode=gun&pbk=H4OqfYoC5BJw-hC3FmXhnd_J8_qZSRK6oRuT-irdc3U&security=reality&serviceName=&sid=f43daf211bcea205&sni=de3.hitori.cloud&type=grpc#🇩🇪%20Германия
+vless://d82595e5-e41f-4f92-a5be-06173d7e8052@5.102.124.89:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lIXzhYg3mhR9wY_qQG4H6O7nffkq4A3gUa8LWO6DkTo&sid=f977afd3&sni=www.apple.com.cn#🇭🇰%20Гонконг
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top&host=r1.mizulina.top#🇬🇪%20Грузия
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ind8.keepsecured.net:8443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&sid=10f786a2491b2cd5&sni=cdn.kwork.com&serviceName=buysec.ru#🇮🇳%20Индия
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.luckgoodluck.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.luckgoodluck.ru#🇰🇿%20Казахстан
+vless://cf5a8e10-758c-4564-87a4-a2eeecbd5ed4@2y4x8bb.synccut.de:443?security=tls&type=ws&path=%2Fmy&host=2y4x8bb.synccut.de&packetEncoding=none&allowInsecure=1&sni=2y4x8bb.synccut.de&fp=edge#🇲🇾%20Малайзия
+vless://5bd36fef-18ac-4d69-8080-25df6c9b369e@104.238.6.225:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SqNAL7L50tQTHhkvN4dT3O-DqdI1qan5iwg6ai4U_hY&sid=a3a5df265540&sni=www.hollywoodreporter.com#🇳🇱%20Нидерланды
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:39800?encryption=none&fp=chrome&headerType=none&mode=auto&path=/&pbk=bpHDYJWkA0h_nOqRBLUbuJJXfqmIZIMGcv07zcFpdCs&security=reality&sid=dc27d60c096413b5&sni=apple.com&type=xhttp#🇵🇱%20Польша
+vless://cf5a8e10-758c-4564-87a4-a2eeecbd5ed4@rhciuib.synccut.de:443?security=tls&type=ws&path=%2Fsubtitles&host=rhciuib.synccut.de&packetEncoding=none&allowInsecure=1&sni=rhciuib.synccut.de&fp=edge#🇰🇷%20Республика%20Корея
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@159.194.223.34:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=web.catpatrol.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇺%20Россия (без DPI)
+vless://cf5a8e10-758c-4564-87a4-a2eeecbd5ed4@rhciuib.synccut.de:443?security=tls&type=ws&path=%2Fsubtitles&host=rhciuib.synccut.de&packetEncoding=none&allowInsecure=1&sni=rhciuib.synccut.de&fp=edge#🇸🇬%20Сингапур
+vless://bb45af82-da97-405b-94f7-bc1d933377fc@153.76.116.74:443?type=grpc&encryption=none&flow=&sni=nl.scamhost.online&fp=chrome&security=reality&pbk=0tYoFu_1LI7LJQd-36fkaIDghhP7IPVqy93olfFWc3w&sid=#🇺🇸%20США
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@87.228.94.13:52006?allowInsecure=1&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇫🇮%20Финляндия
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.37-z.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.37-z.ru#🇫🇷%20Франция
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@se.keepsecured.net:8443?type=grpc&security=reality&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&sid=10f786a2491b2cd5&sni=cdn.kwork.com&mode=gun&serviceName=buysec.ru&authority=#🇸🇪%20Швеция
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#🇨🇭%20Швейцария
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ee.keepsecured.net:8443?type=grpc&security=reality&encryption=none&fp=qq&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&sid=10f786a2491b2cd5&sni=cdn.kwork.com&mode=gun&serviceName=buysec.ru&authority=#🇪🇪%20Эстония
+vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.134:52006?security=tls&flow=xtls-rprx-vision&sni=cl-oth-1.edgeflux.ru&type=tcp&host=cl-oth-1.edgeflux.ru&path=%2F&allowInsecure=1#🇯🇵%20Япония
