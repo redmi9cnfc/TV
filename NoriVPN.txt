@@ -4,6 +4,6 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:42443/?sni=multi.fresedvpn.site#🇱🇻%20Латвия%20(Самый%20быстрый)
-hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:36443/?sni=multi.fresedvpn.site#🇫🇮%20Финляндия%20(Простые%20блокировки)
 hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:39443/?sni=multi.fresedvpn.site#🇺🇸%20США%20(Нейронки)
+hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:36443/?sni=multi.fresedvpn.site#🇫🇮%20Финляндия%20(Простые%20блокировки)
 vless://150f8634-ae68-4a26-a3d0-853d3c523c15@185.229.9.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=zMyJW8uYeZwurz4xCcnnPjYlCVP0nI5BDHp_0ZrxPjk&allowinsecure=1&type=tcp&headerType=none#🇷🇺%20Белые%20списки
