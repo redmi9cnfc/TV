@@ -3,7 +3,7 @@
 #announce: NoriVPN - лучший бесплатный VPN. Для чёрных списков использовать обычные сервера, а для белых списков использовать LTE сервера. #СВОБОДАИНТЕРНЕТУ
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:42443/?sni=multi.fresedvpn.site#🇱🇻%20Латвия%20(Самый%20быстрый)
-hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:39443/?sni=multi.fresedvpn.site#🇺🇸%20США%20(Нейронки)
-hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:36443/?sni=multi.fresedvpn.site#🇫🇮%20Финляндия%20(Простые%20блокировки)
+hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:53443/?sni=multi.fresedvpn.site&alpn=h3&insecure=0#🇱🇻%20Латвия%20(Самый%20быстрый)
+vless://9a1c673d-335f-46a7-8de0-c2cbb5cff56d@multi.fresedvpn.site:10080?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fget-yapic%2F0%2F0-0%2Fislands-200&host=api-maps.yandex.ru&mode=auto&sni=avatars.mds.yandex.net&fp=chrome&pbk=wOE-90oIB_MxyyV13xYM_t2xSdU9uFATZLhoNM9nLg4&sid=c48095d26872a418#🇺🇸%20США%20(Нейронки)
+vless://9a1c673d-335f-46a7-8de0-c2cbb5cff56d@multi.fresedvpn.site:20443?encryption=none&security=reality&type=tcp&headerType=none&sni=api-maps.yandex.ru&fp=chrome&pbk=nVKhs3dxigGSPF4V3VgvqDw0dgIpM9o6b9o-pfKpxXM&sid=b81c937da4b45562#🇫🇮%20Финляндия%20(Простые%20блокировки)
 vless://e9c6c758-3718-0006-9b04-76b046308b74@79.174.93.149:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=5post-gate.x5.ru&fp=firefox&pbk=8pexAJEIm7ZL48OkKjYWzVUjzlCcpkx1bv2O6ghUm2o&allowinsecure=1&type=tcp&headerType=none#🇷🇺%20Белые%20списки
