@@ -6,4 +6,4 @@
 hysteria2://MZebqSvv8Gn3RzgB3NZqHZZj7iYvA46m@multi.fresedvpn.site:53443/?sni=multi.fresedvpn.site&alpn=h3&insecure=0#🇱🇻%20Латвия%20(Самый%20быстрый)
 vless://9a1c673d-335f-46a7-8de0-c2cbb5cff56d@multi.fresedvpn.site:10080?encryption=none&security=reality&type=xhttp&headerType=none&path=%2Fget-yapic%2F0%2F0-0%2Fislands-200&host=api-maps.yandex.ru&mode=auto&sni=avatars.mds.yandex.net&fp=chrome&pbk=wOE-90oIB_MxyyV13xYM_t2xSdU9uFATZLhoNM9nLg4&sid=c48095d26872a418#🇺🇸%20США%20(Нейронки)
 vless://9a1c673d-335f-46a7-8de0-c2cbb5cff56d@multi.fresedvpn.site:20443?encryption=none&security=reality&type=tcp&headerType=none&sni=api-maps.yandex.ru&fp=chrome&pbk=nVKhs3dxigGSPF4V3VgvqDw0dgIpM9o6b9o-pfKpxXM&sid=b81c937da4b45562#🇫🇮%20Финляндия%20(Простые%20блокировки)
-vless://c9f6165c-2bbb-4dfe-975e-ff002cac971d@46.254.17.58:80?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=grpc#🇷🇺%20Белые%20списки
+hysteria2://22697d0d-e057-4b7c-b4da-c1945108ae4e@78.159.245.80:27015?security=tls&fm=%7B%7D&sni=mine.white-dns.cloud&allowinsecure=0#🇷🇺 %20Белые%20списки
